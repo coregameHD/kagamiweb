@@ -10,7 +10,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/kagami_logo.png',
   organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
 
@@ -41,22 +41,24 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'KagamiwebV2',
+        title: 'KagamiWeb V2',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Kagami Logo',
+          src: 'img/kagami_logo.png',
         },
         items: [
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Tutorial',
-          },
+          {to: '/visualnovel/preview', label: 'Visual Novel', position: 'left'},
+          {to: '/nihongo', label: 'Nihongo', position: 'left'},
           {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/about', label: 'About', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
+            position: 'right',
+          },
+          {
+            href: 'https://www.facebook.com/kagamitranslation',
+            label: 'Facebook',
             position: 'right',
           },
         ],
@@ -111,4 +113,26 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         darkTheme: darkCodeTheme,
       },
     }),
+    plugins: [
+      [
+        '@docusaurus/plugin-content-docs',
+        {
+          id: 'visualnovel',
+          path: 'visualnovel',
+          routeBasePath: 'visualnovel',
+          sidebarPath: require.resolve('./sidebars.js'),
+          // ... other options
+        },
+      ],
+      [
+        '@docusaurus/plugin-content-docs',
+        {
+          id: 'nihongo',
+          path: 'nihongo',
+          routeBasePath: 'nihongo',
+          sidebarPath: require.resolve('./sidebars.js'),
+          // ... other options
+        },
+      ],
+    ],
 });
