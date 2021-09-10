@@ -46,6 +46,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           alt: 'Kagami Logo',
           src: 'img/kagami_logo.png',
         },
+        hideOnScroll: true,
         items: [
           {to: '/visualnovel/preview', label: 'Visual Novel', position: 'left'},
           {to: '/nihongo', label: 'Nihongo', position: 'left'},
@@ -59,6 +60,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           {
             href: 'https://www.facebook.com/kagamitranslation',
             label: 'Facebook',
+            position: 'right',
+          },
+          {
+            type: 'search',
             position: 'right',
           },
         ],
