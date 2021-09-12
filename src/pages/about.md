@@ -2,6 +2,11 @@
 title: About Markdown page example
 ---
 
-# Markdown page example
+# Who we are?
+พื้นที่เปิดกว้างเพื่อให้บทสนทนาอันลึกซึ้งเกิดขึ้นในสังคมไทย
 
-You don't need React to write simple standalone pages.
+# What we believe?
+การอยู่ร่วมกัน, ยอมรับความหลากหลาย, ร่วมสร้างบทสนทนาที่ดี
+
+# Mission
+เชื่อมโยงผู้คนหลากหลายแวดวงเข้าด้วยกัน รวมตัวให้เป็นปรากฏการณ์ทางสังคม ชวนตั้งคำถามกับสิ่งเก่า กระตุ้นให้เกิดความคิดใหม่

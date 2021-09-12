@@ -5,7 +5,6 @@ title: 'PARQUET'
 ![Aibeya2](/img/visualnovel/preview/aibeya2.jpeg)
 
 ช่วงปลายเดือนกรกฎาคมที่ผ่านมา Yuzusoft ได้เปิดตัวแบรนด์เกมใหม่ "Yuzusoft SOUR" โดยจะเป็นเกมแบบ All Ages (เล่นได้ทุกเพศทุกวัย)
-
 PARQUET เป็นเกมแรกสุดของ Yuzusoft SOUR โดยเวอร์ชั่นภาษาอังกฤษจะวางจำหน่ายบนร้านค้า Steam ในวันพรุ่งนี้ (27 สิงหาคม)
 
 ## รายละเอียด {#details}

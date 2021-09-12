@@ -2,7 +2,7 @@
 title: 'Ao no Kanata no Four Rhythm'
 ---
 
-![Aokana](https://aokana.net/new_top/aokana_top_sp.jpg)
+![Aokana](https://res.cloudinary.com/kagamiweb/image/upload/v1631428631/aokana_top_sp_ev4pfy.jpg)
 
 ## รายละเอียด {#details}
 
