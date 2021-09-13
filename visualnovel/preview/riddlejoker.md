@@ -2,7 +2,7 @@
 title: 'Riddle Joker'
 ---
 
-![Aibeya2](/img/visualnovel/preview/aibeya2.jpeg)
+![Riddle](https://res.cloudinary.com/kagamiweb/image/upload/v1631554800/visualnovel/preview/riddle.jpg)
 
 ## รายละเอียด {#details}
 
@@ -21,17 +21,24 @@ title: 'Riddle Joker'
 ## เนื้อเรื่องย่อ {#synopsis}
 
 ในอดีต "พลังจิต (ESP)" ถือเป็นพลังวิเศษที่น่าพิศวง แต่เนื่องจากมีการค้นพบอนุภาคของพลังวิเศษในช่วงปลายศตวรรษที่ 20 ปัจจุบันจึงเปลี่ยนไปเรียกพลังวิเศษนั้นว่า "พลังแอสทรัล" และผู้ใช้พลังจิตถูกเปลี่ยนไปเรียกว่า "ผู้ใช้แอสทรัล"
+
 [อาริฮาระ ซาโตรุ] เป็นคนธรรมดาสามัญที่ใช้ชีวิตอยู่ในโลกดังกล่าว
 แต่ว่านั่นเป็นเพียงภาพลักษณ์จอมปลอม
 แท้จริงแล้ว [อาริฮาระ ซาโตรุ] เป็นสมาชิกเอเจนต์ขององค์กรลับที่ใช้พลังแอสทรัล
+
 เขาได้รับคำสั่งใหม่
 "จงแฝงตัวเข้าไปในโรงเรียนของเหล่าผู้ใช้แอสทรัลในฐานะนักเรียนซะ!"
+
 เขาแฝงตัวเข้าไปในโรงเรียนพร้อมกับน้องสาวของเขา [อาริฮาระ นานามิ] พร้อมทั้งปรับตัวเข้ากับชั้นเรียนได้สำเร็จโดยไม่มีปัญหา พวกเขาสนิทกับเพื่อนร่วมชั้น [มิตสึคาสะ อายาเสะ] [นิโจอิน ฮาซึกิ] และรุ่นพี่ [ชิคิเบะ มายุ]
+
 หน้าที่ภารกิจราบรื่นเป็นอย่างดี ไม่มีผู้ใดสงสัย
 แต่แล้ว เขาต้องมาพัวพันกับเหตุการณ์ที่ไม่คาดคิด 
+
 [มิตสึคาสะ อายาเสะ] รู้ตัวตนที่แท้จริงของเขาเสียแล้ว!
 ในขณะเดียวกัน เขาก็ได้รู้ความลับที่เธอปิดบังไว้เช่นกัน...
+
 "หน้าอกของเธอเสริมแพ็ดดันทรงไว้!"
+
 เหล่าหนุ่มสาวที่ล่วงรู้ความลับที่ไม่อยากบอกคนอื่นของกันและกัน
 การพบพานในครั้งนั้น ส่งผลอย่างยิ่งต่อโชคชะตาของพวกเขาทั้งสองคน
 
@@ -39,8 +46,10 @@ title: 'Riddle Joker'
 
 ### 1. Mitsukasa Ayase
 
-Mitsukasa Ayase
-มิตสึคาสะ อายาเสะ
+![Riddle1](https://res.cloudinary.com/kagamiweb/image/upload/v1631554799/visualnovel/preview/riddle_character1.jpg)
+
+Mitsukasa Ayase  
+มิตสึคาสะ อายาเสะ  
 三司 あやせ
 
 CV: Sawasawa Sawa
@@ -54,8 +63,10 @@ CV: Sawasawa Sawa
 
 ### 2. Arihara Nanami
 
-Arihara Nanami
-อาริฮาระ นานามิ
+![Riddle2](https://res.cloudinary.com/kagamiweb/image/upload/v1631554799/visualnovel/preview/riddle_character2.jpg)
+
+Arihara Nanami  
+อาริฮาระ นานามิ  
 在原 七海
 
 CV: Kusuhara Yui
@@ -72,8 +83,10 @@ CV: Kusuhara Yui
 
 ### 3. Shikibe Mayu
 
-Shikibe Mayu
-ชิคิเบะ มายุ
+![Riddle3](https://res.cloudinary.com/kagamiweb/image/upload/v1631554799/visualnovel/preview/riddle_character3.jpg)
+
+Shikibe Mayu  
+ชิคิเบะ มายุ  
 式部 茉優
 
 CV: Nishizono Sumika
@@ -91,8 +104,10 @@ CV: Nishizono Sumika
 
 ### 4. Nijouin Hazuki
 
-Nijouin Hazuki
-นิโจอิน ฮาซึกิ
+![Riddle4](https://res.cloudinary.com/kagamiweb/image/upload/v1631554799/visualnovel/preview/riddle_character4.jpg)
+
+Nijouin Hazuki  
+นิโจอิน ฮาซึกิ  
 二条院 羽月
 
 CV: Haruka Sora
@@ -110,8 +125,10 @@ CV: Haruka Sora
 
 ### 5. Mibu Chisaki
 
-Mibu Chisaki
-มิบุ จิซากิ
+![Riddle5](https://res.cloudinary.com/kagamiweb/image/upload/v1631554799/visualnovel/preview/riddle_character5.jpg)
+
+Mibu Chisaki  
+มิบุ จิซากิ  
 壬生 千咲
 
 CV: Kanako
