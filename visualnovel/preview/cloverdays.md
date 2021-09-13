@@ -3,7 +3,7 @@ id: 'cloverdays'
 title: "Clover Day's"
 ---
 
-![Clover Day's](/img/visualnovel/preview/cloverdays.jpeg)
+![Clover Day's](https://res.cloudinary.com/kagamiweb/image/upload/v1631541042/visualnovel/preview/cloverdays.jpg)
 
 Clover Day's เป็นเกมแนว Slice of life และ Love comedy ที่กล่าวถึงเนื้อเรื่องของฝาแฝด 3 คู่ รวมทั้งหมด 6 คน โดยจะเน้นไปที่สัญญาในวัยเด็ก สายสัมพันธ์ระหว่างครอบครัว การฝ่าฟันอุปสรรคต่างๆ และความหมายของการเติบโตเป็นผู้ใหญ่
 
@@ -52,5 +52,5 @@ Clover Day's เป็นเกมแนว Slice of life และ Love comedy 
 
 ---
 :::note Source - Kagami Translation
-https://www.facebook.com/kagamitranslation/posts/3639144649458412
+https://www.facebook.com/kagamitranslation/posts/3115355545170661
 :::

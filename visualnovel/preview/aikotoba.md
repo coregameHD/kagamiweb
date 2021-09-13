@@ -3,7 +3,7 @@ id: 'aikotoba'
 title: 'Aikotoba'
 ---
 
-![Aikotoba](/img/visualnovel/preview/aikotoba.jpeg)
+![Aikotoba Cover](https://res.cloudinary.com/kagamiweb/image/upload/v1631537740/visualnovel/preview/aikotoba.jpg)
 
 ## รายละเอียด {#details}
 
@@ -18,6 +18,8 @@ title: 'Aikotoba'
 | **VNDB** | https://vndb.org/v26537 |
 
 ## เนื้อเรื่องย่อ {#synopsis}
+
+![Aikotoba Story](https://res.cloudinary.com/kagamiweb/image/upload/v1631537792/visualnovel/preview/aikotoba_story.jpg)
 
 > ‍‍‍‍‍‍‍‍‍‍‍‍รักเธอสุดหัวใจ แต่มิอาจกล่าวออกไป
 > ‍‍‍‍‍‍สิ่งที่ฉันบอกได้มีเพียงแค่ "ถ้อยคำลับ ถ้อยความรัก"
@@ -50,6 +52,8 @@ title: 'Aikotoba'
 
 ## จุดเด่นของเกม {#point}
 
+![Aikotoba Point](https://res.cloudinary.com/kagamiweb/image/upload/v1631537816/visualnovel/preview/aikotoba_point.jpg)
+
 1. ความรักต้องห้ามระหว่างพี่ชายกับน้องสาว
 
 ตัวละครหลักคือ พี่ชายกับน้องสาว
@@ -72,8 +76,10 @@ title: 'Aikotoba'
 
 ## แนะนำตัวละคร {#character}
 
-Kinoshita Uzuki
-木下 卯月
+![Aikotoba Character](https://res.cloudinary.com/kagamiweb/image/upload/v1631537826/visualnovel/preview/aikotoba_character.jpg)
+
+Kinoshita Uzuki  
+木下 卯月  
 คิโนชิตะ อุซึกิ
 
 CV. Mihane Yuuki

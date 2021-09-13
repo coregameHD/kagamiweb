@@ -3,7 +3,7 @@ id: 'aibeya2'
 title: 'Aibeya 2'
 ---
 
-![Aibeya2](/img/visualnovel/preview/aibeya2.jpeg)
+![Aibeya2](https://res.cloudinary.com/kagamiweb/image/upload/v1631537688/visualnovel/preview/aibeya2.jpg)
 
 ## รายละเอียด {#details}
 

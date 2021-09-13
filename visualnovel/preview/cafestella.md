@@ -2,13 +2,13 @@
 title: 'Cafe Stella to Shinigami no Chou'
 ---
 
-![Aibeya2](/img/visualnovel/preview/aibeya2.jpeg)
+![Cafestella](https://res.cloudinary.com/kagamiweb/image/upload/v1631539740/visualnovel/preview/cafestella.jpg)
 
 ## รายละเอียด {#details}
 
 > **Cafe Stella to Shinigami no Chou**  
-> **喫茶ステラと死神の蝶
-**
+> **Café Stella and the Reapers' Butterflies**  
+> **喫茶ステラと死神の蝶**
 
 | ผู้พัฒนา | Yuzusoft |
 | :---- | :---- |
@@ -21,29 +21,41 @@ title: 'Cafe Stella to Shinigami no Chou'
 ## เนื้อเรื่องย่อ {#synopsis}
 
 ทาคามิเนะ โคเซ ตัวเอกประจำเกมนี้ ใช้ชีวิตโรงเรียนอย่างเรื่อยเปื่อย
+
 วันหนึ่ง เขาประสบอุบัติเหตุที่ร้ายแรงถึงชีวิต
 แต่แล้ว กลับเกิดเหตุการณ์ประหลาดที่คาดไม่ถึง
+
 ทั้งๆ ที่ทาคามิเนะ โคเซควรจะตายไปแล้ว 
 แต่เขากลับลืมตาตื่นขึ้นมาอีกครั้ง
 ...แถมยังเป็นช่วงเช้าตรู่ของวันเกิดเหตุอีกด้วย
+
 เขาใช้ชีวิตซ้ำรอยเดิมอีกครั้งหนึ่งโดยที่ยังไม่รู้ถึงสาเหตุว่าทำไม
 สิ่งที่เขารู้เพียงแค่ มันไม่ใช่ฝันบอกลางหรือเดจาวู 
 เพราะเหตุการณ์ตลอดทั้งวันเหมือนกับวันนั้นไม่มีผิด 
+
 และแล้ว เขาก็ตายอีกครั้งหนึ่งโดยที่ยังจดจำความน่ากลัวของเหตุการณ์ดังกล่าวได้อยู่
+
 ทันใดนั้นเอง ชั่วขณะที่เกิดอุบัติเหตุร้ายแรง--
+
 เขาก็ได้พบกับ "ยมทูต" และ "แมวที่พูดภาษามนุษย์ได้"
 พร้อมกับคำเตือนที่ว่า...
+
 "เจ้ายังหลีกหนีความตายไม่พ้น"
+
 เพื่อหลีกเลี่ยงความตาย ทาคามิเนะ โคเฮจึงต้องช่วยเหลือยมทูตด้วยการทำงานที่ร้านกาแฟ (คาเฟ่)
+
 โลกย้อนเวลากลับ ทาคามิเนะ โคเซรอดพ้นจาก "ความตาย" ได้แล้ว
 แต่ยังหลีกเลี่ยงจากลิขิต "ความตาย" ที่กำลังจะเข้ามาเยือนไม่พ้น
+
 ทั้งหมดนี้คือเรื่องราวความรักของชายหนุ่มคนหนึ่งที่ท้าทายชะตากรรมของตนและโลกนี้... หรือเปล่านะ?
 
 ## ตัวละคร {#character}
 
 ### 1. Akizuki Kanna
 
-อาคิซึกิ คันนะ
+![Cafestella1](https://res.cloudinary.com/kagamiweb/image/upload/v1631540182/visualnovel/preview/cafestella_character1.jpg)
+
+อาคิซึกิ คันนะ  
 Akizuki Kanna
 
 CV. McLaren
@@ -58,7 +70,9 @@ CV. McLaren
 
 ### 2. Shiki Natsume
 
-ชิกิ นัตสึเมะ
+![Cafestella2](https://res.cloudinary.com/kagamiweb/image/upload/v1631540183/visualnovel/preview/cafestella_character2.jpg)
+
+ชิกิ นัตสึเมะ  
 Shiki Natsume
 
 CV. Kanako
@@ -71,7 +85,9 @@ CV. Kanako
 
 ### 3. Sumizome Nozomi
 
-ซุมิโซเมะ โนโซมิ
+![Cafestella3](https://res.cloudinary.com/kagamiweb/image/upload/v1631540184/visualnovel/preview/cafestella_character3.jpg)
+
+ซุมิโซเมะ โนโซมิ  
 Sumizome Nozomi
 
 CV. Uehara Aoi
@@ -88,7 +104,9 @@ CV. Uehara Aoi
 
 ### 4. Hiuchidani Mei
 
-ฮิอุจิดานิ เมอิ
+![Cafestella4](https://res.cloudinary.com/kagamiweb/image/upload/v1631540183/visualnovel/preview/cafestella_character4.jpg)
+
+ฮิอุจิดานิ เมอิ  
 Hiuchidani Mei
 
 CV. Neraiuchi Urara
@@ -103,7 +121,9 @@ CV. Neraiuchi Urara
 
 ### 5. Shioyama Suzune
 
-ชิโอะยามะ ซุซุเนะ
+![Cafestella5](https://res.cloudinary.com/kagamiweb/image/upload/v1631540182/visualnovel/preview/cafestella_character5.jpg)
+
+ชิโอะยามะ ซุซุเนะ  
 Shioyama Suzune
 
 CV. Kino Miki

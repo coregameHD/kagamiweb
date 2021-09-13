@@ -2,7 +2,7 @@
 title: 'Keiken Zero na Classmate Pi'
 ---
 
-![Aibeya2](/img/visualnovel/preview/aibeya2.jpeg)
+![Keikenzero](https://res.cloudinary.com/kagamiweb/image/upload/v1631543176/visualnovel/preview/keikenzero.jpg)
 
 วันนี้ผมจะมาแนะนำเกม Keiken Zero na Classmate Pi (経験ゼロなクラスメイトπ) เกมแนวเลิฟคอเมดี้สั้นๆ จากค่าย Prekano (แบรนด์ลูกของ Giga) ที่จะวางจำหน่ายในเดือนตุลาคมปีนี้
 

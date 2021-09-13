@@ -2,7 +2,7 @@
 title: 'Hokenshitsu no Sensei to Shabondama Chuudoku no Joshu'
 ---
 
-![Aibeya2](/img/visualnovel/preview/aibeya2.jpeg)
+![Hokejo](https://res.cloudinary.com/kagamiweb/image/upload/v1631541710/visualnovel/preview/hokejo.jpg)
 
 ## รายละเอียด {#details}
 

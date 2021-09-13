@@ -2,14 +2,13 @@
 title: 'Ao no Kanata no Four Rhythm'
 ---
 
-![Aokana](https://res.cloudinary.com/kagamiweb/image/upload/v1631428631/aokana_top_sp_ev4pfy.jpg)
+![Aokana](https://res.cloudinary.com/kagamiweb/image/upload/v1631539164/visualnovel/preview/aokana.jpg)
 
 ## รายละเอียด {#details}
 
 > **Ao no Kanata no Four Rhythm**  
 > **Aokana - Four Rhythms Across the Blue**  
-> **蒼の彼方のフォーリズム
-**
+> **蒼の彼方のフォーリズム**
 
 | ผู้พัฒนา | sprite |
 | :---- | :---- |
@@ -22,7 +21,7 @@ title: 'Ao no Kanata no Four Rhythm'
 
 ## เนื้อเรื่องย่อ {#synopsis}
 
-![Synopsis](https://scontent.fbkk12-4.fna.fbcdn.net/v/t1.6435-9/71345036_2637662566273297_1408744282336002048_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeHC5B3PbgyRb3M1BJ1zYLMtnuVZ8pWSlume5VnylZKW6aIwE4n4vaV8B4G5R_iTlOEDG-1oivQxyNry0T3hOkh3&_nc_ohc=ZjCPA8A42VMAX-oDoz2&_nc_ht=scontent.fbkk12-4.fna&oh=42a6f423777a6893c525ae667be931bd&oe=61615127)
+![Synopsis](https://res.cloudinary.com/kagamiweb/image/upload/v1631539164/visualnovel/preview/aokana_story.jpg)
 
 > ฉันคิดอยู่เสมอว่า  
 > บนท้องฟ้าที่แหงนมองเมื่อครั้งเยาว์วัยนั้น  
@@ -46,8 +45,10 @@ title: 'Ao no Kanata no Four Rhythm'
 
 ### 1. Kurashina Asuka
 
-Kurashina Asuka
-คุราชินะ อาสึกะ
+![Character1](https://res.cloudinary.com/kagamiweb/image/upload/v1631539164/visualnovel/preview/aokana_character1.jpg)
+
+Kurashina Asuka  
+คุราชินะ อาสึกะ  
 倉科 明日香
 
 “ถ้าเป็นของที่ชอบ ไม่มีใครตรงไปตรงมาเท่าฉันอีกแล้ว”
@@ -60,8 +61,10 @@ Kurashina Asuka
 
 ### 2. Tobisawa Misaki
 
-Tobisawa Misaki
-โทบิซาวะ มิซากิ
+![Character2](https://res.cloudinary.com/kagamiweb/image/upload/v1631539164/visualnovel/preview/aokana_character2.jpg)
+
+Tobisawa Misaki  
+โทบิซาวะ มิซากิ  
 鳶沢 みさき
 
 “ถ้าเป็นเรื่องกินล่ะก็ ฉันไม่มีทางแพ้!”
@@ -74,8 +77,10 @@ Tobisawa Misaki
 
 ### 3. Arisaka Mashiro
 
-Arisaka Mashiro
-อาริซากะ มาชิโระ
+![Character3](https://res.cloudinary.com/kagamiweb/image/upload/v1631539164/visualnovel/preview/aokana_character3.jpg)
+
+Arisaka Mashiro  
+อาริซากะ มาชิโระ  
 有坂 真白
 
 “ฉันนับถือรุ่นพี่มิซากิอย่างยิ่งค่ะ!”
@@ -88,8 +93,10 @@ Arisaka Mashiro
 
 ### 4. Ichinose Rika
 
-Ichinose Rika
-อิจิโนเสะ ริกะ
+![Character4](https://res.cloudinary.com/kagamiweb/image/upload/v1631539164/visualnovel/preview/aokana_character4.jpg)
+
+Ichinose Rika  
+อิจิโนเสะ ริกะ  
 市ノ瀬 莉佳
 
 “ต้องหนักแน่นเข้าไว้ค่ะ!”

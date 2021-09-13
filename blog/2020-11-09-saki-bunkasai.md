@@ -5,7 +5,7 @@ authors: coregameHD
 tags: [aokana]
 ---
 
-![Mashiro Yuudachi](https://res.cloudinary.com/kagamiweb/image/upload/v1631463910/blog/saki-bunkasai.jpg)
+![Mashiro Yuudachi](https://res.cloudinary.com/kagamiweb/image/upload/v1631463910/blog/aokana/saki-bunkasai.jpg)
 
 <!-- truncate -->
 

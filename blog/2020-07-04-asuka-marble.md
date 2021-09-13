@@ -5,7 +5,7 @@ authors: coregameHD
 tags: [aokana]
 ---
 
-![Asuka](https://res.cloudinary.com/kagamiweb/image/upload/v1631463910/blog/asuka-marble.jpg)
+![Asuka](https://res.cloudinary.com/kagamiweb/image/upload/v1631463910/blog/aokana/asuka-marble.jpg)
 
 <!-- truncate -->
 

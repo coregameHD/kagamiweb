@@ -5,7 +5,7 @@ authors: coregameHD
 tags: [aokana]
 ---
 
-![Mashiro Ajisai](https://res.cloudinary.com/kagamiweb/image/upload/v1631462937/blog/mashiro-ajisai.jpg)
+![Mashiro Ajisai](https://res.cloudinary.com/kagamiweb/image/upload/v1631462937/blog/aokana/mashiro-ajisai.jpg)
 
 <!-- truncate -->
 

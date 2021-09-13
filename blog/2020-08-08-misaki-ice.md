@@ -5,7 +5,7 @@ authors: coregameHD
 tags: [aokana]
 ---
 
-![Misaki Ice](https://res.cloudinary.com/kagamiweb/image/upload/v1631463910/blog/misaki-ice.jpg)
+![Misaki Ice](https://res.cloudinary.com/kagamiweb/image/upload/v1631463910/blog/aokana/misaki-ice.jpg)
 
 <!-- truncate -->
 

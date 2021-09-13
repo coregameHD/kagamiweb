@@ -5,7 +5,7 @@ authors: coregameHD
 tags: [aokana]
 ---
 
-![Misaki Halloween](https://res.cloudinary.com/kagamiweb/image/upload/v1631463910/blog/misaki-halloween.jpg)
+![Misaki Halloween](https://res.cloudinary.com/kagamiweb/image/upload/v1631463910/blog/aokana/misaki-halloween.jpg)
 
 <!-- truncate -->
 

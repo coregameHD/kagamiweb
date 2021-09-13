@@ -5,7 +5,7 @@ authors: coregameHD
 tags: [aokana]
 ---
 
-![Rika](https://res.cloudinary.com/kagamiweb/image/upload/v1631463910/blog/rika-yukata.jpg)
+![Rika](https://res.cloudinary.com/kagamiweb/image/upload/v1631463910/blog/aokana/rika-yukata.jpg)
 
 <!-- truncate -->
 

@@ -5,7 +5,7 @@ authors: coregameHD
 tags: [aokana]
 ---
 
-![Mashiro Yuudachi](https://res.cloudinary.com/kagamiweb/image/upload/v1631463910/blog/mashiro-yuudachi.jpg)
+![Mashiro Yuudachi](https://res.cloudinary.com/kagamiweb/image/upload/v1631463910/blog/aokana/mashiro-yuudachi.jpg)
 
 <!-- truncate -->
 

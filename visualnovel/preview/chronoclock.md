@@ -2,13 +2,12 @@
 title: 'ChronoClock'
 ---
 
-![Aibeya2](/img/visualnovel/preview/aibeya2.jpeg)
+![Chronoclock](https://res.cloudinary.com/kagamiweb/image/upload/v1631540819/visualnovel/preview/chronoclock.jpg)
 
 ## รายละเอียด {#details}
 
 > **ChronoClock**  
-> **クロノクロック
-**
+> **クロノクロック**
 
 | ผู้พัฒนา | Purple Software |
 | :---- | :---- |
@@ -21,21 +20,28 @@ title: 'ChronoClock'
 
 ## เนื้อเรื่องย่อ {#synopsis}
 
-ซาวาตาริ เรย์ พระเอกของเรื่องที่เป็นทายาทบริษัทขนาดใหญ่ได้รับมรดกตกทอดจากคุณปู่... นาฬิกาพกที่มีพลังลึกลับสิงสถิตอยู่
+ซาวาตาริ เรย์ พระเอกของเรื่องที่เป็นทายาทบริษัทขนาดใหญ่ได้รับมรดกตกทอดจากคุณปู่... 
+นาฬิกาพกที่มีพลังลึกลับสิงสถิตอยู่
+
 พลังลึกลับที่ว่าก็คือ
 "ย้อนเวลากลับไปยังอดีตก่อนหน้าที่ไม่เกิน 5 นาทีได้"
+
 สามารถย้อนเวลาได้ไม่จำกัดครั้ง แลกกับการใช้งานที่ค่อนข้างลำบาก  แต่ถ้าใช้ดีๆ ก็อาจจะทำอะไรหลายๆ อย่างได้เหมือนกัน
+
 กอบกู้โลก...... ไม่ได้คิดอะไรใหญ่โตแบบนั้น
 แค่ใช้พลังวิเศษนี้ทำให้ชีวิตในแต่ละวันผ่านไปอย่างสนุกสนานก็พอแล้ว
 ยิ่งไปกว่านั้น เขายังใช้พลังนี้เพื่อให้ได้เด็กผู้หญิงน่ารักๆ มาเป็นแฟน
+
 เรื่องราวความรักอันปั่นป่วนในรั้วโรงเรียนของพระเอกที่มีความสามารถในการข้ามผ่านเวลาได้เริ่มขี้นแล้ว
 
 ## ตัวละคร {#character}
 
 ### 1. Jounouchi Makoto
 
-โจโนะอุจิ มาโคโตะ
-Jounouchi Makoto
+![Chronoclock1](https://res.cloudinary.com/kagamiweb/image/upload/v1631540818/visualnovel/preview/chronoclock_character1.jpg)
+
+โจโนะอุจิ มาโคโตะ  
+Jounouchi Makoto  
 城之内 真琴
 
 ส่วนสูง : 156 cm
@@ -58,8 +64,10 @@ Jounouchi Makoto
 
 ### 2. Sawatari Michiru
 
-ซาวาตาริ มิจิรุ
-Sawatari Michiru
+![Chronoclock2](https://res.cloudinary.com/kagamiweb/image/upload/v1631540817/visualnovel/preview/chronoclock_character2.jpg)
+
+ซาวาตาริ มิจิรุ  
+Sawatari Michiru  
 沢渡 満
 
 ส่วนสูง : 154 cm
@@ -81,8 +89,10 @@ Sawatari Michiru
 
 ### 3. Andou Misaki
 
-อันโด มิซากิ
-Andou Misaki
+![Chronoclock3](https://res.cloudinary.com/kagamiweb/image/upload/v1631540817/visualnovel/preview/chronoclock_character3.jpg)
+
+อันโด มิซากิ  
+Andou Misaki  
 安藤 美咲
 
 ส่วนสูง : 149 cm
@@ -102,8 +112,10 @@ Andou Misaki
 
 ### 4. D.D.
 
-ดีดี
-Ｄ・Ｄ (Dorothy Davenport)
+![Chronoclock4](https://res.cloudinary.com/kagamiweb/image/upload/v1631540817/visualnovel/preview/chronoclock_character4.jpg)
+
+ดีดี  
+Ｄ・Ｄ (Dorothy Davenport)  
 ドロシー・ダヴェンポート
 
 ส่วนสูง : 161 cm
@@ -125,8 +137,10 @@ Andou Misaki
 
 ### 5. Suzuki Miu
 
-ซุซุกิ มิอุ
-Suzuki Miu
+![Chronoclock5](https://res.cloudinary.com/kagamiweb/image/upload/v1631540817/visualnovel/preview/chronoclock_character5.jpg)
+
+ซุซุกิ มิอุ  
+Suzuki Miu  
 鈴木 みう
 
 ส่วนสูง : 152 cm
@@ -148,8 +162,10 @@ Suzuki Miu
 
 ### 6. Kuro
 
-คุโระ (โครนอส)
-Kuro (Chronos)
+![Chronoclock6](https://res.cloudinary.com/kagamiweb/image/upload/v1631540818/visualnovel/preview/chronoclock_character6.jpg)
+
+คุโระ (โครนอส)  
+Kuro (Chronos)  
 クロ
 
 "วิญญาณประจำนาฬิกา"
