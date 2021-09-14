@@ -18,13 +18,15 @@ Ren'ai Karichaimashita เป็นเกมใหม่ของค่าย AS
 ## รายละเอียด {#details}
 
 > **Ren'ai Karichaimashita**  
+> **Renai Karichaimashita: Koikari - Love For Hire**  
 > **恋愛、借りちゃいました**
 
 | ผู้พัฒนา | ASa Project |
 | :---- | :---- |
 | **วันวางจำหน่าย** | 26/07/2019 |
-| **ภาษา** | Japanese Only |
+| **ภาษา** | English / Japanese |
 | **Homepage** | http://www.asa-pro.com/koikari |
+| **Steam** | https://store.steampowered.com/app/1662850 |
 | **VNDB** | https://vndb.org/v25366 |
 
 ## เนื้อเรื่องย่อ {#synopsis}

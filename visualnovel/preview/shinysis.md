@@ -2,7 +2,7 @@
 title: 'Shiny Sisters'
 ---
 
-![Aibeya2](/img/visualnovel/preview/aibeya2.jpeg)
+![Shinysis](https://res.cloudinary.com/kagamiweb/image/upload/v1631600566/visualnovel/preview/shinysis.jpg)
 
 ## รายละเอียด {#details}
 
@@ -24,16 +24,22 @@ title: 'Shiny Sisters'
 
 เหล่าชายแต่งหญิงได้ทำความรู้จักกันในงานเลี้ยงกระชับมิตรของโรงเรียนหญิงล้วน
 พวกเขาแต่ละคนต่างคิดว่า...
+
 "มีแค่เราเท่านั้นที่เป็นผู้ชาย"
+
 ชิโจ รัน เห็นสภาพเช่นนั้นแล้วเกิดนึกสนุกขึ้นมา เธอจึงคิดแผนการให้เหล่าตัวเอกชายแต่งหญิงไปแสดงอีเวนท์ในฐานะไอดอลกรุ๊ป
+
 แม้ว่าทุกคนจะลำบากใจกับเหตุการณ์ที่ไม่ทันตั้งตัวนี้ แต่ด้วยสถานการณ์บางอย่าง ทุกคนก็ยอมรับหน้าที่นี้ในที่สุด
+
 ท้ายสุดแล้ว ทุกคนจะสามารถทำกิจกรรมไอดอลโดยไม่ให้ใครจับได้ว่าเป็นผู้ชายหรือไม่!?
 
-## ตัวละคร {#character}
+## คอนเซปต์ {#concept}
 
-Coming Soon...
+![Shinysis1](https://res.cloudinary.com/kagamiweb/image/upload/v1631600566/visualnovel/preview/shinysis_concept1.jpg)
+![Shinysis2](https://res.cloudinary.com/kagamiweb/image/upload/v1631600566/visualnovel/preview/shinysis_concept2.jpg)
+![Shinysis3](https://res.cloudinary.com/kagamiweb/image/upload/v1631600566/visualnovel/preview/shinysis_concept3.jpg)
 
 ---
 :::note Source - Kagami Translation
-https://www.facebook.com/kagamitranslation/posts/3639144649458412
+https://www.facebook.com/kagamitranslation/posts/2785478258158393
 :::

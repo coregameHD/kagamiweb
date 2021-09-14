@@ -66,5 +66,5 @@ CV: Hanazawa Sakura
 
 ---
 :::note Source - Kagami Translation
-https://www.facebook.com/kagamitranslation/posts/3639144649458412
+https://www.facebook.com/kagamitranslation/posts/2978613098844907
 :::

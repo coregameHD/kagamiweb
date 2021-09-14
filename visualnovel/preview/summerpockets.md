@@ -2,7 +2,7 @@
 title: 'Summer Pockets'
 ---
 
-![Aibeya2](/img/visualnovel/preview/aibeya2.jpeg)
+![Summer](https://res.cloudinary.com/kagamiweb/image/upload/v1631600912/visualnovel/preview/summer.jpg)
 
 ## รายละเอียด {#details}
 
@@ -22,19 +22,25 @@ title: 'Summer Pockets'
 > "มีเพียงแค่ความเจิดจ้าเท่านั้นที่ยังไม่ลืม"
 
 ทาคาฮาระ ไฮริ พระเอกของเรื่องได้ใช้เวลาช่วงปิดเทอมฤดูร้อนย้ายมาที่เกาะโทริชิโระ เพื่อจัดการทรัพย์สินของคุณยายที่เสียชีวิต
-ระหว่างที่ไฮริทำความสะอาดและสะสางข้าวของที่เต็มไปด้วยความทรงจำของคุณยาย เขารู้สึกสับสนในชีวิตใหม่ที่เกาะแห่งนี้ แต่หลังจากนั้นไม่นานก็เริ่มปรับตัวได้
-ได้พบกับเด็กสาวที่จ้องมองทะเล
-ได้พบกับเด็กสาวที่ตามหาผีเสื้อวิเศษ
-ได้พบกับเด็กสาวที่ตามหาความทรงจำและเรือโจรสลัด
-ได้พบกับเด็กสาวที่ใช้ชีวิตอยู่ในหอประภาคารที่เงียบสงัด
-ได้เพื่อนใหม่ที่เกาะแห่งนี้----
+ระหว่างที่ไฮริทำความสะอาดและสะสางข้าวของที่เต็มไปด้วยความทรงจำของคุณยาย 
+
+เขารู้สึกสับสนในชีวิตใหม่ที่เกาะแห่งนี้ แต่หลังจากนั้นไม่นานก็เริ่มปรับตัวได้
+
+ได้พบกับเด็กสาวที่จ้องมองทะเล  
+ได้พบกับเด็กสาวที่ตามหาผีเสื้อวิเศษ  
+ได้พบกับเด็กสาวที่ตามหาความทรงจำและเรือโจรสลัด  
+ได้พบกับเด็กสาวที่ใช้ชีวิตอยู่ในหอประภาคารที่เงียบสงัด  
+
+ได้เพื่อนใหม่ที่เกาะแห่งนี้----  
 รู้สึกว่าไม่อยากให้ปิดเทอมฤดูร้อนนี้จบลง
 
 ## ตัวละคร {#character}
 
 ### 1. Naruse Shiroha
 
-นารุเสะ ชิโรฮะ
+![Summer1](https://res.cloudinary.com/kagamiweb/image/upload/v1631600911/visualnovel/preview/summer_character1.jpg)
+
+นารุเสะ ชิโรฮะ  
 Naruse Shiroha | 鳴瀬 しろは
 
 “อย่ามายุ่งเกี่ยวกับฉันมากนักจะดีกว่านะ”
@@ -47,7 +53,9 @@ Naruse Shiroha | 鳴瀬 しろは
 
 ### 2. Sorakado Ao
 
-โซระคาโดะ อาโอะ
+![Summer2](https://res.cloudinary.com/kagamiweb/image/upload/v1631600912/visualnovel/preview/summer_character2.jpg)
+
+โซระคาโดะ อาโอะ  
 Sorakado Ao | 空門 蒼
 
 “ยังไงก็เถอะ ถ้าเห็นฉันนอนอยู่ ก็ปล่อยไว้แบบนั้นแหละ”
@@ -62,7 +70,9 @@ Sorakado Ao | 空門 蒼
 
 ### 3. Kushima Kamome
 
-คุชิมะ คาโมเมะ
+![Summer3](https://res.cloudinary.com/kagamiweb/image/upload/v1631600912/visualnovel/preview/summer_character3.jpg)
+
+คุชิมะ คาโมเมะ  
 Kushima Kamome | 久島 鴎
 
 “ฉันจะไป ไปสู่สถานที่ที่มีเรือโจรสลัดอีกครั้งหนึ่ง”
@@ -76,7 +86,9 @@ Kushima Kamome | 久島 鴎
 
 ### 4. Tsumugi Wenders
 
-สึมุงิ เวนเดอร์ส
+![Summer4](https://res.cloudinary.com/kagamiweb/image/upload/v1631600912/visualnovel/preview/summer_character4.jpg)
+
+สึมุงิ เวนเดอร์ส  
 Tsumugi Wenders | 紬 ヴェンダース
 
 “ตามหาของอยู่ค่ะ กำลังตามหาสิ่งที่อยากทำค่ะ”
@@ -90,7 +102,9 @@ Tsumugi Wenders | 紬 ヴェンダース
 
 ### 5. Nomura Miki
 
-โนมุระ มิกิ
+![Summer5](https://res.cloudinary.com/kagamiweb/image/upload/v1631600912/visualnovel/preview/summer_character5.jpg)
+
+โนมุระ มิกิ  
 Nomura Miki | 野村 美希
 
 “ตอบแทนบุญคุณอันน้อยนิดให้เกาะแห่งนี้”
@@ -103,7 +117,9 @@ Nomura Miki | 野村 美希
 
 ### 6. Mizuori Shizuku
 
-มิซึโอริ ชิซึคุ
+![Summer6](https://res.cloudinary.com/kagamiweb/image/upload/v1631600912/visualnovel/preview/summer_character6.jpg)
+
+มิซึโอริ ชิซึคุ  
 Mizuori Shizuku | 水織 静久
 
 “วันนี้ ฉันจะมาป่าวประกาศเรื่องหน้าอก”
@@ -115,9 +131,12 @@ Mizuori Shizuku | 水織 静久
 ไม่ใช่ว่าชอบเด็กผู้หญิงด้วยกัน เพียงแค่หลงใหลในหน้าอกเท่านั้น
 
 มักจะอยู่ที่หอประภาคารด้วยกันกับสึมุงิ
+
 ### 7. Katou Umi
 
-คาโต้ อุมิ
+![Summer7](https://res.cloudinary.com/kagamiweb/image/upload/v1631600912/visualnovel/preview/summer_character7.jpg)
+
+คาโต้ อุมิ  
 Katou Umi | 加藤 うみ
 
 “ไม่ร่าเริงเลยนะ กินข้าวผัดไหมคะ”
@@ -132,7 +151,9 @@ Katou Umi | 加藤 うみ
 
 ### 8. Kamiyama Shiki
 
-คามิยามะ ชิกิ
+![Summer8](https://res.cloudinary.com/kagamiweb/image/upload/v1631600912/visualnovel/preview/summer_character8.jpg)
+
+คามิยามะ ชิกิ  
 Kamiyama Shiki | 神山 識
 
 "นี่ รู้อะไรเกี่ยวกับยักษ์ที่อาศัยอยู่บนเกาะนี้บ้างไหม"
@@ -142,6 +163,30 @@ Kamiyama Shiki | 神山 識
 แม้จะบอกว่าไม่เคยมาที่เกาะแห่งนี้มาก่อน แต่กลับพบสถานที่ที่แม้กระทั่งชาวเกาะท้องถิ่นยังไม่รู้จัก เชี่ยวชาญเรื่องการเอาตัวรอด โดยเฉพาะเรื่องการตามหาสิ่งที่สามารถรับประทานได้
 
 ......แต่ทว่ากลับหมดสติหน้าคว่ำเพราะหิวจนท้องกิ่ว พอได้รับข้าวปั้น (โอมุซุบิ) ก็ทำตัวว่านอนสอนง่ายขึ้นมาทันที
+
+## ลำดับรูทแนะนำ {#routeorder}
+
+![Routeorder](https://res.cloudinary.com/kagamiweb/image/upload/v1631601576/visualnovel/preview/summer_routeorder.png)
+
+1. Ao
+2. Kamome
+3. Tsumugi
+4. Umi
+5. Shizuku
+6. Nomiki
+7. Shiroha
+8. Shiki
+
+**หมายเหตุ:**
+- สำหรับเกม Summer Pockets ภาคหลัก ลำดับรูทแนะนำคือ Ao > Kamome > Tsumugi > Shiroha
+- สามารถสลับตำแหน่งด้วยการเล่นรูท Shiroha เป็นลำดับแรกได้ทั้งภาคหลักและ Reflection Blue
+- สำหรับคนที่เคยเล่นเกม Summer Pockets ภาคหลักมาแล้ว สามารถเลือกลำดับรูทได้ตามใจชอบ
+- ควรเล่นรูท Ao ก่อน Nomiki และควรเล่นรูท Tsumugi ก่อน Shizuku
+- แนะนำว่าควรเก็บรูท Shiki ไว้ลำดับท้ายสุด
+
+**เพิ่มเติม:**   
+
+ไกด์ไลน์นี้เป็นความเห็นส่วนตัวของผม ไม่จำเป็นต้องทำตาม ชอบนางเอกคนไหนก็เล่นคนนั้นก่อนได้เลย ยกเว้นรูทชิกิที่ควรเก็บไว้เป็นลำดับท้ายสุด
 
 ---
 :::note Source - Kagami Translation

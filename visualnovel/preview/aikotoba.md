@@ -100,5 +100,5 @@ CV. Mihane Yuuki
 
 ---
 :::note Source - Kagami Translation
-https://www.facebook.com/kagamitranslation/posts/3639144649458412
+https://www.facebook.com/kagamitranslation/posts/2666728460033374
 :::
