@@ -4,7 +4,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (module.exports = {
-  title: 'KagamiWeb V2',
+  title: 'KagamiWeb',
   tagline: 'เชื่อมโยงผู้คนด้วยเกมวิชวลโนเวลและภาษาญี่ปุ่น',
   url: 'https://kagamiweb.com',
   baseUrl: '/',
@@ -52,7 +52,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'KagamiWeb V2',
+        title: 'KagamiWeb',
         logo: {
           alt: 'Kagami Logo',
           src: 'img/kagami_logo.png',
