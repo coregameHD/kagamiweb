@@ -5,14 +5,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (module.exports = {
   title: 'KagamiWeb V2',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  tagline: 'เชื่อมโยงผู้คนด้วยเกมวิชวลโนเวลและภาษาญี่ปุ่น',
+  url: 'https://kagamiweb.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/kagami_logo.png',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'coregameHD', // Usually your GitHub org/user name.
+  projectName: 'kagamiweb.com', // Usually your repo name.
 
   presets: [
     [
@@ -25,10 +25,21 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           editUrl: 'https://github.com/facebook/docusaurus/edit/main/website/',
         },
         blog: {
-          showReadingTime: true,
+          blogTitle: 'Kagami Blog',
+          blogDescription: 'เล่าบ่นก่นด่าประสาคนไอที',
+          showReadingTime: false,
+          blogSidebarTitle: 'All posts',
+          blogSidebarCount: 'ALL',
           // Please change this to your repo.
           editUrl:
             'https://github.com/facebook/docusaurus/edit/main/website/blog/',
+          feedOptions: {
+            type: 'all',
+            title: 'Kagami Blog',
+            description: 'เล่าบ่นก่นด่าประสาคนไอที',
+            copyright: `Copyright © ${new Date().getFullYear()} Kagami Blog`,
+            language: 'th-TH',
+          },
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -48,9 +59,17 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         },
         hideOnScroll: true,
         items: [
-          {to: '/visualnovel/preview', label: 'Visual Novel', position: 'left'},
+          {to: '/visualnovel', label: 'Visual Novel', position: 'left'},
           {to: '/nihongo', label: 'Nihongo', position: 'left'},
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            label: 'Blog',
+            position: 'left',
+            items: [
+              {label: 'Archive (คลังบทความ)', to: '/blog/archive'},
+              {label: 'Tags (ประเภท)', to: '/blog/tags'},
+              {label: 'Latest posts (บทความล่าสุด)', to: '/blog'},
+            ],
+          },
           {to: '/about', label: 'About', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
@@ -129,7 +148,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           src: '/img/logo.svg',
           href: 'https://kagamiweb.com/'
         },
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} kagamiweb.com | Built with ❤️ by coregameHD`,
       },
       prism: {
         theme: lightCodeTheme,
@@ -143,7 +162,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           id: 'visualnovel',
           path: 'visualnovel',
           routeBasePath: 'visualnovel',
-          sidebarPath: require.resolve('./sidebars.js'),
+          sidebarPath: require.resolve('./sidebarsVisualnovel.js'),
           // ... other options
         },
       ],
