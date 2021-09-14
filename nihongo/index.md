@@ -4,7 +4,7 @@ id: 'nihongo'
 slug: /
 ---
 
-# Tutorial Intro ภาษาญี่ปุ่น
+# รู้จักกับ Kagami Nihongo
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
