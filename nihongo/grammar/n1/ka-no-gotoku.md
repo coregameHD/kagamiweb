@@ -5,7 +5,7 @@ sidebar_label: '〜かの如く'
 tags: [n1]
 ---
 
-![ka no gotoku](https://res.cloudinary.com/kagamiweb/image/upload/v1631718085/nihongo/grammar/n1/towaie.png)
+![ka no gotoku](https://res.cloudinary.com/kagamiweb/image/upload/v1631718085/nihongo/grammar/n1/ka-no-gotoku.png)
 
 ## รายละเอียด {#details}
 

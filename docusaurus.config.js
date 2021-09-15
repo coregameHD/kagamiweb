@@ -163,7 +163,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           path: 'visualnovel',
           routeBasePath: 'visualnovel',
           sidebarPath: require.resolve('./sidebarsVisualnovel.js'),
-          // ... other options
         },
       ],
       [
@@ -172,8 +171,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           id: 'nihongo',
           path: 'nihongo',
           routeBasePath: 'nihongo',
-          sidebarPath: require.resolve('./sidebars.js'),
-          // ... other options
+          sidebarPath: require.resolve('./sidebarsNihongo.js'),
         },
       ],
     ],
