@@ -6,13 +6,13 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #ff6e40;
-  --ifm-color-primary-dark: #ff5620;
-  --ifm-color-primary-darker: #ff4a10;
-  --ifm-color-primary-darkest: #df3600;
-  --ifm-color-primary-light: #ff8660;
-  --ifm-color-primary-lighter: #ff9270;
-  --ifm-color-primary-lightest: #ffb7a0;
+  --ifm-color-primary: #ff4081;
+  --ifm-color-primary-dark: #ff206c;
+  --ifm-color-primary-darker: #ff1061;
+  --ifm-color-primary-darkest: #df004c;
+  --ifm-color-primary-light: #ff6096;
+  --ifm-color-primary-lighter: #ff70a1;
+  --ifm-color-primary-lightest: #ffa0c0;
   --ifm-code-font-size: 95%;
   --ifm-color-white: #ffffff;
 }
@@ -29,9 +29,9 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 }
 
 ::selection {
-  background: #ffccbc;
+  background: #ffe5ec;
 }
 
 ::-moz-selection {
-  background: #ffccbc;
+  background: #ffe5ec;
 }
