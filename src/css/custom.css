@@ -35,3 +35,37 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 ::-moz-selection {
   background: #ffe5ec;
 }
+
+
+/* Test */
+.hero__title {
+  color: inherit;
+}
+
+.markdown>h2 {
+  border-top: 1px solid #efefef;
+  padding-top: 15px;
+}
+
+.markdown p img {
+  max-width: 80%;
+  border: 1px solid #444444;
+  border-radius: 8px;
+}
+
+.markdown p em img {
+  border: none;
+}
+
+.contents ul > li {
+  font-size: 12px;
+}
+
+blockquote {
+  border-left-color: var(--ifm-color-primary);
+  background-color: #f7f7f7;
+}
+
+.menu .menu__list .menu__list {
+  border-left: 1px solid #eee;
+}
