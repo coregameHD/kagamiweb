@@ -152,6 +152,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         darkTheme: darkCodeTheme,
       },
     }),
+    stylesheets: [
+      'https://fonts.googleapis.com/css?family=Sen',
+    ],
     plugins: [
       [
         '@docusaurus/plugin-content-docs',

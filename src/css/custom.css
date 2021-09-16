@@ -67,6 +67,12 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
   border: none;
 }
 
+@media screen and (max-width: 996px) {
+  .markdown p img {
+    max-width: 100%;
+  }
+}
+
 .contents ul > li {
   font-size: 12px;
 }
@@ -77,4 +83,17 @@ blockquote {
 
 .menu .menu__list .menu__list {
   border-left: 1px solid #eee;
+}
+
+.navbar__title {
+  font-family: Sen;
+  font-size: 1.20rem;
+}
+
+.navbar__items {
+  font-family: Sen;
+}
+
+.navbar__brand img {
+  border-radius: 4px;
 }
