@@ -7,7 +7,10 @@
   text-align: center;
   position: relative;
   overflow: hidden;
-  background-image: url(/img/dacapo4_hiyori.webp);
+  background: linear-gradient(
+  rgba(0, 0, 0, 0.5), 
+  rgba(0, 0, 0, 0.5)),
+  url(/img/hiyori.webp);
   background-position: center;
   background-color: rgba(0,0,0,0.6);
   background-size: cover;

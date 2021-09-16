@@ -6,6 +6,9 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
 import HomepageFeatures from '../components/HomepageFeatures';
 
+// https://github.com/zowe/docs-site
+import ExploreContent from "../components/ExploreContent/ExploreContent";
+
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
@@ -41,11 +44,14 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`${siteConfig.title} | ${siteConfig.tagline}`}
+      title={`${siteConfig.title}`}
       description={`${siteConfig.tagline}`}>
       <HomepageHeader />
       <main>
         <HomepageFeatures />
+        <hr></hr>
+        <ExploreContent />
+        <hr></hr>
       </main>
     </Layout>
   );
