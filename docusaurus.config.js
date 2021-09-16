@@ -61,15 +61,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         items: [
           {to: '/visualnovel', label: 'Visual Novel', position: 'left'},
           {to: '/nihongo', label: 'Nihongo', position: 'left'},
-          {
-            label: 'Blog',
-            position: 'left',
-            items: [
-              {label: 'Archive (คลังบทความ)', to: '/blog/archive'},
-              {label: 'Tags (ประเภท)', to: '/blog/tags'},
-              {label: 'Latest posts (บทความล่าสุด)', to: '/blog'},
-            ],
-          },
+          {to: '/blog', label: 'Blog', position: 'left'},
           {to: '/about', label: 'About', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
@@ -77,9 +69,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             position: 'right',
           },
           {
-            href: 'https://www.facebook.com/kagamitranslation',
             label: 'Facebook',
             position: 'right',
+            items: [
+              {label: 'Kagami Translation', href: 'https://www.facebook.com/kagamitranslation'},
+              {label: 'Kagami Nihongo', href: 'https://www.facebook.com/kagaminihongo'},
+              {label: 'Kagami Blog', href: 'https://www.facebook.com/kagamiblog'},
+              {label: 'VisualNovelDiscussionTH', href: 'https://www.facebook.com/groups/VisualNovelDiscussionTH'},
+            ],
           },
           {
             type: 'search',

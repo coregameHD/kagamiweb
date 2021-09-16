@@ -36,6 +36,16 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
   background: #ffe5ec;
 }
 
+::selection[data-theme='dark'] {
+  background: #ffe5ec;
+  color: #000000;
+}
+
+::-moz-selection[data-theme='dark'] {
+  background: #ffe5ec;
+  color: #000000;
+}
+
 
 /* Test */
 .hero__title {
@@ -49,7 +59,7 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 
 .markdown p img {
   max-width: 80%;
-  border: 1px solid #444444;
+  border: 1px solid var(--ifm-hr-border-color);
   border-radius: 8px;
 }
 
@@ -63,7 +73,6 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 
 blockquote {
   border-left-color: var(--ifm-color-primary);
-  background-color: #f7f7f7;
 }
 
 .menu .menu__list .menu__list {
