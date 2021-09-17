@@ -5,7 +5,7 @@ module.exports = {
       type: 'category', 
       label: 'ไวยากรณ์ภาษาญี่ปุ่น', 
       collapsed: false, 
-      items: [
+      items: ['grammar/index',
         {
           type: 'category',
           label: 'ไวยากรณ์ N1',

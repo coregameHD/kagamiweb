@@ -1,11 +1,9 @@
 ---
 sidebar_position: 1
-id: 'visualnovel'
-title: "รู้จักกับเพจ Kagami Translation"
-slug: /
+title: "สารบัญ"
 ---
 
-# รู้จักกับเพจ Kagami Translation
+# สารบัญไวยากรณ์ภาษาญี่ปุ่น
 
 :::caution
 หน้านี้อยู่ระหว่างการปรับปรุง ขออภัยในความไม่สะดวก
