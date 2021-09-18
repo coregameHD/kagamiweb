@@ -26,6 +26,9 @@ tags: [n3]
 ## ประโยคตัวอย่าง {#sentence}
 
 :::tip 例文 - ประโยคตัวอย่าง
+
+![reibun](https://res.cloudinary.com/kagamiweb/image/upload/v1631950740/nihongo/grammar/n3/reibun/wake-ni-wa-ikanai.jpg)
+
 「生徒たちの模範であるべき我々生徒会役員が、遅刻するわけにはいかないからな」  
 seitotachi no mohan dearu beki wareware seitokai yakuin ga, chikoku suru wake ni wa ikanai kara na  
 พวกเราสมาชิกสภานักเรียนที่ควรเป็นต้นแบบให้เหล่านักเรียนคนอื่นๆ จะมาโรงเรียนสายไม่ได้ล่ะนะ

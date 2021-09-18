@@ -35,6 +35,9 @@ tags: [n2]
 รุ่นพี่สึบาสะที่มีอำนาจในการตัดสินใจเกี่ยวกับการประกวดจึงตั้งกฏกติกาขึ้นมาข้อหนึ่ง และบอกพวกพระเอกว่า...
 
 :::tip 例文 - ประโยคตัวอย่าง
+
+![reibun](https://res.cloudinary.com/kagamiweb/image/upload/v1631950415/nihongo/grammar/n2/reibun/ni-kakawarazu.jpg)
+
 「これからは、実績や学年に関わらず、規定をクリアしたチームは全て、選考会に参加出来るようになるわ」  
 korekara wa jisseki ya gakunen ni kakawarazu, kitei wo kuriashita chiimu wa subete, senkoukai ni sanka dekiru you ni naru wa  
 "หลังจากนี้ไม่เกี่ยวกับผลงานที่ผ่านมาหรือชั้นปี ทีมที่เคลียร์กฏกติกาได้สำเร็จจะสามารถเข้าร่วมงานประกวดทั้งหมดได้

@@ -31,6 +31,9 @@ tags: [n2]
 ## ประโยคตัวอย่าง {#sentence}
 
 :::tip 例文 - ประโยคตัวอย่าง
+
+![reibun](https://res.cloudinary.com/kagamiweb/image/upload/v1631950416/nihongo/grammar/n2/reibun/nominarazu.jpg)
+
 男子のみならず、女子までも。息をすることも忘れて彼女から視線を外せない。  
 danshi nominarazu, joshi made mo. iki wo suru koto mo wasurete kanojo kara shisen wo hazusenai.  
 ไม่เพียงแค่ผู้ชาย แม้กระทั่งผู้หญิงก็ยังมิอาจละสายตาไปจากเธอจนแทบลืมหายใจ

@@ -37,6 +37,9 @@ tags: [n2]
 ## ประโยคตัวอย่าง {#sentence}
 
 :::tip 例文 - ประโยคตัวอย่าง
+
+![reibun](https://res.cloudinary.com/kagamiweb/image/upload/v1631950416/nihongo/grammar/n2/reibun/ge.jpg)
+
 (บทบรรยาย)  
 碧織 (みおり) ちゃんは不満げな声で答えた。  
 มิโอริจังตอบคำถามด้วยน้ำเสียงที่ดูท่าทางไม่พอใจ

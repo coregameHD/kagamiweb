@@ -29,6 +29,9 @@ tags: [n1]
 ## ประโยคตัวอย่าง {#sentence}
 
 :::tip 例文 - ประโยคตัวอย่าง
+
+![reibun](https://res.cloudinary.com/kagamiweb/image/upload/v1631949866/nihongo/grammar/n1/reibun/n-bakari-ni.jpg)
+
 (บทบรรยาย)  
 俺のせいで笑われたと言わんばかりに、こちらを睨むナツメ  
 ore no sei de warawareta to iwanbakari ni, kochira wo niramu natsume  

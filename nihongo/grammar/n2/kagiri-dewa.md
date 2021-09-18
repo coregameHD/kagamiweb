@@ -32,6 +32,9 @@ tags: [n2]
 ## ประโยคตัวอย่าง {#sentence}
 
 :::tip 例文 - ประโยคตัวอย่าง
+
+![reibun](https://res.cloudinary.com/kagamiweb/image/upload/v1631950415/nihongo/grammar/n2/reibun/kagiri.jpg)
+
 「ワタシの知る限り、三司さんがあんな風に上の空になるなんて、滅多にないことだ」  
 watashi no shiru kagiri, mitsukasa-san ga annafuuni uwa no sora ni naru nante, metta ni nai koto da  
 "เท่าที่ฉันรู้ การที่คุณมิตสึคาสะใจลอยแบบนั้นเนี่ย แทบไม่เคยเกิดขึ้นเลยนะ"

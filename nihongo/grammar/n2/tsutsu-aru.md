@@ -30,6 +30,9 @@ tags: [n2]
 ## ประโยคตัวอย่าง {#sentence}
 
 :::tip 例文 - ประโยคตัวอย่าง
+
+![reibun](https://res.cloudinary.com/kagamiweb/image/upload/v1631950415/nihongo/grammar/n2/reibun/tsutsuaru.jpg)
+
 (บทบรรยาย)  
 観覧車に乗り込む杏鈴は、西に傾きつつある太陽を指差した。  
 kanransha ni norikomu anzu wa, nishi ni katamukitsutsu aru taiyou wo yubisashita.  

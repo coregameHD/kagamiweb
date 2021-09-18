@@ -33,6 +33,9 @@ tags: [n2]
 อามาเนะจึงกล่าวว่า...
 
 :::tip 例文 - ประโยคตัวอย่าง
+
+![reibun](https://res.cloudinary.com/kagamiweb/image/upload/v1631950415/nihongo/grammar/n2/reibun/mono.jpg)
+
 「『さん』はいらない。友達だもの」  
 'san' wa iranai. tomodachi da mono  
 "ไม่จำเป็นต้องเรียก 'ซัง' ต่อท้ายหรอก ก็เพราะเป็นเพื่อนกันนี่นา"

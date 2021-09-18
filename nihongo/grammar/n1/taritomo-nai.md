@@ -1,11 +1,11 @@
 ---
 id: 'taritomo-nai'
-title: '[ไวยากรณ์ N1] たりとも〜ない'
-sidebar_label: 'たりとも〜ない'
+title: '[ไวยากรณ์ N1] 〜たりとも〜ない'
+sidebar_label: '〜たりとも〜ない'
 tags: [n1]
 ---
 
-![taritomo nai](https://res.cloudinary.com/kagamiweb/image/upload/v1631718085/nihongo/grammar/n1/towaie.png)
+![taritomo nai](https://res.cloudinary.com/kagamiweb/image/upload/v1631718085/nihongo/grammar/n1/taritomo-nai.png)
 
 ## รายละเอียด {#details}
 
@@ -26,6 +26,9 @@ tags: [n1]
 ## ประโยคตัวอย่าง {#sentence}
 
 :::tip 例文 - ประโยคตัวอย่าง
+
+![reibun](https://res.cloudinary.com/kagamiweb/image/upload/v1631949866/nihongo/grammar/n1/reibun/taritomo-nai.jpg)
+
 俺も都に付き合って同じソシャゲをやっているが、一円たりとも使っていない無課金勢。  
 ore mo miyako ni tsukiatte onaji soshage wo yatteiru ga, ichien taritomo tsukatteinai mukakinzei  
 แม้ว่าผมจะเล่นเกมโซเชียลเกมเดียวกันกับมิยาโกะ แต่ผมเป็นสายฟรีที่ไม่เคยเติมเงินเลยแม้แต่เยนเดียว

@@ -29,6 +29,9 @@ tags: [n1]
 **สถานการณ์:** พระเอกออกมาข้างนอกตอนดึกตามลำพัง
 
 :::tip 例文 - ประโยคตัวอย่าง
+
+![reibun](https://res.cloudinary.com/kagamiweb/image/upload/v1631949867/nihongo/grammar/n1/reibun/towaie.jpg)
+
 「こんなところで何をしてるんですか？　春とはいえ、夜は冷えますよ？」  
 konna tokoro de nani wo shiterun desu ka? haru towaie, yoru wa hiemasu yo?  
 "มาทำอะไรในที่แบบนี้คะ ถึงจะเป็นฤดูใบไม้ผลิ แต่ตอนกลางคืนอากาศเย็นนะคะ"

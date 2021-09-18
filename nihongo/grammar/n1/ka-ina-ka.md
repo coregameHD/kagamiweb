@@ -30,7 +30,7 @@ tags: [n1]
 
 :::tip 例文 - ประโยคตัวอย่าง
 
-![ka-ina-ka](/img/n1-kainaka.png)
+![reibun](https://res.cloudinary.com/kagamiweb/image/upload/v1631949875/nihongo/grammar/n1/reibun/ka-ina-ka.png)
 
 (บทบรรยาย)  
 電話するか否かで、一時間くらい悩んだ。  

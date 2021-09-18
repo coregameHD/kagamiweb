@@ -26,6 +26,9 @@ tags: [n2]
 ## ประโยคตัวอย่าง {#sentence}
 
 :::tip 例文 - ประโยคตัวอย่าง
+
+![reibun](https://res.cloudinary.com/kagamiweb/image/upload/v1631950416/nihongo/grammar/n2/reibun/kaneru.jpg)
+
 「ダメです。まだ貴方が安全かどうか判断しかねますから」  
 dame desu. mada anata ga anzen kadouka handanshikanemasu kara  
 "ไม่ได้ค่ะ เพราะว่าฉันยังตัดสินไม่ได้ว่าคุณปลอดภัยหรือไม่"

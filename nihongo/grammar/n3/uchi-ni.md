@@ -29,6 +29,9 @@ tags: [n3]
 ## ประโยคตัวอย่าง {#sentence}
 
 :::tip 例文 - ประโยคตัวอย่าง
+
+![reibun](https://res.cloudinary.com/kagamiweb/image/upload/v1631950739/nihongo/grammar/n3/reibun/uchi-ni.jpg)
+
 「ま、そんなのはいいから、冷めないうちに食ってくれ」  
 ma, sonna no wa ii kara, samenai uchi ni kuttekure  
 ก็นะ เรื่องนั้นน่ะช่างมันเถอะ รีบๆ กินระหว่างที่(พิซซ่า)ยังไม่เย็นจืดชืดซะ

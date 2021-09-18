@@ -37,6 +37,9 @@ tags: [n3]
 พอชิซึกุได้ฟังเช่นนั้น เธอก็ค่อยๆ ตอบอย่างอ่อนโยนว่า…
 
 :::tip 例文 - ประโยคตัวอย่าง
+
+![reibun](https://res.cloudinary.com/kagamiweb/image/upload/v1631950748/nihongo/grammar/n3/reibun/ni-oite.png)
+
 静久「三谷くん……この現代社会において、常に裸というのはなかなか難しいことだと思うわ」  
 ชิซึกุ: "มิทานิคุง...... ฉันคิดว่าการเปลื้องผ้าตลอดเวลาเป็นเรื่องที่ค่อนข้างยากในสังคมโลกยุคปัจจุบันนะ"
 :::
@@ -50,7 +53,7 @@ tags: [n3]
 
 ![Exam](https://scontent.fbkk13-1.fna.fbcdn.net/v/t39.30808-6/239941965_401687997965501_7200199992389371021_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=dbeb18&_nc_ohc=9ICtw5iEX4AAX-QKXPv&_nc_ht=scontent.fbkk13-1.fna&oh=8dec2702d317ec3ab71062086a545bb3&oe=6148E4FC)
 
-เฉลย:
+**เฉลย:**
 - 33 - 1
 - 34 - 1
 - 35 - 2

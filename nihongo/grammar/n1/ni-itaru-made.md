@@ -26,6 +26,9 @@ tags: [n1]
 ## ประโยคตัวอย่าง {#sentence}
 
 :::tip 例文 - ประโยคตัวอย่าง
+
+![reibun](https://res.cloudinary.com/kagamiweb/image/upload/v1631949866/nihongo/grammar/n1/reibun/ni-itaru-made.jpg)
+
 「いいですか。男の子と女の子が結婚に至るまでには、さまざまなイベントをこなさなくてはならないのです」  
 ii desu ka. otoko no ko to onna no ko ga kekkon ni itaru made ni wa, samazama na ibento wo konasanakute wa naranai nodesu  
 ฟังให้ดีนะ กว่าผู้ชายและผู้หญิงจะมาแต่งงานกันได้ ต้องผ่านเหตุการณ์อะไรหลายๆ อย่าง

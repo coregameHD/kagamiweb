@@ -27,12 +27,12 @@ tags: [n2]
 ## ประโยคตัวอย่าง {#sentence}
 
 :::tip 例文 - ประโยคตัวอย่าง
-「わかってますよ。こういうの、子供っぽいってのは。  
-でも仕方ないじゃないですか、好きなんですから」  
-wakattemasu yo kou iu no kodomoppoi tte no wa  
-demo shikatanai janai desu ka suki nan desu kara  
-"รู้แล้วอยู่แล้วค่ะว่าแบบนี้มันดูเหมือนเด็ก  
-แต่ช่วยไม่ได้นี่คะ ก็เพราะว่าฉันชอบยังไงล่ะ"
+
+![reibun](https://res.cloudinary.com/kagamiweb/image/upload/v1631950415/nihongo/grammar/n2/reibun/ppoi.jpg)
+
+「わかってますよ。こういうの、子供っぽいってのは。でも仕方ないじゃないですか、好きなんですから」  
+wakattemasu yo kou iu no kodomoppoi tte no wa demo shikatanai janai desu ka suki nan desu kara  
+"รู้แล้วอยู่แล้วค่ะว่าแบบนี้มันดูเหมือนเด็ก แต่ช่วยไม่ได้นี่คะ ก็เพราะว่าฉันชอบยังไงล่ะ"
 :::
 
 子供っぽい เป็นการประเมินค่าในทางลบว่าการที่ชอบตุ๊กตานั้น "ดูเหมือนเด็ก"

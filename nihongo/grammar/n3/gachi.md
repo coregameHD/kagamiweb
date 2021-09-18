@@ -5,7 +5,7 @@ sidebar_label: '〜がち'
 tags: [n3]
 ---
 
-![gachi](https://res.cloudinary.com/kagamiweb/image/upload/v1631720717/nihongo/grammar/n3/uchi-ni.png)
+![gachi](https://res.cloudinary.com/kagamiweb/image/upload/v1631720714/nihongo/grammar/n3/gachi.png)
 
 ## รายละเอียด {#details}
 
@@ -37,6 +37,9 @@ tags: [n3]
 **สถานการณ์:** พระเอกกับโคโตเนะ (小都音) ผู้หญิงผมสีฟ้าในรูปพึ่งได้เป็นแฟนกันไม่นาน ทั้งสองคนนัดเดทกัน ซึ่งในรอบนี้โคโตเนะสวมชุดยูกาตะ เธอเขินอายเล็กน้อยเพราะเป็นครั้งแรกที่พระเอกได้เห็นสภาพของตัวเธอในชุดยูกาตะ
 
 :::tip 例文 - ประโยคตัวอย่าง
+
+![reibun](https://res.cloudinary.com/kagamiweb/image/upload/v1631950739/nihongo/grammar/n3/reibun/gachi.jpg)
+
 (บทบรรยายความคิดของพระเอก)  
 まだまだ遠慮がちな笑顔だけど、笑ってくれることが大切だ。  
 การที่เธอยิ้มให้ผมถือว่าเป็นเรื่องที่น่าเอ็นดู ถึงแม้ว่าจะเป็นรอยยิ้มที่ยังดูท่าทางเกรงใจก็ตาม

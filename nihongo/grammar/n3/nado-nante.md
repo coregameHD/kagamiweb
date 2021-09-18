@@ -39,6 +39,9 @@ tags: [n3]
 ## ประโยคตัวอย่าง {#sentence}
 
 :::tip 例文 - ประโยคตัวอย่าง
+
+![reibun](https://res.cloudinary.com/kagamiweb/image/upload/v1631950739/nihongo/grammar/n3/reibun/nante.jpg)
+
 「まったく。わたしを利用しようだなんて、１００年早いんだよ……フフッ」  
 "ให้ตายเถอะ คิดจะหลอกใช้ประโยชน์จากฉันอย่างงั้นเหรอ ยังเร็วไป 100 ปีนะจ๊ะ......หึหึ"
 :::

@@ -33,6 +33,9 @@ tags: [n3]
 ## ประโยคตัวอย่าง {#sentence}
 
 :::tip 例文 - ประโยคตัวอย่าง
+
+![reibun](https://res.cloudinary.com/kagamiweb/image/upload/v1631950739/nihongo/grammar/n3/reibun/kuse-ni.jpg)
+
 「……勝手に部屋に入ったくせになに言ってんだよ」  
 "......ทั้งๆ ที่เธอเป็นคนถือวิสาสะเข้ามาในห้องแท้ๆ จะมาบ่นอะไรกันเล่า"
 :::
