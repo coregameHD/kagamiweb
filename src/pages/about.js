@@ -10,13 +10,13 @@ const features = [
     description: (
       <>
         <p>
-          Kagami จัดทำขึ้นเพื่อเผยแพร่เกมวิชวลโนเวล/เอโรเกะ 
-          รวมถึงเป็นพื้นที่เปิดกว้างเพื่อพูดคุยสนทนาเกี่ยวกับเกมวิชวลโนเวล 
-          และภาษาญี่ปุ่น ประกอบด้วย
+          เกมวิชวลโนเวลและเอโรเกะเป็นสื่อเฉพาะกลุ่มที่น้อยคนจะได้รู้จักและสัมผัส 
+          คงจะดีไม่น้อยถ้ามีคนรู้จักและสนใจมากขึ้น
         </p>
-
         <p>
-          Kagami is created by visual novel lover, for visual novel lover.
+          ด้วยเหตุนี้ เราจึงพยายามเผยแพร่เกมวิชวลโนเวลและเอโรเกะ
+          ให้เป็นที่รู้จักมากขึ้นผ่านบทความแนะนำเกม เกร็ดความรู้ภาษาญี่ปุ่น
+          และสื่ออื่นๆ ที่น่าตื่นตาตื่นใจ
         </p>
       </>
     ),
@@ -25,11 +25,10 @@ const features = [
     title: "What we believe?",
     description: (
       <>
-        <p>การอยู่ร่วมกัน, ยอมรับความหลากหลาย, ร่วมสร้างบทสนทนาที่ดี</p>
+        <p>เราอยากให้คุณรู้จักเกมเอโรเกะมากกว่าคำว่าเกมลามก</p>
 
-        <p>
-          We believe in visual novel and eroge.
-        </p>
+        <p>เราเชื่อเช่นนั้น และอยากให้คุณได้สัมผัสไปด้วยกัน
+          มาทำความรู้จักกับเกมวิชวลโนเวลและเอโรเกะกันเถอะ!</p>
       </>
     ),
   },
@@ -38,12 +37,14 @@ const features = [
     description: (
       <>
         <p>
-          เราอยากเชื่อมโยงผู้คนเข้าด้วยกันด้วยเอโรเกะและวิชวลโนเวล
+        เชื่อมโยงผู้คนด้วยเกมวิชวลโนเวลและภาษาญี่ปุ่น
         </p>
 
-        <p>
-          Linked people together with visual novel and Japanese.
-        </p>
+        <ol>
+          <li>จัดทำแหล่งข้อมูลเกี่ยวกับเกมวิชวลโนเวลที่เป็นประโยชน์กับทุกคน</li>
+          <li>สร้างชุมชนและพื้นที่เปิดกว้างสำหรับสนทนาพูดคุย แลกเปลี่ยนความคิดเห็น</li>
+          <li>สนับสนุนวงการและผู้สรรสร้างผลงานทุกท่าน</li>
+        </ol>
       </>
     ),
   },
@@ -52,16 +53,13 @@ const features = [
     description: (
       <>
         <p>
-        ใช้นามแฝงบนโลกอินเทอร์เน็ตว่า <b>coregameHD</b> ชอบเกมวิชวลโนเวลมากเป็นพิเศษ
+        ใช้นามแฝงบนโลกอินเทอร์เน็ตว่า <b>coregameHD </b>  
+        เป็นโปรแกรมเมอร์ที่ชื่นชอบภาษาญี่ปุ่นและเกมวิชวลโนเวลเป็นชีวิตจิตใจ
         </p>
 
         <p>
-          อ่านประวัติเพิ่มเติมเกี่ยวกับผมได้ที่{" "}
+        ถ้าอยากรู้จักผมมากกว่านี้ อ่านเพิ่มเติมได้ที่บทความ{" "}
           <a href="blog/why-i-learn-japanese">เหตุผลที่ผมเรียนภาษาญี่ปุ่น และเกมที่เปลี่ยนชีวิตผมไปตลอดกาล</a>{" "}
-        </p>
-
-        <p>
-        My name is coregameHD. I love visual novel.
         </p>
       </>
     ),
@@ -70,22 +68,24 @@ const features = [
     title: "Stay Connected!",
     description: (
       <>
+      <p>
+        คุณสามารถติดตามได้ผ่านทางช่องทางต่อไปนี้
+        </p>
         <ol>
           <li>
-            <a href="https://www.facebook.com/kagamitranslation">Kagami Translation</a>
-            <p>Visual Novel / Eroge news and update site.</p>
+            <a href="https://www.facebook.com/kagamitranslation">เพจ Kagami Translation</a>
           </li>
           <li>
-            <a href="https://www.facebook.com/kagaminihongo">Kagami Nihongo</a>
-            <p>Learn Japanese from Anime and VN (for upper-intermediate level) JLPT N1-N3.</p>
+            <a href="https://www.facebook.com/kagaminihongo">เพจ Kagami Nihongo</a>
           </li>
           <li>
-            <a href="https://www.facebook.com/kagamiblog">Kagami Blog</a>
-            <p>Personal Blog from n00b programmer.</p>
+            <a href="https://www.facebook.com/kagamiblog">เพจ Kagami Blog</a>
           </li>
           <li>
             <a href="https://www.facebook.com/groups/VisualNovelDiscussionTH">สนทนาประสาคนเล่นเกม Visual Novel</a>
-            <p>Community for discussing visual novel, eroge, galge for Thai people.</p>
+          </li>
+          <li>
+            <a href="https://www.kagamiweb.com">เว็บไซต์ KagamiWeb.com</a>
           </li>
         </ol>
       </>
@@ -95,26 +95,17 @@ const features = [
     title: "Contact us",
     description: (
       <>
-        <p>คุณสามารถติดต่อเจ้าของเพจได้ในช่องทางต่อไปนี้:<br></br>
-        You can contact us from:</p>
+        <p>แอดมินเพจมีเพียงแค่ผมคนเดียวเท่านั้น สามารถติดต่อผมได้ในช่องทางต่อไปนี้</p>
         <ul>
           <li>
-            <a href="https://github.com/DefinitelyTyped">Facebook Inbox</a>
+            <a href="https://m.me/kagamitranslation">Inbox เพจเฟซบุ๊ค</a>
           </li>
           <li>
-            <a href="https://github.com/TypeStrong/ts-loader">DM me at Twitter</a>
-          </li>
-          <li>
-            <a href="https://github.com/TypeStrong/fork-ts-checker-webpack-plugin">
-              email me
-            </a>
+            <a href="https://twitter.com/coregameHD">DM Twitter</a>
           </li>
         </ul>
         <p>
-          I also wrote the{" "}
-          <a href="https://blog.johnnyreilly.com/2019/10/08/definitely-typed-movie">
-            history of Definitely Typed
-          </a>
+          Both English and Japanese is welcome.
         </p>
       </>
     ),
