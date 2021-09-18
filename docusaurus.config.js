@@ -64,11 +64,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           {to: '/blog', label: 'Blog', position: 'left'},
           {to: '/about', label: 'About', position: 'left'},
           {
-            href: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-            label: 'Rickroll',
-            position: 'right',
-          },
-          {
             label: 'Facebook',
             position: 'right',
             items: [
