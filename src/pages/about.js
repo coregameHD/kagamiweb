@@ -128,8 +128,8 @@ function About() {
   return (
     <>
       <Layout
-        title={`About ${siteConfig.title}`}
-        description={`What is ${siteConfig.title}`}
+        title={`About KagamiWeb.com`}
+        description={`เกี่ยวกับเว็บไซต์ KagamiWeb.com`}
       >
         <header className={clsx("hero hero--primary", styles.heroBanner)}>
           <div className="container">

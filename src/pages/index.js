@@ -44,7 +44,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`${siteConfig.title}`}
+      title={`KagamiWeb.com - ${siteConfig.tagline}`}
       description={`${siteConfig.tagline}`}>
       <HomepageHeader />
       <main>
