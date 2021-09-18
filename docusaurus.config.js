@@ -4,7 +4,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (module.exports = {
-  title: 'KagamiWeb',
+  title: 'Kagami',
   tagline: 'เชื่อมโยงผู้คนด้วยเกมวิชวลโนเวลและภาษาญี่ปุ่น',
   url: 'https://kagamiweb.com',
   baseUrl: '/',
@@ -52,7 +52,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'KagamiWeb',
+        title: 'KagamiWeb.com',
         logo: {
           alt: 'Kagami Logo',
           src: 'img/kagami_logo.png',
@@ -64,8 +64,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           {to: '/blog', label: 'Blog', position: 'left'},
           {to: '/about', label: 'About', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+            label: 'NSFW (18+)',
             position: 'right',
           },
           {
@@ -88,64 +88,73 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Visual Novel',
             items: [
               {
-                label: 'Tutorial',
+                label: 'วิชวลโนเวลคืออะไร',
                 to: '/docs/intro',
               },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'แนะนำเกมวิชวลโนเวล',
+                to: '/visualnovel/preview',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'อัพเดตข่าวสาร',
+                href: 'https://www.facebook.com/kagamitranslation',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'กลุ่ม Community',
+                href: 'https://www.facebook.com/groups/VisualNovelDiscussionTH',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Nihongo',
             items: [
               {
-                label: 'Blog',
+                label: 'ไวยากรณ์ภาษาญี่ปุ่น N1-N3',
+                to: '/nihongo/grammar/index',
+              },
+              {
+                label: 'เรียนภาษาญี่ปุ่น',
+                href: 'https://www.facebook.com/kagaminihongo',
+              },
+            ],
+          },
+          {
+            title: 'Blog',
+            items: [
+              {
+                label: 'บทความล่าสุด',
                 to: '/blog',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'คลังบทความ',
+                to: '/blog/archive',
+              },
+              {
+                label: 'แท็ก',
+                to: '/blog/tags',
               },
             ],
           },
           {
-            title: 'More2',
+            title: 'Others',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'เกี่ยวกับเว็บไซต์นี้',
+                to: '/about',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'เกี่ยวกับผู้เขียน',
+                to: '/blog/why-i-learn-japanese',
               },
             ],
           },
         ],
-        logo: {
-          alt: 'Kagami Logo',
-          src: '/img/logo.svg',
-          href: 'https://kagamiweb.com/'
-        },
-        copyright: `Copyright © ${new Date().getFullYear()} kagamiweb.com | Built with <b style="color:red;">♥</b> by <b><a href="/about">coregameHD</a></b>`,
+        copyright: `俺たちの間で交わす『夢』という単語も、持つ意味を変えつつある。<br>
+        Copyright © ${new Date().getFullYear()} kagamiweb.com | 
+        Built with <b style="color:#ff4081;">♥</b> by <b><a href="https://www.facebook.com/coregameHD">coregameHD</a></b>`,
       },
       prism: {
         theme: lightCodeTheme,

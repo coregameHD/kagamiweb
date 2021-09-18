@@ -15,14 +15,18 @@
   --ifm-color-primary-lightest: #ffa0c0;
   --ifm-code-font-size: 95%;
   --ifm-color-white: #ffffff;
+  --ifm-color-black: #444444;
+
+  --ifm-color-white--frontpage: #f5f6f7;
 
   --ifm-color-kagamitranslation: #ff6e40;
   --ifm-color-kagaminihongo: #ff4081;
   --ifm-color-kagamiblog: #7c4dff;
 
   --ifm-font-family-baijamjuree: 'Bai Jamjuree';
+  --ifm-font-family-updated-base-font: 'Bai Jamjuree', -apple-system, 'Segoe UI', 'Roboto', 'Arial', sans-serif;
 }
-/*--ifm-font-family-baijamjuree: Sukhumvit Set, Bai Jamjuree;*/
+/*--ifm-heading-color: #fd2fff;*/
 
 .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.1);
@@ -33,6 +37,10 @@
 
 html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
+}
+
+html[data-theme='dark'] {
+  --ifm-background-color: #121212;
 }
 
 ::selection {
@@ -55,18 +63,20 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
   color: #000000;
 }
 
-/* Test */
 .hero__title {
+  color: var(--ifm-color-white--frontpage);
   font-family: Sen;
   font-size: 300%;
   font-weight: 800;
   margin-bottom: 0px;
+  text-shadow: #ff4081 1px 0 10px;
 }
-
+/*text-shadow: #FC0 1px 0 10px;*/
 .hero__subtitle {
-  color: white;
+  color: var(--ifm-color-white--frontpage);
   font-size: 140%;
   font-weight: 500;
+  text-shadow: #ff4081 1px 0 6px;
 }
 
 .markdown>h2 {
@@ -127,15 +137,22 @@ a.dropdown__link {
 .container h5,
 .container h6 {
   font-family: var(--ifm-font-family-baijamjuree);
-  color: #444444;
 }
 
 body {
   font-family: Bai Jamjuree;
   font-size: 120%;
-  color: #444444;
+
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 .menu__link {
+  font-size: 90%;
+}
+
+.footer__title, .footer__item, .footer__copyright {
+  font-family: Bai Jamjuree;
   font-size: 90%;
 }

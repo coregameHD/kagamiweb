@@ -6,37 +6,32 @@ import styles from "./styles.module.css";
 
 const firstDataRow = [
   {
-    title: "Get Started",
+    title: "วิชวลโนเวลคืออะไร",
     icon: "img/get_started-icon.png",
-    link: "stable/getting-started/overview",
+    link: "/docs/intro",
     description: (
       <>
-        Learn about Zowe™ architecture, components, and how to quickly get
-        started with Zowe. Read about what's new and changed in the Release
-        Notes, FAQs.
+        มาทำความรู้จักกับเกมวิชวลโนเวลกันเถอะ
       </>
     ),
   },
   {
-    title: "User Guide",
+    title: "แนะนำเกมวิชวลโนเวล",
     icon: "img/user_guide-icon.png",
-    link: "stable/user-guide/installandconfig",
+    link: "/visualnovel/preview",
     description: (
       <>
-        Find out how to install and configure Zowe. Learn about how to use Zowe
-        components, including Zowe Application Framework, API Mediation Layer,
-        and Zowe CLI.
+        แนะนำเนื้อเรื่องของเกมวิชวลโนเวลที่น่าสนใจทั้งเก่าและใหม่
       </>
     ),
   },
   {
-    title: "Extend",
+    title: "ข่าวสารเกมวิชวลโนเวล",
     icon: "img/extend-icon.png",
-    link: "stable/extend/extend-zowe-overview",
+    link: "https://www.facebook.com/kagamitranslation",
     description: (
       <>
-        Learn about onboarding your products. Developers can follow tutorials
-        that teach how to build and extend Zowe components.
+        อัพเดตข่าวสารวงการวิชวลโนเวลและเอโรเกะ
       </>
     ),
   },
@@ -44,35 +39,32 @@ const firstDataRow = [
 
 const secondDataRow = [
   {
-    title: "Troubleshoot",
+    title: "เรียนไวยากรณ์ภาษาญี่ปุ่น",
     icon: "img/troubleshooting-icon.png",
-    link: "stable/troubleshoot/troubleshooting",
+    link: "/nihongo/grammar/index",
     description: (
       <>
-        Get troubleshooting tips to help you understand and effectively resolve
-        problems with Zowe.
+        สรุปไวยากรณ์ภาษาญี่ปุ่นระดับ N1-N3 ที่ปรากฎในเกมวิชวลโนเวล
       </>
     ),
   },
   {
-    title: "Contribute",
+    title: "บล็อกส่วนตัว",
     icon: "img/contribute-icon.png",
-    link: "stable/contribute/contributing",
+    link: "/blog",
     description: (
       <>
-        Learn about how you can contribute to this documentation. Read about the
-        Zowe UI and code guidelines to help you contribute to Zowe.
+        บล็อกรีวิว บอกเล่าความรู้สึกเกี่ยวกับเกมวิชวลโนเวล อนิเมะ และเรื่องจิปาถะอื่นๆ
       </>
     ),
   },
   {
-    title: "References",
+    title: "เกี่ยวกับเว็บไซต์นี้",
     icon: "img/references-icon.png",
-    link: "stable/appendix/zowe-cli-command-reference",
+    link: "/about",
     description: (
       <>
-        Get a list of reference materials to help you use Zowe, including the
-        Zowe command line reference, API reference, TPSR, and more.
+        Kagami คืออะไร ทำเว็บไซต์นี้เพื่ออะไร และคนที่อยู่เบื้องหลังคือใคร
       </>
     ),
   },
@@ -95,14 +87,9 @@ function Feature({ title, link, icon, description }) {
       >
         <div>
           <div className={clsx(styles.titles)}>
-            <h4>{title}</h4>
+            <h2>{title}</h2>
             <p>{description}</p>
           </div>
-          <img
-            alt="Download icon"
-            style={{ height: "70px", width: "70px" }}
-            src={useBaseUrl(icon)}
-          />
         </div>
       </Link>
     </div>
@@ -116,7 +103,7 @@ function Features() {
         <section className={clsx("home-container", styles.features)}>
           <div className={clsx("row margin-horiz--lg")}>
             <div className={clsx("col col--2")}>
-              <h3 className="container-h3">Explore content</h3>
+              <h2 className="container-h3">สำรวจเว็บไซต์นี้</h2>
             </div>
             <div className={clsx("col col--10")}>
               <div className={clsx("row")}>

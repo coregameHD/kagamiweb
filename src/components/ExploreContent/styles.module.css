@@ -27,15 +27,16 @@
   .card {
     flex-grow: 1;
     justify-content: center;
+    border-radius: 8px;
   }
   
   .titles {
-    height: 220px;
+    height: 160px;
   }
   
   @media screen and (max-width: 1200px) {
     .titles {
-      height: 260px;
+      height: 200px;
     }
   }
   

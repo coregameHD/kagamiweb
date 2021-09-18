@@ -1,48 +1,49 @@
 import React from 'react';
 import clsx from 'clsx';
 import styles from './HomepageFeatures.module.css';
+import useBaseUrl from "@docusaurus/useBaseUrl";
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Kagami Translation',
+    imageUrl: '/img/translation2.jpeg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        เพจอัพเดตข่าวสารและนำเสนอข้อมูลเกม Visual Novel / Eroge (เน้นกลุ่ม Bishoujo Game)
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Kagami Nihongo',
+    imageUrl: '/img/nihongo2.jpeg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        เพจสอนภาษาญี่ปุ่นเชิงลึก (ระดับ N1-N3) จากการใช้งานจริงในเกมวิชวลโนเวล/อนิเมะ
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    title: 'Kagami Blog',
+    imageUrl: '/img/blog2.jpeg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        บล็อกส่วนตัว เล่าบ่นก่นด่าประสาคนไอที บ่นนู่นบ่นนี่ไปทั่ว (อัพเดตตามความขยัน)
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({imageUrl, title, description}) {
+  const imgUrl = useBaseUrl(imageUrl);
   return (
     <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} alt={title} />
-      </div>
+      {imgUrl && (
+        <div className="text--center">
+          <img className={styles.featureImage} src={imgUrl} alt={title} />
+        </div>
+      )}
       <div className="text--center padding-horiz--md">
-        <h3>{title}</h3>
+        <h2>{title}</h2>
         <p>{description}</p>
       </div>
     </div>
