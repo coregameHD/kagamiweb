@@ -6,7 +6,7 @@ import useBaseUrl from "@docusaurus/useBaseUrl";
 const FeatureList = [
   {
     title: 'Kagami Translation',
-    imageUrl: '/img/translation2.jpeg',
+    imageUrl: '/img/logo_kagamitranslation.jpeg',
     description: (
       <>
         เพจอัพเดตข่าวสารและนำเสนอข้อมูลเกม Visual Novel / Eroge (เน้นกลุ่ม Bishoujo Game)
@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Kagami Nihongo',
-    imageUrl: '/img/nihongo2.jpeg',
+    imageUrl: '/img/logo_kagaminihongo.jpeg',
     description: (
       <>
         เพจสอนภาษาญี่ปุ่นเชิงลึก (ระดับ N1-N3) จากการใช้งานจริงในเกมวิชวลโนเวล/อนิเมะ
@@ -24,7 +24,7 @@ const FeatureList = [
   },
   {
     title: 'Kagami Blog',
-    imageUrl: '/img/blog2.jpeg',
+    imageUrl: '/img/logo_kagamiblog.jpeg',
     description: (
       <>
         บล็อกส่วนตัว เล่าบ่นก่นด่าประสาคนไอที บ่นนู่นบ่นนี่ไปทั่ว (อัพเดตตามความขยัน)

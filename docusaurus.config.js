@@ -10,7 +10,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/kagami_logo.png',
+  favicon: 'img/logo_kagamiweb.png',
   organizationName: 'coregameHD', // Usually your GitHub org/user name.
   projectName: 'kagamiweb.com', // Usually your repo name.
 
@@ -55,7 +55,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         title: 'KagamiWeb.com',
         logo: {
           alt: 'Kagami Logo',
-          src: 'img/kagami_logo.png',
+          src: 'img/logo_kagamiweb.png',
         },
         hideOnScroll: true,
         items: [
@@ -155,6 +155,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      image: 'img/og_image.png',
     }),
     stylesheets: [
       'https://fonts.googleapis.com/css?family=Sen|Bai+Jamjuree',
