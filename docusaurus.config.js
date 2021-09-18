@@ -145,7 +145,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           src: '/img/logo.svg',
           href: 'https://kagamiweb.com/'
         },
-        copyright: `Copyright © ${new Date().getFullYear()} kagamiweb.com | Built with ❤️ by coregameHD`,
+        copyright: `Copyright © ${new Date().getFullYear()} kagamiweb.com | Built with <b style="color:red;">♥</b> by <b><a href="/about">coregameHD</a></b>`,
       },
       prism: {
         theme: lightCodeTheme,
@@ -153,7 +153,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
       },
     }),
     stylesheets: [
-      'https://fonts.googleapis.com/css?family=Sen',
+      'https://fonts.googleapis.com/css?family=Sen|Bai+Jamjuree',
     ],
     plugins: [
       [
