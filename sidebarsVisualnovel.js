@@ -6,7 +6,7 @@ module.exports = {
       label: 'แนะนำเกม Visual Novel', 
       collapsed: false, 
       items: [
-        'preview/preview',
+        'preview/index',
         'preview/aibeya2',
         'preview/aikotoba',
         'preview/amachoco',
