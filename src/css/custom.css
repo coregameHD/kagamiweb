@@ -16,6 +16,7 @@
   --ifm-code-font-size: 95%;
   --ifm-color-white: #ffffff;
   --ifm-color-black: #444444;
+  --ifm-footer-background-color: #242526;
 
   --ifm-color-white--frontpage: #f5f6f7;
 
@@ -159,4 +160,12 @@ body {
   color: var(--ifm-color-white--frontpage);
   font-size: 140%;
   font-weight: 500;
+}
+
+.footer {
+  background-color: var(--ifm-footer-background-color);
+}
+
+.footer--dark {
+  --ifm-footer-background-color: #242526;
 }

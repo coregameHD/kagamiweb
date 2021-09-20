@@ -1,5 +1,6 @@
 :root {
   --ifm-background-section-color: #f2f2f2;
+  --ifm-background-section-dark: #242526;
 }
   
 html[data-theme="light"] .card {
@@ -25,18 +26,26 @@ html[data-theme="dark"] .card {
 }
 
 .card {
-  flex-grow: 1;
+  flex-grow: 0;
   justify-content: center;
   border-radius: 8px;
 }
 
 .titles {
-  height: 160px;
+  height: 200px;
+}
+
+h2, .container-h2 {
+  font-family: 'Bai Jamjuree';
 }
 
 @media screen and (max-width: 1200px) {
+  #features {
+    padding: 3rem 1rem;
+  }
+
   .titles {
-    height: 200px;
+    height: 180px;
   }
 }
 
@@ -51,18 +60,3 @@ html[data-theme="dark"] .card {
     position: inherit !important;
   }
 }
-
-@media screen and (max-width: 1200px) {
-  #features {
-    padding: 3rem 1rem;
-  }
-}
-
-.container-h2 {
-  font-family: 'Bai Jamjuree';
-}
-
-h2 {
-  font-family: 'Bai Jamjuree';
-}
-

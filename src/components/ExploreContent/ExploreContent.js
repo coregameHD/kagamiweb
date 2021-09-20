@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import clsx from "clsx";
 import Link from "@docusaurus/Link";
 import useBaseUrl from "@docusaurus/useBaseUrl";
-import styles from "./styles.module.css";
+import styles from "./ExploreContent.module.css";
 
 const firstDataRow = [
   {
@@ -70,7 +70,7 @@ const secondDataRow = [
   },
 ];
 
-function Feature({ title, link, icon, description }) {
+function Feature({ title, link, description }) {
   const [hovered, setHovered] = useState(false);
   const toggleHover = () => setHovered(!hovered);
   return (
