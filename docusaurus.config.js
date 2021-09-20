@@ -59,8 +59,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         },
         hideOnScroll: true,
         items: [
-          {to: '/visualnovel', label: 'Visual Novel', position: 'left'},
-          {to: '/nihongo', label: 'Nihongo', position: 'left'},
+          {to: '/visualnovel/preview', label: 'Visual Novel', position: 'left'},
+          {to: '/nihongo/grammar', label: 'Nihongo', position: 'left'},
           {to: '/blog', label: 'Blog', position: 'left'},
           {to: '/about', label: 'About', position: 'left'},
           {

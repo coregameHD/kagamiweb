@@ -42,12 +42,12 @@ function Feature({imageUrl, title, link, description}) {
     <div className={clsx('col col--4')}>
       {imgUrl && (
         <div className="text--center">
-          <a href={link}><img className={styles.featureImage} src={imgUrl} alt={title} /></a>
+          <a href={link} target="_blank" rel="noopener noreferrer"><img className={styles.featureImage} src={imgUrl} alt={title} /></a>
         </div>
       )}
       <div className="text--center padding-horiz--md">
         <h2>{title}</h2>
-        <a href={link}>{link}</a>
+        <a href={link} target="_blank" rel="noopener noreferrer">{link}</a>
         <p>{description}</p>
       </div>
     </div>

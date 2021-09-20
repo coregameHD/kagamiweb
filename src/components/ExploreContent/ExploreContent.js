@@ -41,7 +41,7 @@ const secondDataRow = [
   {
     title: "เรียนไวยากรณ์ภาษาญี่ปุ่น",
     icon: "img/troubleshooting-icon.png",
-    link: "/nihongo/grammar/index",
+    link: "/nihongo/grammar",
     description: (
       <>
         สรุปไวยากรณ์ภาษาญี่ปุ่นระดับ N1-N3 ที่ปรากฎในเกมวิชวลโนเวล
