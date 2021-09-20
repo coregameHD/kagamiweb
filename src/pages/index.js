@@ -5,8 +5,6 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
 import HomepageFeatures from '../components/HomepageFeatures';
-
-// https://github.com/zowe/docs-site
 import ExploreContent from "../components/ExploreContent/ExploreContent";
 
 function HomepageHeader() {

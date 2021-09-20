@@ -47,6 +47,7 @@ module.exports = {
         'preview/pieces',
         'preview/relief',
         'preview/koikari',
+        'preview/koirowa',
         'preview/riddlejoker',
         'preview/sakukumo',
         'preview/sanobawitch',

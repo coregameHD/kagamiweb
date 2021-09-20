@@ -16,3 +16,7 @@
   object-fit: cover;
   border-radius: 50%;
 }
+
+.h2 {
+  margin-bottom: 0px;
+}

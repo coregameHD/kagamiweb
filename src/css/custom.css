@@ -53,16 +53,6 @@ html[data-theme='dark'] {
   color: #000000;
 }
 
-::selection[data-theme='dark'] {
-  background: #ffe5ec;
-  color: #000000;
-}
-
-::-moz-selection[data-theme='dark'] {
-  background: #ffe5ec;
-  color: #000000;
-}
-
 .hero__title {
   color: var(--ifm-color-white--frontpage);
   font-family: Sen;
@@ -155,4 +145,18 @@ body {
 .footer__title, .footer__item, .footer__copyright {
   font-family: Bai Jamjuree;
   font-size: 90%;
+}
+
+.about__title {
+  color: var(--ifm-color-white--frontpage);
+  font-family: Sen;
+  font-size: 300%;
+  font-weight: 800;
+  margin-bottom: 0px;
+}
+/*text-shadow: #FC0 1px 0 10px;*/
+.about__subtitle {
+  color: var(--ifm-color-white--frontpage);
+  font-size: 140%;
+  font-weight: 500;
 }

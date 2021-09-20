@@ -8,7 +8,7 @@ const firstDataRow = [
   {
     title: "วิชวลโนเวลคืออะไร",
     icon: "img/get_started-icon.png",
-    link: "/docs/intro",
+    link: "/visualnovel/preview",
     description: (
       <>
         มาทำความรู้จักกับเกมวิชวลโนเวลกันเถอะ
