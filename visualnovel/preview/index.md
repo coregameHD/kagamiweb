@@ -67,8 +67,6 @@ slug: /preview
 * [Riddle Joker](preview/riddlejoker)
 
 ## S
-* [Sora ni Kizanda Parallelogram](preview/parallelo)
-* [Shion to One Room -Kizuna Kirameku Koi Iroha SS-](preview/oneroom-shion)
 * [Sakura no Kumo * Scarlet no Koi](preview/sakukumo)
 * [Sanoba Witch](preview/sanobawitch)
 * [Secret Agent ~Kishi Gakuen no Shinobi Naru Mono~](preview/secretagent)
@@ -76,12 +74,14 @@ slug: /preview
 * [Senkou no Clarias](preview/senkura)
 * [Senren＊Banka](preview/senrenbanka)
 * [Shiny Sisters](preview/shinysis)
+* [Shion to One Room -Kizuna Kirameku Koi Iroha SS-](preview/oneroom-shion)
+* [Sora ni Kizanda Parallelogram](preview/parallelo)
 * [Sugar * Style](preview/sugarstyle)
 * [Summer Pockets](preview/summerpockets)
 
 ## T
-* [Tsubaki to One Room -Kizuna Kirameku Koi Iroha SS-](preview/oneroom-tsubaki)
 * [Trinoline](preview/trinoline)
+* [Tsubaki to One Room -Kizuna Kirameku Koi Iroha SS-](preview/oneroom-tsubaki)
 
 ## Y
 * [Yubisaki Connection](preview/yubisaki)

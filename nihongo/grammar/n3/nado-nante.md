@@ -5,7 +5,7 @@ sidebar_label: '〜など・〜なんて'
 tags: [n3]
 ---
 
-![nado nante](https://res.cloudinary.com/kagamiweb/image/upload/v1631720717/nihongo/grammar/n3/uchi-ni.png)
+![nado nante](https://res.cloudinary.com/kagamiweb/image/upload/v1631720717/nihongo/grammar/n3/nado-nante.png)
 
 ## รายละเอียด {#details}
 
