@@ -161,6 +161,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
       'https://fonts.googleapis.com/css?family=Sen|Bai+Jamjuree',
     ],
     plugins: [
+      [ 
+        require.resolve('docusaurus-lunr-search'), 
+        {
+          languages: ['en', 'ja', 'th'],
+        }
+      ],
       [
         '@docusaurus/plugin-content-docs',
         {
