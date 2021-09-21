@@ -164,7 +164,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
       [ 
         require.resolve('docusaurus-lunr-search'), 
         {
-          languages: ['en', 'ja', 'th'],
+          languages: ['en', 'ja'],
         }
       ],
       [
