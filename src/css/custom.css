@@ -41,7 +41,7 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 }
 
 html[data-theme='dark'] {
-  --ifm-background-color: #121212;
+  --ifm-background-color: #0D1116;
 }
 
 ::selection {
@@ -168,4 +168,8 @@ body {
 
 .footer--dark {
   --ifm-footer-background-color: #242526;
+}
+
+.react-toggle {
+  margin-left: 12px;
 }

@@ -79,8 +79,8 @@ function Feature({ title, link, description }) {
         to={useBaseUrl(link)}
         className={
           hovered
-            ? clsx("padding--lg margin-bottom--lg item shadow--tl", styles.card)
-            : clsx("padding--lg margin-bottom--lg item shadow--lw", styles.card)
+            ? clsx("padding--lg margin-bottom--lg item", styles.card)
+            : clsx("padding--lg margin-bottom--lg item", styles.card)
         }
         onMouseOver={toggleHover}
         onMouseOut={toggleHover}

@@ -12,7 +12,7 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <p className="hero__title">{siteConfig.title}</p>
+        <p className="hero__title">Kagami</p>
         <p className="hero__subtitle"><b>{siteConfig.tagline}</b></p>
         <div className={styles.buttons}>
           <Link
@@ -42,7 +42,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`KagamiWeb.com - ${siteConfig.tagline}`}
+      title={`Kagami - ${siteConfig.tagline}`}
       description={`${siteConfig.tagline}`}>
       <HomepageHeader />
       <main>

@@ -4,7 +4,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (module.exports = {
-  title: 'Kagami',
+  title: 'KagamiWeb.com',
   tagline: 'เชื่อมโยงผู้คนด้วยเกมวิชวลโนเวลและภาษาญี่ปุ่น',
   url: 'https://kagamiweb.com',
   baseUrl: '/',
@@ -12,7 +12,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo_kagamiweb.png',
   organizationName: 'coregameHD', // Usually your GitHub org/user name.
-  projectName: 'kagamiweb.com', // Usually your repo name.
+  projectName: 'kagamiweb', // Usually your repo name.
 
   presets: [
     [
@@ -51,6 +51,16 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        defaultMode: 'light',
+        disableSwitch: false,
+        respectPrefersColorScheme: true,
+        switchConfig: {
+          darkIcon: '🌙',
+          lightIcon: '☀️',
+          
+        },
+      },
       navbar: {
         title: 'KagamiWeb.com',
         logo: {
@@ -87,7 +97,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             items: [
               {
                 label: 'วิชวลโนเวลคืออะไร',
-                to: '/visualnovel/preview/',
+                to: '/visualnovel/preview',
               },
               {
                 label: 'แนะนำเกมวิชวลโนเวล',
@@ -137,17 +147,21 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             title: 'Others',
             items: [
               {
-                label: 'เกี่ยวกับเว็บไซต์นี้',
+                label: 'เกี่ยวกับ Kagami',
                 to: '/about',
               },
               {
-                label: 'เกี่ยวกับผู้เขียน',
+                label: 'รู้จักผู้เขียน',
                 to: '/blog/why-i-learn-japanese',
+              },
+              {
+                label: 'Github',
+                href: 'https://github.com/coregameHD/kagamiweb',
               },
             ],
           },
         ],
-        copyright: `俺たちの間で交わす『夢』という単語も、持つ意味を変えつつある。<br>
+        copyright: `後悔している、すべての人へ。<br>
         Copyright © ${new Date().getFullYear()} kagamiweb.com | 
         Built with <b style="color:#ff4081;">♥</b> by <b><a href="https://www.facebook.com/coregameHD">coregameHD</a></b>`,
       },

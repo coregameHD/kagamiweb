@@ -128,7 +128,7 @@ function About() {
   return (
     <>
       <Layout
-        title={`About KagamiWeb.com`}
+        title={`About Kagami`}
         description={`เกี่ยวกับเว็บไซต์ KagamiWeb.com`}
       >
         <header className={clsx("hero hero--primary", styles.heroBanner)}>
