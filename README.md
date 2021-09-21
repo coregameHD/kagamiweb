@@ -1,4 +1,8 @@
-# Website
+# KagamiWeb.com
+
+![Kagami Website](https://kagamiweb.com/img/og_image.png)
+
+---
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
