@@ -26,6 +26,10 @@
     "react-dom": "^17.0.1",
     "url-loader": "^4.1.1"
   },
+  "resolutions": {
+    "docusaurus-lunr-search/lunr": "^2.3.9",
+    "docusaurus-lunr-search/lunr-languages": "^1.9.0"
+  },
   "browserslist": {
     "production": [
       ">0.5%",
