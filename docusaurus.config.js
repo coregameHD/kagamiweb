@@ -176,6 +176,18 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
     ],
     plugins: [
       [
+        require.resolve('@cmfcmf/docusaurus-search-local'), {
+          indexDocs: true,
+          docsRouteBasePath: "/",
+          indexDocSidebarParentCategories: 0,
+          indexBlog: true,
+          blogRouteBasePath: '/blog',
+          indexPages: false,
+          language: ["en", "ja", "th"],
+          style: undefined,
+        }
+      ],
+      [
         '@docusaurus/plugin-content-docs',
         {
           id: 'visualnovel',
