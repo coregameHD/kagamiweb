@@ -27,8 +27,8 @@
     "url-loader": "^4.1.1"
   },
   "resolutions": {
-    "docusaurus-lunr-search/lunr": "^2.3.9",
-    "docusaurus-lunr-search/lunr-languages": "^1.9.0"
+    "lunr": "^2.3.9",
+    "lunr-languages": "^1.9.0"
   },
   "browserslist": {
     "production": [
