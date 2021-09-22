@@ -179,7 +179,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         require.resolve('@cmfcmf/docusaurus-search-local'), {
           indexDocs: true,
           docsRouteBasePath: "/",
-          indexDocSidebarParentCategories: 0,
+          indexDocSidebarParentCategories: 2,
           indexBlog: true,
           blogRouteBasePath: '/blog',
           indexPages: false,
