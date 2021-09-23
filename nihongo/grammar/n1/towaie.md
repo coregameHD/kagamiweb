@@ -2,6 +2,7 @@
 id: 'towaie'
 title: '[ไวยากรณ์ N1] 〜とはいえ'
 sidebar_label: '〜とはいえ'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631949867/nihongo/grammar/n1/reibun/towaie.jpg
 tags: [n1]
 ---
 

@@ -1,5 +1,7 @@
 ---
 title: 'Sora ni Kizanda Parallelogram'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631553764/visualnovel/preview/parallelo.jpg
+tags: [uguisukagura]
 ---
 
 ![Parallelo](https://res.cloudinary.com/kagamiweb/image/upload/v1631553764/visualnovel/preview/parallelo.jpg)

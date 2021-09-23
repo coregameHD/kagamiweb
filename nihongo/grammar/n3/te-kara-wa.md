@@ -2,6 +2,7 @@
 id: 'te-kara-wa'
 title: '[ไวยากรณ์ N3] ～てからは'
 sidebar_label: '～てからは'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631950739/nihongo/grammar/n3/reibun/te-kara-wa.jpg
 tags: [n3]
 ---
 

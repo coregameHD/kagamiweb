@@ -2,6 +2,7 @@
 id: 'saichuu-ni'
 title: '[ไวยากรณ์ N3] 〜最中 (に)'
 sidebar_label: '〜最中 (に)'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631950740/nihongo/grammar/n3/reibun/saichuu-ni.png
 tags: [n3]
 ---
 

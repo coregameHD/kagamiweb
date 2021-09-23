@@ -2,6 +2,7 @@
 id: 'tamae'
 title: '[ไวยากรณ์ N3] 〜たまえ'
 sidebar_label: '〜たまえ'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631950741/nihongo/grammar/n3/reibun/tamae.png
 tags: [n3]
 ---
 

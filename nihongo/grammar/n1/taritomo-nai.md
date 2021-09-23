@@ -2,6 +2,7 @@
 id: 'taritomo-nai'
 title: '[ไวยากรณ์ N1] 〜たりとも〜ない'
 sidebar_label: '〜たりとも〜ない'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631949866/nihongo/grammar/n1/reibun/taritomo-nai.jpg
 tags: [n1]
 ---
 

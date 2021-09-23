@@ -2,6 +2,7 @@
 id: 'ka-no-gotoku'
 title: '[ไวยากรณ์ N1] 〜かの如く'
 sidebar_label: '〜かの如く'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631949866/nihongo/grammar/n1/reibun/ka-no-gotoku.jpg
 tags: [n1]
 ---
 

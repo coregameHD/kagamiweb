@@ -1,5 +1,7 @@
 ---
 title: 'Trinoline'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631601295/visualnovel/preview/trinoline.jpg
+tags: [minori]
 ---
 
 ![Trinoline](https://res.cloudinary.com/kagamiweb/image/upload/v1631601295/visualnovel/preview/trinoline.jpg)

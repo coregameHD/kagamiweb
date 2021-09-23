@@ -2,6 +2,7 @@
 id: 'nado-nante'
 title: '[ไวยากรณ์ N3] 〜など・〜なんて'
 sidebar_label: '〜など・〜なんて'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631950739/nihongo/grammar/n3/reibun/nante.jpg
 tags: [n3]
 ---
 

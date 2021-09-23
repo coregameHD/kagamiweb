@@ -1,5 +1,7 @@
 ---
 title: 'Riddle Joker'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631554800/visualnovel/preview/riddle.jpg
+tags: [yuzusoft]
 ---
 
 ![Riddle](https://res.cloudinary.com/kagamiweb/image/upload/v1631554800/visualnovel/preview/riddle.jpg)

@@ -1,5 +1,7 @@
 ---
 title: 'Senren＊Banka'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631600268/visualnovel/preview/senren.jpg
+tags: [yuzusoft]
 ---
 
 ![Senren](https://res.cloudinary.com/kagamiweb/image/upload/v1631600268/visualnovel/preview/senren.jpg)

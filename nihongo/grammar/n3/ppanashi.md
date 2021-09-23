@@ -2,6 +2,7 @@
 id: 'ppanashi'
 title: '[ไวยากรณ์ N3] 〜っぱなし'
 sidebar_label: '〜っぱなし'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631950740/nihongo/grammar/n3/reibun/ppanashi.png
 tags: [n3]
 ---
 

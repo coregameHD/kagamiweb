@@ -2,6 +2,7 @@
 id: 'nominarazu'
 title: '[ไวยากรณ์ N2] 〜のみならず'
 sidebar_label: '〜のみならず'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631950416/nihongo/grammar/n2/reibun/nominarazu.jpg
 tags: [n2]
 ---
 

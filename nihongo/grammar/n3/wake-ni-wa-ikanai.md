@@ -2,6 +2,7 @@
 id: 'wake-ni-wa-ikanai'
 title: '[ไวยากรณ์ N3] 〜わけにはいかない'
 sidebar_label: '〜わけにはいかない'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631950740/nihongo/grammar/n3/reibun/wake-ni-wa-ikanai.jpg
 tags: [n3]
 ---
 

@@ -1,5 +1,7 @@
 ---
 title: 'Yubisaki Connection'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631601484/visualnovel/preview/yubisaki.jpg
+tags: [hooksoft]
 ---
 
 ![Yubisaki](https://res.cloudinary.com/kagamiweb/image/upload/v1631601484/visualnovel/preview/yubisaki.jpg)

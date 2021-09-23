@@ -1,5 +1,7 @@
 ---
 title: 'PARQUET'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631554033/visualnovel/preview/parquet.jpg
+tags: [yuzusoft, yuzusoftsour]
 ---
 
 ![Parquet](https://res.cloudinary.com/kagamiweb/image/upload/v1631554033/visualnovel/preview/parquet.jpg)

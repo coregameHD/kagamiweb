@@ -1,5 +1,7 @@
 ---
 title: "Ren'ai x Royale"
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631543596/visualnovel/preview/koirowa.jpg
+tags: [asaproject]
 ---
 
 ![Koirowa](https://res.cloudinary.com/kagamiweb/image/upload/v1631543596/visualnovel/preview/koirowa.jpg)

@@ -2,6 +2,7 @@
 id: 'meku'
 title: '[ไวยากรณ์ N1] 〜めく'
 sidebar_label: '〜めく'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631949867/nihongo/grammar/n1/reibun/meku.png
 tags: [n1]
 ---
 

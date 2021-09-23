@@ -2,6 +2,7 @@
 id: 'gachi'
 title: '[ไวยากรณ์ N3] 〜がち'
 sidebar_label: '〜がち'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631950739/nihongo/grammar/n3/reibun/gachi.jpg
 tags: [n3]
 ---
 

@@ -1,5 +1,7 @@
 ---
 title: 'Tsubaki to One Room -Kizuna Kirameku Koi Iroha SS-'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631553554/visualnovel/preview/oneroom-tsubaki.jpg
+tags: [crystalia]
 ---
 
 ![Oneroom Tsubaki](https://res.cloudinary.com/kagamiweb/image/upload/v1631553554/visualnovel/preview/oneroom-tsubaki.jpg)

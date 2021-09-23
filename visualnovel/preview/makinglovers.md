@@ -1,5 +1,7 @@
 ---
 title: 'Making * Lovers'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631552899/visualnovel/preview/makinglovers.jpg
+tags: [smee]
 ---
 
 ![Makinglovers](https://res.cloudinary.com/kagamiweb/image/upload/v1631552899/visualnovel/preview/makinglovers.jpg)

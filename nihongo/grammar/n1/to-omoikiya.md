@@ -2,6 +2,7 @@
 id: 'to-omoikiya'
 title: '[ไวยากรณ์ N1] 〜と思いきや'
 sidebar_label: '〜と思いきや'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631949867/nihongo/grammar/n1/reibun/to-omoikiya.jpg
 tags: [n1]
 ---
 

@@ -1,5 +1,7 @@
 ---
 title: 'Kimi to Kanojo to Kanojo no Koi.'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631601181/visualnovel/preview/totono.jpg
+tags: [nitroplus]
 ---
 
 ![totono](https://res.cloudinary.com/kagamiweb/image/upload/v1631601181/visualnovel/preview/totono.jpg)

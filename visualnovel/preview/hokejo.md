@@ -1,5 +1,7 @@
 ---
 title: 'Hokenshitsu no Sensei to Shabondama Chuudoku no Joshu'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631541710/visualnovel/preview/hokejo.jpg
+tags: [citrus]
 ---
 
 ![Hokejo](https://res.cloudinary.com/kagamiweb/image/upload/v1631541710/visualnovel/preview/hokejo.jpg)

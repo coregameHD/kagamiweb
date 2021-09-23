@@ -2,6 +2,7 @@
 id: 'ni-kurabete'
 title: '[ไวยากรณ์ N3] 〜に比べて・に比べると'
 sidebar_label: '〜に比べて・に比べると'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631950739/nihongo/grammar/n3/reibun/ni-kurabete.jpg
 tags: [n3]
 ---
 

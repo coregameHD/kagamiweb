@@ -1,5 +1,7 @@
 ---
 title: 'Hapymaher'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631541494/visualnovel/preview/hapymaher.jpg
+tags: [purplesoftware]
 ---
 
 ![Hapymaher](https://res.cloudinary.com/kagamiweb/image/upload/v1631541494/visualnovel/preview/hapymaher.jpg)

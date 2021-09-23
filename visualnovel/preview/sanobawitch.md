@@ -1,5 +1,7 @@
 ---
 title: 'Sanoba Witch'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631555279/visualnovel/preview/sanoba.jpg
+tags: [yuzusoft]
 ---
 
 ![Sanoba Witch](https://res.cloudinary.com/kagamiweb/image/upload/v1631555279/visualnovel/preview/sanoba.jpg)

@@ -1,5 +1,7 @@
 ---
 title: 'HaremKingdom'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631541566/visualnovel/preview/haremkingdom.jpg
+tags: [smee]
 ---
 
 ![Haremkingdom](https://res.cloudinary.com/kagamiweb/image/upload/v1631541566/visualnovel/preview/haremkingdom.jpg)

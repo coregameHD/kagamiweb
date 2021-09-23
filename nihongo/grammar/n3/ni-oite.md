@@ -2,6 +2,7 @@
 id: 'ni-oite'
 title: '[ไวยากรณ์ N3] 〜において'
 sidebar_label: '〜において'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631950748/nihongo/grammar/n3/reibun/ni-oite.png
 tags: [n3]
 ---
 

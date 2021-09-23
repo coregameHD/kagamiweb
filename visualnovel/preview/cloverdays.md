@@ -1,6 +1,7 @@
 ---
-id: 'cloverdays'
 title: "Clover Day's"
+image: ttps://res.cloudinary.com/kagamiweb/image/upload/v1631541042/visualnovel/preview/cloverdays.jpg
+tags: [alcot]
 ---
 
 ![Clover Day's](https://res.cloudinary.com/kagamiweb/image/upload/v1631541042/visualnovel/preview/cloverdays.jpg)

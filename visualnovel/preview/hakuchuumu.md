@@ -1,5 +1,7 @@
 ---
 title: 'Hakuchuumu no Aojashin'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631541326/visualnovel/preview/hakuchuumu.jpg
+tags: [laplacian]
 ---
 
 ![Hakuchuumu](https://res.cloudinary.com/kagamiweb/image/upload/v1631541326/visualnovel/preview/hakuchuumu.jpg)

@@ -1,5 +1,7 @@
 ---
 title: 'Animal ☆ Panic'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631538697/visualnovel/preview/anipani.jpg
+tags: [quincesoft]
 ---
 
 ![Anipani](https://res.cloudinary.com/kagamiweb/image/upload/v1631538697/visualnovel/preview/anipani.jpg)

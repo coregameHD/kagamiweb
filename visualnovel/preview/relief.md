@@ -1,5 +1,7 @@
 ---
 title: "Re: LieF ~Shin'ainaru Anata e~"
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631554316/visualnovel/preview/relief.jpg
+tags: [rask]
 ---
 
 ![Relief](https://res.cloudinary.com/kagamiweb/image/upload/v1631554316/visualnovel/preview/relief.jpg)

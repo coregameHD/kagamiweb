@@ -2,6 +2,7 @@
 id: 'kuse-ni'
 title: '[ไวยากรณ์ N3] 〜くせに'
 sidebar_label: '〜くせに'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631950739/nihongo/grammar/n3/reibun/kuse-ni.jpg
 tags: [n3]
 ---
 

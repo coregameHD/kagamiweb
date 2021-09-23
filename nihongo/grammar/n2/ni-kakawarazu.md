@@ -2,6 +2,7 @@
 id: 'ni-kakawarazu'
 title: '[ไวยากรณ์ N2] 〜に関わらず'
 sidebar_label: '〜に関わらず'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631950415/nihongo/grammar/n2/reibun/ni-kakawarazu.jpg
 tags: [n2]
 ---
 

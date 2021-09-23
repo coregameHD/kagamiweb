@@ -2,6 +2,7 @@
 id: 'ge'
 title: '[ไวยากรณ์ N2] 〜げ'
 sidebar_label: '〜げ'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631950416/nihongo/grammar/n2/reibun/ge.jpg
 tags: [n2]
 ---
 

@@ -2,6 +2,7 @@
 id: 'kai-ga-aru'
 title: '[ไวยากรณ์ N2] 〜甲斐がある'
 sidebar_label: '〜甲斐がある'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631950415/nihongo/grammar/n2/reibun/kai-ga-aru.jpg
 tags: [n2]
 ---
 

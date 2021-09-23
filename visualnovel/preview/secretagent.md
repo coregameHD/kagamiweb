@@ -1,5 +1,7 @@
 ---
 title: 'Secret Agent ~Kishi Gakuen no Shinobi Naru Mono~'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631599690/visualnovel/preview/secretagent.jpg
+tags: [ensemble]
 ---
 
 ![Secretagent](https://res.cloudinary.com/kagamiweb/image/upload/v1631599690/visualnovel/preview/secretagent.jpg)

@@ -1,5 +1,7 @@
 ---
 title: 'Shion to One Room -Kizuna Kirameku Koi Iroha SS-'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631553556/visualnovel/preview/oneroom-shion.jpg
+tags: [crystalia]
 ---
 
 ![Oneroom Shion](https://res.cloudinary.com/kagamiweb/image/upload/v1631553556/visualnovel/preview/oneroom-shion.jpg)

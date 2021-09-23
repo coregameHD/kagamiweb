@@ -1,5 +1,7 @@
 ---
 title: 'Kakenuke★Seishun Sparking!'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631541888/visualnovel/preview/kakenuke.jpg
+tags: [sagaplanets]
 ---
 
 ![Kakenuke](https://res.cloudinary.com/kagamiweb/image/upload/v1631541888/visualnovel/preview/kakenuke.jpg)

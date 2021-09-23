@@ -1,6 +1,7 @@
 ---
-id: 'aikotoba'
 title: 'Aikotoba'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631537740/visualnovel/preview/aikotoba.jpg
+tags: [azarashisoft]
 ---
 
 ![Aikotoba Cover](https://res.cloudinary.com/kagamiweb/image/upload/v1631537740/visualnovel/preview/aikotoba.jpg)

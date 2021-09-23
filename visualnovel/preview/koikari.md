@@ -1,8 +1,10 @@
 ---
 title: "Ren'ai, Karichaimashita"
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631554608/visualnovel/preview/renkari.jpg
+tags: [asaproject]
 ---
 
-![Renkari](https://res.cloudinary.com/kagamiweb/image/upload/v1631554608/visualnovel/preview/renkari.jpg)
+![Koikari](https://res.cloudinary.com/kagamiweb/image/upload/v1631554608/visualnovel/preview/renkari.jpg)
 
 วันนี้มีเกมวิชวลโนเวล/เอโรเกะที่น่าสนใจมาแนะนำครับ
 

@@ -2,7 +2,7 @@
 id: 'sei-de'
 title: '[ไวยากรณ์ N3] ～せいで'
 sidebar_label: '～せいで'
-image: https://res.cloudinary.com/kagamiweb/image/upload/v1631720712/nihongo/grammar/n3/sei-de.png
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631950740/nihongo/grammar/n3/reibun/sei-de.png
 tags: [n3]
 ---
 

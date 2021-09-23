@@ -1,5 +1,7 @@
 ---
 title: 'Seishun Fragile'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631599690/visualnovel/preview/seishun_f.jpg
+tags: [purplesoftware]
 ---
 
 ![Seishunfragile](https://res.cloudinary.com/kagamiweb/image/upload/v1631599690/visualnovel/preview/seishun_f.jpg)

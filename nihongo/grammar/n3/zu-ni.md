@@ -2,6 +2,7 @@
 id: 'zu-ni'
 title: '[ไวยากรณ์ N3] ～ずに'
 sidebar_label: '～ずに'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631950740/nihongo/grammar/n3/reibun/zu-ni.jpg
 tags: [n3]
 ---
 

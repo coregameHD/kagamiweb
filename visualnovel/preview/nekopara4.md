@@ -1,5 +1,7 @@
 ---
 title: 'Neko Para Vol.4 Neko to Patissier no Noel'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631553270/visualnovel/preview/nekopara4.jpg
+tags: [nekoworks]
 ---
 
 ![Nekopara4](https://res.cloudinary.com/kagamiweb/image/upload/v1631553270/visualnovel/preview/nekopara4.jpg)

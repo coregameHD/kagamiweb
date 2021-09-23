@@ -2,6 +2,7 @@
 id: 'beki'
 title: '[ไวยากรณ์ N3] 〜べき・〜べきだ'
 sidebar_label: '〜べき・〜べきだ'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631950740/nihongo/grammar/n3/reibun/beki.png
 tags: [n3]
 ---
 

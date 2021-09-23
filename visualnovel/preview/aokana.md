@@ -1,5 +1,7 @@
 ---
 title: 'Ao no Kanata no Four Rhythm'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631539164/visualnovel/preview/aokana.jpg
+tags: [sprite]
 ---
 
 ![Aokana](https://res.cloudinary.com/kagamiweb/image/upload/v1631539164/visualnovel/preview/aokana.jpg)

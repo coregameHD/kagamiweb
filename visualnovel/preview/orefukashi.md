@@ -1,5 +1,7 @@
 ---
 title: 'Ore no Sugata ga, Toumei ni!? Invisible to Suuki na Unmei'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631553765/visualnovel/preview/orefukashi.jpg
+tags: [hulotte]
 ---
 
 ![Orefukashi](https://res.cloudinary.com/kagamiweb/image/upload/v1631553765/visualnovel/preview/orefukashi.jpg)

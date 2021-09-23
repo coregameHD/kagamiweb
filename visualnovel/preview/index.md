@@ -6,6 +6,10 @@ slug: /preview
 
 # [สารบัญ] แนะนำเกม Visualnovel
 
+:::info
+ติดตามข่าวสารเกี่ยวกับเกมวิชวลโนเวลและเอโรเกะได้ที่เพจเฟซบุ๊ค [Kagami Translation](https://facebook.com/kagamitranslation)
+:::
+
 ## A
 * [Aibeya 2](preview/aibeya2)
 * [Aikotoba](preview/aikotoba)

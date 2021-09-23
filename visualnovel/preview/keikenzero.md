@@ -1,5 +1,7 @@
 ---
 title: 'Keiken Zero na Classmate Pi'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631543176/visualnovel/preview/keikenzero.jpg
+tags: [prekano]
 ---
 
 ![Keikenzero](https://res.cloudinary.com/kagamiweb/image/upload/v1631543176/visualnovel/preview/keikenzero.jpg)

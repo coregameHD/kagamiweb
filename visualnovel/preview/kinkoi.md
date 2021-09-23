@@ -1,5 +1,7 @@
 ---
 title: "Kin'iro Loveriche"
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631543269/visualnovel/preview/kinkoi.jpg
+tags: [sagaplanets]
 ---
 
 ![Kinkoi](https://res.cloudinary.com/kagamiweb/image/upload/v1631543269/visualnovel/preview/kinkoi.jpg)

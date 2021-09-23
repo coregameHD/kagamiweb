@@ -1,5 +1,7 @@
 ---
 title: 'ATRI -My Dear Moments-'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631539471/visualnovel/preview/atri.jpg
+tags: [aniplex]
 ---
 
 ![Atri](https://res.cloudinary.com/kagamiweb/image/upload/v1631539471/visualnovel/preview/atri.jpg)

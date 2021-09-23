@@ -2,6 +2,7 @@
 id: 'kaneru'
 title: '[ไวยากรณ์ N2] 〜かねる'
 sidebar_label: '〜かねる'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631950416/nihongo/grammar/n2/reibun/kaneru.jpg
 tags: [n2]
 ---
 

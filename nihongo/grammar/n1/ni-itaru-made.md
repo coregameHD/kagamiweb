@@ -2,6 +2,7 @@
 id: 'ni-itaru-made'
 title: '[ไวยากรณ์ N1] 〜に至るまで'
 sidebar_label: '〜に至るまで'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631949866/nihongo/grammar/n1/reibun/ni-itaru-made.jpg
 tags: [n1]
 ---
 

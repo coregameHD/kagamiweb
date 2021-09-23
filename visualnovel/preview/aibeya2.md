@@ -1,6 +1,7 @@
 ---
-id: 'aibeya2'
 title: 'Aibeya 2'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631537688/visualnovel/preview/aibeya2.jpg
+tags: [azarashisoft]
 ---
 
 ![Aibeya2](https://res.cloudinary.com/kagamiweb/image/upload/v1631537688/visualnovel/preview/aibeya2.jpg)

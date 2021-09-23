@@ -1,5 +1,7 @@
 ---
 title: 'Pieces / Wataridori no Somnium'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631554033/visualnovel/preview/pieces.jpg
+tags: [whirlpool]
 ---
 
 ![Pieces](https://res.cloudinary.com/kagamiweb/image/upload/v1631554033/visualnovel/preview/pieces.jpg)
@@ -9,7 +11,7 @@ title: 'Pieces / Wataridori no Somnium'
 > **pieces / Wataridori no Somnium**  
 > **pieces/渡り鳥のソムニウム**
 
-| ผู้พัฒนา | Azarashi Soft |
+| ผู้พัฒนา | Whirlpool |
 | :---- | :---- |
 | **วันวางจำหน่าย** | 29/03/2019 |
 | **ภาษา** | Japanese Only |

@@ -1,5 +1,7 @@
 ---
 title: 'Nekotsuku, Sakura.'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631553442/visualnovel/preview/nekotuku.jpg
+tags: [lumpofsugar]
 ---
 
 ![Nekotuku](https://res.cloudinary.com/kagamiweb/image/upload/v1631553442/visualnovel/preview/nekotuku.jpg)

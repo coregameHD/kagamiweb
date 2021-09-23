@@ -1,5 +1,7 @@
 ---
 title: 'Marco to Ginga Ryuu'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631553191/visualnovel/preview/marco.jpg
+tags: [tokyotoon]
 ---
 
 ![Marco](https://res.cloudinary.com/kagamiweb/image/upload/v1631553191/visualnovel/preview/marco.jpg)

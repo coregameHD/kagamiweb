@@ -1,5 +1,7 @@
 ---
 title: 'Osananajimi no Iru Kurashi'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631553764/visualnovel/preview/osakura.jpg
+tags: [azarashisoft]
 ---
 
 ![Osakura](https://res.cloudinary.com/kagamiweb/image/upload/v1631553764/visualnovel/preview/osakura.jpg)

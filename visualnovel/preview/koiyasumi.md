@@ -1,6 +1,7 @@
 ---
-id: 'koiyasumi'
 title: 'Koiyasumi ~Yuudachi ni Nureta Osananajimi~'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631543684/visualnovel/preview/koiyasumi.jpg
+tags: [recreation]
 ---
 
 ![Koiyasumi](https://res.cloudinary.com/kagamiweb/image/upload/v1631543684/visualnovel/preview/koiyasumi.jpg)

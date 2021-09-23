@@ -1,6 +1,8 @@
 ---
 id: 'anabel'
 title: 'Anabel Maid Garden'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631538349/visualnovel/preview/anabel.jpg
+tags: [baristalab]
 ---
 
 ![Anabel](https://res.cloudinary.com/kagamiweb/image/upload/v1631538349/visualnovel/preview/anabel.jpg)

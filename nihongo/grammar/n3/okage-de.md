@@ -2,6 +2,7 @@
 id: 'okage-de'
 title: '[ไวยากรณ์ N3] 〜おかげで'
 sidebar_label: '〜おかげで'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631950740/nihongo/grammar/n3/reibun/okage-de.png
 tags: [n3]
 ---
 

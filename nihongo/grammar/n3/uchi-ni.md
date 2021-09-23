@@ -2,6 +2,7 @@
 id: 'uchi-ni'
 title: '[ไวยากรณ์ N3] 〜うちに'
 sidebar_label: '〜うちに'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631950739/nihongo/grammar/n3/reibun/uchi-ni.jpg
 tags: [n3]
 ---
 

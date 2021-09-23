@@ -1,5 +1,7 @@
 ---
 title: 'Summer Pockets'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631600912/visualnovel/preview/summer.jpg
+tags: [key]
 ---
 
 ![Summer](https://res.cloudinary.com/kagamiweb/image/upload/v1631600912/visualnovel/preview/summer.jpg)

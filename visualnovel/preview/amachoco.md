@@ -1,6 +1,8 @@
 ---
 id: 'amachoco'
 title: 'Amairo Chocolate'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631538019/visualnovel/preview/amachoco.jpg
+tags: [cabbagesoft]
 ---
 
 ![Amachoco](https://res.cloudinary.com/kagamiweb/image/upload/v1631538019/visualnovel/preview/amachoco.jpg)

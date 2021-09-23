@@ -1,5 +1,7 @@
 ---
 title: 'ChronoClock'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631540819/visualnovel/preview/chronoclock.jpg
+tags: [purplesoftware]
 ---
 
 ![Chronoclock](https://res.cloudinary.com/kagamiweb/image/upload/v1631540819/visualnovel/preview/chronoclock.jpg)

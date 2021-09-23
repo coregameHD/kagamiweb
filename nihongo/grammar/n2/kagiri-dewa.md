@@ -2,6 +2,7 @@
 id: 'kagiri-dewa'
 title: '[ไวยากรณ์ N2] 〜限り・〜限りで'
 sidebar_label: '〜限り・〜限りでは'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631950415/nihongo/grammar/n2/reibun/kagiri.jpg
 tags: [n2]
 ---
 

@@ -2,6 +2,7 @@
 id: 'ka-ina-ka'
 title: '[ไวยากรณ์ N1] 〜か否か'
 sidebar_label: '〜か否か'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631949875/nihongo/grammar/n1/reibun/ka-ina-ka.png
 tags: [n1]
 ---
 

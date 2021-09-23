@@ -2,6 +2,7 @@
 id: 'ppoi'
 title: '[ไวยากรณ์ N2] 〜っぽい'
 sidebar_label: '〜っぽい'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631950415/nihongo/grammar/n2/reibun/ppoi.jpg
 tags: [n2]
 ---
 

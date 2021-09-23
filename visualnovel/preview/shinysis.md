@@ -1,5 +1,7 @@
 ---
 title: 'Shiny Sisters'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631600566/visualnovel/preview/shinysis.jpg
+tags: [ensemble]
 ---
 
 ![Shinysis](https://res.cloudinary.com/kagamiweb/image/upload/v1631600566/visualnovel/preview/shinysis.jpg)

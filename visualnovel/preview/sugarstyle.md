@@ -1,5 +1,7 @@
 ---
 title: 'Sugar * Style'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631600707/visualnovel/preview/sugarstyle.jpg
+tags: [smee]
 ---
 
 ![Sugarstyle](https://res.cloudinary.com/kagamiweb/image/upload/v1631600707/visualnovel/preview/sugarstyle.jpg)

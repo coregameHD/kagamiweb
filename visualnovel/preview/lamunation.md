@@ -1,5 +1,7 @@
 ---
 title: 'Lamunation!'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631543681/visualnovel/preview/lamunation.jpg
+tags: [whitepowder]
 ---
 
 ![Lamunation](https://res.cloudinary.com/kagamiweb/image/upload/v1631543681/visualnovel/preview/lamunation.jpg)

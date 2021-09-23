@@ -2,6 +2,7 @@
 id: 'zaru-wo-enai'
 title: '[ไวยากรณ์ N2] 〜ざるを得ない'
 sidebar_label: '〜ざるを得ない'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631950416/nihongo/grammar/n2/reibun/zaru-wo-enai.jpg
 tags: [n2]
 ---
 

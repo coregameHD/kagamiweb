@@ -2,6 +2,7 @@
 id: 'temae'
 title: '[ไวยากรณ์ N1] 〜手前'
 sidebar_label: '〜手前'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631949866/nihongo/grammar/n1/reibun/temae.jpg
 tags: [n1]
 ---
 

@@ -1,5 +1,7 @@
 ---
 title: 'Koi ni, Kanmi o Soete'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631543433/visualnovel/preview/koiama.jpg
+tags: [canvasgarden]
 ---
 
 ![Koiama](https://res.cloudinary.com/kagamiweb/image/upload/v1631543433/visualnovel/preview/koiama.jpg)

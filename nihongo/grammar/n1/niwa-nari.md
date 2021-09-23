@@ -2,6 +2,7 @@
 id: 'niwa-nari'
 title: '[ไวยากรณ์ N1] 〜には…なり'
 sidebar_label: '〜には…なり'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631949874/nihongo/grammar/n1/reibun/niwa-nari.png
 tags: [n1]
 ---
 

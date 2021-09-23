@@ -1,5 +1,7 @@
 ---
 title: 'Kami-sama no You na Kimi e'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631543067/visualnovel/preview/kamikimi.jpg
+tags: [cube]
 ---
 
 ![Kamikimi](https://res.cloudinary.com/kagamiweb/image/upload/v1631543067/visualnovel/preview/kamikimi.jpg)

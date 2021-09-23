@@ -1,5 +1,7 @@
 ---
 title: 'Hoshizora Tetsudou to Shiro no Tabi'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631541763/visualnovel/preview/hoshishiro.jpg
+tags: [shiratamaco]
 ---
 
 ![Hoshishiro](https://res.cloudinary.com/kagamiweb/image/upload/v1631541763/visualnovel/preview/hoshishiro.jpg)

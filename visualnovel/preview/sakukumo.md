@@ -1,5 +1,7 @@
 ---
 title: 'Sakura no Kumo * Scarlet no Koi'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631555033/visualnovel/preview/sakukumo.jpg
+tags: [cabbagesoft]
 ---
 
 ![Sakukumo](https://res.cloudinary.com/kagamiweb/image/upload/v1631555033/visualnovel/preview/sakukumo.jpg)

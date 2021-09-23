@@ -2,6 +2,7 @@
 id: 'mono'
 title: '[ไวยากรณ์ N2] 〜もの'
 sidebar_label: '〜もの'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631950415/nihongo/grammar/n2/reibun/mono.jpg
 tags: [n2]
 ---
 

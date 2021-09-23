@@ -2,6 +2,7 @@
 id: 'yara-yara'
 title: '[ไวยากรณ์ N2] 〜やら〜やら'
 sidebar_label: '〜やら〜やら'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631950417/nihongo/grammar/n2/reibun/yara-yara.jpg
 tags: [n2]
 ---
 

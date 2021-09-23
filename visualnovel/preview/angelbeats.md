@@ -1,5 +1,7 @@
 ---
 title: 'Angel Beats! -1st Beat-'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631538571/visualnovel/preview/angelbeats.jpg
+tags: [key]
 ---
 
 ![Angel Beats](https://res.cloudinary.com/kagamiweb/image/upload/v1631538571/visualnovel/preview/angelbeats.jpg)

@@ -2,6 +2,7 @@
 id: 'n-bakari-ni'
 title: '[ไวยากรณ์ N1] 〜んばかりに'
 sidebar_label: '〜んばかりに'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631949866/nihongo/grammar/n1/reibun/n-bakari-ni.jpg
 tags: [n1]
 ---
 

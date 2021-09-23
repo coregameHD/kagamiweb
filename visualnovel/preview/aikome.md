@@ -1,5 +1,7 @@
 ---
 title: 'Einstein Yori Ai o Komete'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631541112/visualnovel/preview/aikome.jpg
+tags: [glovety]
 ---
 
 ![Aikome](https://res.cloudinary.com/kagamiweb/image/upload/v1631541112/visualnovel/preview/aikome.jpg)

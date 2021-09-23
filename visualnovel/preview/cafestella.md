@@ -1,5 +1,7 @@
 ---
 title: 'Cafe Stella to Shinigami no Chou'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631539740/visualnovel/preview/cafestella.jpg
+tags: [yuzusoft]
 ---
 
 ![Cafestella](https://res.cloudinary.com/kagamiweb/image/upload/v1631539740/visualnovel/preview/cafestella.jpg)

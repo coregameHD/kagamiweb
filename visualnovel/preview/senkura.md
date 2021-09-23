@@ -1,5 +1,7 @@
 ---
 title: 'Senkou no Clarias'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631600102/visualnovel/preview/senkura.jpg
+tags: [giga, teambladrhead]
 ---
 
 ![Senkura](https://res.cloudinary.com/kagamiweb/image/upload/v1631600102/visualnovel/preview/senkura.jpg)
