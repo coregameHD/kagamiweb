@@ -48,6 +48,12 @@ tags: [n3]
 
 君に頼んだおかげで เป็นการกล่าวอย่างเสียดสีประชดประชันว่าสาเหตุเป็นเพราะวานให้เธอช่วย
 
+## รูปประโยคที่เกี่ยวข้อง {#related}
+
+* [〜おかげで](https://kagamiweb.com/nihongo/grammar/n3/okage-de)
+* [～せいで](https://kagamiweb.com/nihongo/grammar/n3/sei-de)
+* 〜せいか (เร็วๆ นี้)
+
 ---
 :::note Source - Kagami Nihongo
 ภาพจากเกม Qualia ~Yakusoku no Kiseki~ (QUALIA ～約束の軌跡～)   

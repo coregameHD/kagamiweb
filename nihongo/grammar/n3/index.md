@@ -17,6 +17,7 @@ slug: /grammar/n3
 ## さ
 * [〜最中 (に)](n3/saichuu-ni)
 * [～ずに](n3/zu-ni)
+* [～せいで](n3/sei-de)
 
 ## た
 * [〜たまえ](n3/tamae)

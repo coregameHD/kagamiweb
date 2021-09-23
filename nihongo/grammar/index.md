@@ -24,6 +24,7 @@ slug: /grammar
 * [〜最中 (に)](grammar/n3/saichuu-ni) `N3`
 * [〜ざるを得ない](grammar/n2/zaru-wo-enai) `N2`
 * [～ずに](grammar/n3/zu-ni) `N3`
+* [～せいで](grammar/n3/sei-de) `N3`
 
 ## た
 * [〜たまえ](grammar/n3/tamae) `N3`

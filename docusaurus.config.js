@@ -11,8 +11,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo_kagamiweb.png',
-  organizationName: 'coregameHD', // Usually your GitHub org/user name.
-  projectName: 'kagamiweb', // Usually your repo name.
+  organizationName: 'coregameHD',
+  projectName: 'kagamiweb',
 
   presets: [
     [
@@ -118,7 +118,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             items: [
               {
                 label: 'ไวยากรณ์ภาษาญี่ปุ่น N1-N3',
-                to: '/nihongo/grammar/index',
+                to: '/nihongo/grammar',
               },
               {
                 label: 'เรียนภาษาญี่ปุ่น',
@@ -179,7 +179,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         require.resolve('@cmfcmf/docusaurus-search-local'), {
           indexDocs: true,
           docsRouteBasePath: "/",
-          indexDocSidebarParentCategories: 2,
+          indexDocSidebarParentCategories: 1,
           indexBlog: true,
           blogRouteBasePath: '/blog',
           indexPages: false,
