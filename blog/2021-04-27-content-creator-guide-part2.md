@@ -3,6 +3,7 @@ slug: content-creator-guide-part2
 title: "คอนเทนต์ครีเอเตอร์มือใหม่ต้องรู้!! ตอนที่ 2 : อย่าพึ่งทำคอนเทนต์ถ้าคุณยังไม่รู้ 3 สิ่งนี้"
 authors: coregameHD
 tags: [guideline]
+image: https://res.cloudinary.com/kagamiweb/image/upload/c_limit,h_627,q_auto:good,w_1200/v1631885399/blog/contentcreator2.jpg
 ---
 
 ![Contentcreator2](https://res.cloudinary.com/kagamiweb/image/upload/v1631885399/blog/contentcreator2.jpg)

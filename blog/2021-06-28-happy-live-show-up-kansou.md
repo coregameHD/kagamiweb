@@ -3,6 +3,7 @@ slug: happy-live-show-up-kansou
 title: "[ความคิดเห็น/ประเมินค่า] Happy Live, Show Up! (ハッピーライヴ ショウアップ！)"
 authors: coregameHD
 tags: [visualnovel, kansou]
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631884849/blog/harashow.jpg
 ---
 
 ![Harashow](https://res.cloudinary.com/kagamiweb/image/upload/v1631884849/blog/harashow.jpg)

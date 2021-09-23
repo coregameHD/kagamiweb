@@ -3,6 +3,8 @@ slug: kunado-kokuki
 title: "ความรู้สึกก่อนเล่นเกม Kunado Kokuki (クナド国記)"
 authors: coregameHD
 tags: [visualnovel]
+keywords: [visualnovel, kunado kokuki, クナド国記, purple software]
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1632228076/blog/kunado.jpg
 ---
 
 ![kunado](https://res.cloudinary.com/kagamiweb/image/upload/v1632228076/blog/kunado.jpg)

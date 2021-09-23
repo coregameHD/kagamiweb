@@ -3,6 +3,7 @@ slug: summer-pockets-kamome-route
 title: "สรุปเนื้อเรื่องเกม Summer Pockets รูทคาโมเมะ"
 authors: coregameHD
 tags: [visualnovel, summerpockets]
+image: https://res.cloudinary.com/kagamiweb/image/upload/c_limit,h_627,q_auto:good,w_1200/v1632227394/blog/kamome.jpg
 ---
 
 ![kamome](https://res.cloudinary.com/kagamiweb/image/upload/v1632227394/blog/kamome.jpg)

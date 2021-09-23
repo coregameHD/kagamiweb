@@ -1,6 +1,6 @@
 ---
 title: 'Aikotoba'
-image: https://res.cloudinary.com/kagamiweb/image/upload/v1631537740/visualnovel/preview/aikotoba.jpg
+image: https://res.cloudinary.com/kagamiweb/image/upload/c_crop,g_north_west,h_627,q_auto:good,w_1200/v1631537740/visualnovel/preview/aikotoba.jpg
 tags: [azarashisoft]
 ---
 

@@ -3,6 +3,7 @@ slug: origin-of-kagami
 title: "ที่มาของชื่อเพจ Kagami"
 authors: coregameHD
 tags: [kagami]
+image: https://res.cloudinary.com/kagamiweb/image/upload/c_limit,h_627,q_auto:good,w_1200/v1631608176/blog/hiiragi-kagami.png
 ---
 
 ![Hiiragi Kagami](https://res.cloudinary.com/kagamiweb/image/upload/v1631608176/blog/hiiragi-kagami.png)

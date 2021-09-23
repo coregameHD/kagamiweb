@@ -3,6 +3,7 @@ slug: bokutachi-no-remake
 title: "ความรู้สึกก่อนดูอนิเมะ Bokutachi no Remake (ぼくたちのリメイク)"
 authors: coregameHD
 tags: [anime]
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631885020/blog/bokuremake.jpg
 ---
 
 ![Bokuremake](https://res.cloudinary.com/kagamiweb/image/upload/v1631885020/blog/bokuremake.jpg)

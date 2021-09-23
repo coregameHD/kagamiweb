@@ -3,6 +3,7 @@ slug: content-creator-guide-part1
 title: "คอนเทนต์ครีเอเตอร์มือใหม่ต้องรู้!! ตอนที่ 1 : ตั้งใจทำเพจแทบตาย ทำไมไม่มีใครติดตามเลย"
 authors: coregameHD
 tags: [guideline]
+image: https://res.cloudinary.com/kagamiweb/image/upload/c_limit,h_627,q_auto:good,w_1200/v1631885355/blog/contentcreator1.jpg
 ---
 
 ![Contentcreator1](https://res.cloudinary.com/kagamiweb/image/upload/v1631885355/blog/contentcreator1.jpg)

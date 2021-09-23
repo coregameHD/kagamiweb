@@ -3,6 +3,7 @@ slug: why-i-learn-japanese
 title: "เหตุผลที่ผมเรียนภาษาญี่ปุ่น และเกมที่เปลี่ยนชีวิตผมไปตลอดกาล"
 authors: coregameHD
 tags: [life]
+image: https://res.cloudinary.com/kagamiweb/image/upload/c_limit,h_627,q_auto:good,w_1200/v1631607542/blog/natsuperu.jpg
 ---
 
 ![Natsuperu](https://res.cloudinary.com/kagamiweb/image/upload/v1631607542/blog/natsuperu.jpg)
