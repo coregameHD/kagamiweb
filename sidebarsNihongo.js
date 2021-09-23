@@ -56,6 +56,7 @@ module.exports = {
             'grammar/n3/kuse-ni',
             'grammar/n3/saichuu-ni',
             'grammar/n3/zu-ni',
+            'grammar/n3/sei-de',
             'grammar/n3/tamae',
             'grammar/n3/ppanashi',
             'grammar/n3/te-kara-wa',
