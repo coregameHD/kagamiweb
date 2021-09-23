@@ -1,5 +1,7 @@
 ---
 title: 'Omoide Kakaete Ai ni Koi!!'
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1631888483/visualnovel/preview/ikoi.png
+tags: [hooksoft]
 ---
 
 ![ikoi](https://res.cloudinary.com/kagamiweb/image/upload/v1631888483/visualnovel/preview/ikoi.png)
