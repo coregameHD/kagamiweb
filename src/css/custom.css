@@ -173,3 +173,13 @@ body {
 .react-toggle {
   margin-left: 12px;
 }
+
+@media screen and (max-width: 996px) {
+  .dsla-search-wrapper {
+    width: 48px;
+  }
+
+  .aa-DetachedSearchButtonPlaceholder {
+    display: none;
+  }
+}

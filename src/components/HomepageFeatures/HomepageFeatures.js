@@ -20,6 +20,7 @@ const FeatureList = [
     title: 'Kagami Nihongo',
     imageUrl: '/img/logo_kagaminihongo.jpeg',
     urllink: 'https://facebook.com/kagaminihongo',
+    fblink: 'facebook.com/kagaminihongo',
     innerlink: 'https://kagamiweb.com/nihongo',
     description: (
       <>
@@ -31,6 +32,7 @@ const FeatureList = [
     title: 'Kagami Blog',
     imageUrl: '/img/logo_kagamiblog.jpeg',
     urllink: 'https://facebook.com/kagamiblog',
+    fblink: 'facebook.com/kagamiblog',
     innerlink: 'https://kagamiweb.com/blog',
     description: (
       <>
@@ -53,7 +55,6 @@ function Feature({imageUrl, title, urllink, fblink, innerlink, description}) {
         <h2>{title}</h2>
         <a href={urllink} target="_blank" rel="noopener noreferrer">{fblink}</a>
         <p>{description}</p>
-        <br></br>
         <a href={innerlink} target="_blank" rel="noopener noreferrer">ดูเพิ่มเติม...</a>
       </div>
     </div>
