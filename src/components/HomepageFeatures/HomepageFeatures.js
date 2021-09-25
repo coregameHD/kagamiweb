@@ -7,7 +7,9 @@ const FeatureList = [
   {
     title: 'Kagami Translation',
     imageUrl: '/img/logo_kagamitranslation.jpeg',
-    link: 'https://facebook.com/kagamitranslation',
+    urllink: 'https://facebook.com/kagamitranslation',
+    fblink: 'facebook.com/kagamitranslation',
+    innerlink: 'https://kagamiweb.com/visualnovel',
     description: (
       <>
         เพจอัพเดตข่าวสารและนำเสนอข้อมูลเกม Visual Novel / Eroge (เน้นกลุ่ม Bishoujo Game)
@@ -17,7 +19,8 @@ const FeatureList = [
   {
     title: 'Kagami Nihongo',
     imageUrl: '/img/logo_kagaminihongo.jpeg',
-    link: 'https://facebook.com/kagaminihongo',
+    urllink: 'https://facebook.com/kagaminihongo',
+    innerlink: 'https://kagamiweb.com/nihongo',
     description: (
       <>
         เพจสอนภาษาญี่ปุ่นเชิงลึก (ระดับ N1-N3) จากการใช้งานจริงในเกมวิชวลโนเวล/อนิเมะ
@@ -27,7 +30,8 @@ const FeatureList = [
   {
     title: 'Kagami Blog',
     imageUrl: '/img/logo_kagamiblog.jpeg',
-    link: 'https://facebook.com/kagamiblog',
+    urllink: 'https://facebook.com/kagamiblog',
+    innerlink: 'https://kagamiweb.com/blog',
     description: (
       <>
         บล็อกส่วนตัว เล่าบ่นก่นด่าประสาคนไอที บ่นนู่นบ่นนี่ไปทั่ว (อัพเดตตามความขยัน)
@@ -36,19 +40,21 @@ const FeatureList = [
   },
 ];
 
-function Feature({imageUrl, title, link, description}) {
+function Feature({imageUrl, title, urllink, fblink, innerlink, description}) {
   const imgUrl = useBaseUrl(imageUrl);
   return (
     <div className={clsx('col col--4')}>
       {imgUrl && (
         <div className="text--center">
-          <a href={link} target="_blank" rel="noopener noreferrer"><img className={styles.featureImage} src={imgUrl} alt={title} /></a>
+          <a href={urllink} target="_blank" rel="noopener noreferrer"><img className={styles.featureImage} src={imgUrl} alt={title} /></a>
         </div>
       )}
       <div className="text--center padding-horiz--md">
         <h2>{title}</h2>
-        <a href={link} target="_blank" rel="noopener noreferrer">{link}</a>
+        <a href={urllink} target="_blank" rel="noopener noreferrer">{fblink}</a>
         <p>{description}</p>
+        <br></br>
+        <a href={innerlink} target="_blank" rel="noopener noreferrer">ดูเพิ่มเติม...</a>
       </div>
     </div>
   );

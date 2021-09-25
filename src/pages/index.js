@@ -17,13 +17,13 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/visualnovel">
+            to="/visualnovel/preview">
             Visual Novel
           </Link>
 
           <Link
             className="button button--secondary button--lg"
-            to="/nihongo">
+            to="/nihongo/grammar">
             Nihongo
           </Link>
 
