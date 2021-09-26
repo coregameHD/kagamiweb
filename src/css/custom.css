@@ -182,4 +182,8 @@ body {
   .aa-DetachedSearchButtonPlaceholder {
     display: none;
   }
+
+  .btn-innerlink {
+    margin-bottom: 28px;
+  }
 }
