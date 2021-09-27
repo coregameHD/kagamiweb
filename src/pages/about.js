@@ -6,7 +6,7 @@ import styles from "./about.module.css";
 
 const features = [
   {
-    title: "What we do?",
+    title: "About Kagami",
     description: (
       <>
         <p>
@@ -25,7 +25,9 @@ const features = [
     title: "What we believe?",
     description: (
       <>
-        <p>เราอยากให้คุณรู้จักเกมเอโรเกะมากกว่าคำว่าเกมลามก</p>
+        <blockquote>
+          เราอยากให้คุณรู้จักเกมเอโรเกะมากกว่าคำว่าเกมลามก
+        </blockquote>
 
         <p>เราเชื่อเช่นนั้น และอยากให้คุณได้สัมผัสไปด้วยกัน
           มาทำความรู้จักกับเกมวิชวลโนเวลและเอโรเกะกันเถอะ!</p>
@@ -36,9 +38,9 @@ const features = [
     title: "Our mission",
     description: (
       <>
-        <p>
-        เชื่อมโยงผู้คนด้วยเกมวิชวลโนเวลและภาษาญี่ปุ่น
-        </p>
+        <blockquote>
+          เชื่อมโยงผู้คนด้วยเกมวิชวลโนเวลและภาษาญี่ปุ่น
+        </blockquote>
 
         <ol>
           <li>จัดทำแหล่งข้อมูลเกี่ยวกับเกมวิชวลโนเวลที่เป็นประโยชน์กับทุกคน</li>
@@ -49,7 +51,7 @@ const features = [
     ),
   },
   {
-    title: "Who are we?",
+    title: "About us",
     description: (
       <>
         <p>
@@ -65,7 +67,7 @@ const features = [
     ),
   },
   {
-    title: "Stay Connected!",
+    title: "Follow us",
     description: (
       <>
       <p>

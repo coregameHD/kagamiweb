@@ -4,7 +4,7 @@
  * work well for content-centric websites.
  */
 
-/* You can override the default Infima variables here. */
+/* || General styles */
 :root {
   --ifm-color-primary: #ff4081;
   --ifm-color-primary-dark: #ff206c;
@@ -27,76 +27,14 @@
   --ifm-font-family-baijamjuree: 'Bai Jamjuree';
   --ifm-font-family-updated-base-font: 'Bai Jamjuree', -apple-system, 'Segoe UI', 'Roboto', 'Arial', sans-serif;
 }
-/*--ifm-heading-color: #fd2fff;*/
-
-.docusaurus-highlight-code-line {
-  background-color: rgba(0, 0, 0, 0.1);
-  display: block;
-  margin: 0 calc(-1 * var(--ifm-pre-padding));
-  padding: 0 var(--ifm-pre-padding);
-}
-
-html[data-theme='dark'] .docusaurus-highlight-code-line {
-  background-color: rgba(0, 0, 0, 0.3);
-}
 
 html[data-theme='dark'] {
   --ifm-background-color: #1c1c1c;
 }
 
-::selection {
-  background: #ffe5ec;
-  color: #000000;
-}
-
-::-moz-selection {
-  background: #ffe5ec;
-  color: #000000;
-}
-
-.hero__title {
-  color: var(--ifm-color-white--frontpage);
-  font-family: Sen;
-  font-size: 300%;
-  font-weight: 800;
-  margin-bottom: 0px;
-  text-shadow: #ff4081 1px 0 10px;
-}
-/*text-shadow: #FC0 1px 0 10px;*/
-.hero__subtitle {
-  color: var(--ifm-color-white--frontpage);
-  font-size: 140%;
-  font-weight: 500;
-  text-shadow: #ff4081 1px 0 6px;
-}
-
-.markdown>h2 {
-  border-top: 1px solid #efefef;
-  padding-top: 15px;
-}
-
-.markdown p img {
-  max-width: 80%;
-  border: 1px solid var(--ifm-hr-border-color);
-  border-radius: 8px;
-}
-
-.markdown p em img {
-  border: none;
-}
-
-@media screen and (max-width: 996px) {
-  .markdown p img {
-    max-width: 100%;
-  }
-}
-
-.contents ul > li {
-  font-size: 12px;
-}
-
-blockquote {
-  border-left-color: var(--ifm-color-primary);
+/* || Navigation Bar*/
+.navbar__brand img {
+  border-radius: 4px;
 }
 
 .menu .menu__list .menu__list {
@@ -121,8 +59,73 @@ a.dropdown__link {
   font-size: 1.05rem;
 }
 
-.navbar__brand img {
-  border-radius: 4px;
+.menu__link {
+  font-size: 90%;
+}
+
+/* || Page Title */
+.hero__title {
+  color: var(--ifm-color-white--frontpage);
+  font-family: Sen;
+  font-size: 300%;
+  font-weight: 800;
+  margin-bottom: 0px;
+  text-shadow: #ff4081 1px 0 10px;
+}
+
+.hero__subtitle {
+  color: var(--ifm-color-white--frontpage);
+  font-size: 140%;
+  font-weight: 500;
+  text-shadow: #ff4081 1px 0 6px;
+}
+
+.about__title {
+  color: var(--ifm-color-white--frontpage);
+  font-family: Sen;
+  font-size: 300%;
+  font-weight: 800;
+  margin-bottom: 0px;
+}
+
+.about__subtitle {
+  color: var(--ifm-color-white--frontpage);
+  font-size: 140%;
+  font-weight: 500;
+}
+
+/* || Body and Contents */
+.markdown p img {
+  max-width: 80%;
+  border: 1px solid var(--ifm-hr-border-color);
+  border-radius: 8px;
+}
+
+.markdown p em img {
+  border: none;
+}
+
+@media screen and (max-width: 996px) {
+  .markdown p img {
+    max-width: 100%;
+  }
+}
+
+.contents ul > li {
+  font-size: 12px;
+}
+
+blockquote {
+  border-left-color: var(--ifm-color-primary);
+}
+
+.markdown>h2 {
+  border-top: 1px solid #efefef;
+  padding-top: 15px;
+}
+
+html[data-theme='dark'] .docusaurus-highlight-code-line {
+  background-color: rgba(0, 0, 0, 0.3);
 }
 
 .container h1,
@@ -143,29 +146,14 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.menu__link {
-  font-size: 90%;
+.docusaurus-highlight-code-line {
+  background-color: rgba(0, 0, 0, 0.1);
+  display: block;
+  margin: 0 calc(-1 * var(--ifm-pre-padding));
+  padding: 0 var(--ifm-pre-padding);
 }
 
-.footer__title, .footer__item, .footer__copyright {
-  font-family: Bai Jamjuree;
-  font-size: 90%;
-}
-
-.about__title {
-  color: var(--ifm-color-white--frontpage);
-  font-family: Sen;
-  font-size: 300%;
-  font-weight: 800;
-  margin-bottom: 0px;
-}
-/*text-shadow: #FC0 1px 0 10px;*/
-.about__subtitle {
-  color: var(--ifm-color-white--frontpage);
-  font-size: 140%;
-  font-weight: 500;
-}
-
+/* || Footer */
 .footer {
   background-color: var(--ifm-footer-background-color);
 }
@@ -174,6 +162,12 @@ body {
   --ifm-footer-background-color: #161616;
 }
 
+.footer__title, .footer__item, .footer__copyright {
+  font-family: Bai Jamjuree;
+  font-size: 90%;
+}
+
+/* || Misc */
 .react-toggle {
   margin-left: 12px;
 }
@@ -190,4 +184,15 @@ body {
   .btn-innerlink {
     margin-bottom: 28px;
   }
+}
+
+/* || Others */
+::selection {
+  background: #ffe5ec;
+  color: #000000;
+}
+
+::-moz-selection {
+  background: #ffe5ec;
+  color: #000000;
 }

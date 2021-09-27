@@ -9,8 +9,6 @@ image: https://res.cloudinary.com/kagamiweb/image/upload/v1632587158/blog/window
 
 ![windows11](https://res.cloudinary.com/kagamiweb/image/upload/v1632587158/blog/windows11.jpg)
 
-▍รีวิว Windows 11 แบบรวบรัด
-
 :::note [TL;DR] ยาวไปไม่อ่าน
 Windows 10 ใช้โปรแกรมหรือเกมอะไรได้ Windows 11 ก็รองรับหมด ไม่มีปัญหาเรื่องความเข้ากันได้ (compatibility)
 

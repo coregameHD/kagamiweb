@@ -117,11 +117,19 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             title: 'Nihongo',
             items: [
               {
-                label: 'ไวยากรณ์ภาษาญี่ปุ่น N1-N3',
-                to: '/nihongo/grammar',
+                label: 'ไวยากรณ์ JLPT N1',
+                to: '/nihongo/grammar/n1',
               },
               {
-                label: 'เรียนภาษาญี่ปุ่น',
+                label: 'ไวยากรณ์ JLPT N2',
+                to: '/nihongo/grammar/n2',
+              },
+              {
+                label: 'ไวยากรณ์ JLPT N3',
+                to: '/nihongo/grammar/n3',
+              },
+              {
+                label: 'คำศัพท์ภาษาญี่ปุ่นรายวัน',
                 href: 'https://www.facebook.com/kagaminihongo',
               },
             ],
@@ -151,7 +159,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                 to: '/about',
               },
               {
-                label: 'รู้จักผู้เขียน',
+                label: 'เกี่ยวกับผู้เขียน',
                 to: '/blog/why-i-learn-japanese',
               },
               {
