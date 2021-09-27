@@ -48,7 +48,7 @@ function Feature({imageUrl, title, urllink, fblink, innerlink, description}) {
     <div className={clsx('col col--4')}>
       {imgUrl && (
         <div className="text--center">
-          <a href={urllink} target="_blank" rel="noopener noreferrer"><img className={styles.featureImage} src={imgUrl} alt={title} /></a>
+          <img className={styles.featureImage} src={imgUrl} alt={title} />
         </div>
       )}
       <div className="text--center padding-horiz--md">

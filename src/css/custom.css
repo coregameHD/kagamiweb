@@ -16,7 +16,7 @@
   --ifm-code-font-size: 95%;
   --ifm-color-white: #ffffff;
   --ifm-color-black: #444444;
-  --ifm-footer-background-color: #242526;
+  --ifm-footer-background-color: #161616;
 
   --ifm-color-white--frontpage: #f5f6f7;
 
@@ -41,7 +41,7 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 }
 
 html[data-theme='dark'] {
-  --ifm-background-color: #0D1116;
+  --ifm-background-color: #1c1c1c;
 }
 
 ::selection {
@@ -101,6 +101,10 @@ blockquote {
 
 .menu .menu__list .menu__list {
   border-left: 1px solid #eee;
+}
+
+.navbar[data-theme='dark'] {
+  background-color: #161616;
 }
 
 .navbar__title {
@@ -167,7 +171,7 @@ body {
 }
 
 .footer--dark {
-  --ifm-footer-background-color: #242526;
+  --ifm-footer-background-color: #161616;
 }
 
 .react-toggle {

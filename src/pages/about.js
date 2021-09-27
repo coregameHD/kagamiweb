@@ -133,7 +133,7 @@ function About() {
       >
         <header className={clsx("hero hero--primary", styles.heroBanner)}>
           <div className="container">
-            <p className="about__title">{siteConfig.title}</p>
+            <p className="about__title">Kagami</p>
             <p className="about__subtitle"><b>{siteConfig.tagline}</b></p>
           </div>
         </header>
