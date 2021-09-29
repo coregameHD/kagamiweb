@@ -59,6 +59,7 @@ module.exports = {
         'preview/sugarstyle',
         'preview/summerpockets',
         'preview/trinoline',
+        'preview/uena',
         'preview/yubisaki'
       ]
     },
