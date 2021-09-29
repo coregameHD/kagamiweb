@@ -19,7 +19,7 @@ slug: /
 
 ### 1. อัพเดตเนื้อหาทุกวัน
 
-![point1](https://res.cloudinary.com/kagamiweb/image/upload/v1632752514/mainpage/nihongo-point1.jpg)
+![point1](https://res.cloudinary.com/kagamiweb/image/upload/v1632924663/mainpage/nihongo-point1.jpg)
 
 ภาษาเป็นทักษะที่ต้องสะสมและเก็บเกี่ยวความรู้ไปเรื่อยๆ ไม่มีใครเก่งภาษาได้ในชั่วข้ามคืน
 
@@ -29,7 +29,7 @@ slug: /
 
 ### 2. เนื้อหาที่หลากหลาย ไม่ใช่แค่คำศัพท์
 
-![point2](https://res.cloudinary.com/kagamiweb/image/upload/v1632751712/mainpage/nihongo-point2.jpg)
+![point2](https://res.cloudinary.com/kagamiweb/image/upload/v1632924663/mainpage/nihongo-point2.jpg)
 
 นอกจากคำศัพท์ที่น่าสนใจประจำวัน ผมได้เตรียมเนื้อหาที่น่าสนใจอีกเพียบ ไม่ว่าจะเป็นไวยากรณ์ สำนวน-สุภาษิต คำประสมสี่ตัวอักษร เกร็ดความรู้ และบทความพิเศษสุด Exclusive ที่หาอ่านได้ยาก
 
@@ -44,7 +44,7 @@ slug: /
 
 ### 3. คำศัพท์เฉพาะทางที่ไม่ได้พบในชีวิตประจำวัน
 
-![point3](https://res.cloudinary.com/kagamiweb/image/upload/v1632751827/mainpage/nihongo-point3.jpg)
+![point3](https://res.cloudinary.com/kagamiweb/image/upload/v1632924663/mainpage/nihongo-point3.jpg)
 
 อนิเมะและเกมยุคหลังมีการสอดแทรกความรู้ ได้ทั้งสาระและความบันเทิงในเวลาเดียวกัน
 
@@ -54,7 +54,7 @@ slug: /
 
 ### 4. ทบทวนข้อสอบ JLPT ของจริงย้อนหลัง 10 ปี
 
-![point3](https://res.cloudinary.com/kagamiweb/image/upload/v1632752522/mainpage/nihongo-point4.jpg)
+![point4](https://res.cloudinary.com/kagamiweb/image/upload/v1632924663/mainpage/nihongo-point4.jpg)
 
 อย่างที่กล่าวไป คำศัพท์ในเพจนี้ไม่ได้เลือกมามั่วๆ แต่อ้างอิงจากข้อสอบ JLPT ของจริงย้อนหลัง 10 ปี อีกทั้งคาดเดาคำศัพท์ที่มีแนวโน้มจะออกสอบในอนาคต
 
