@@ -8,7 +8,7 @@ slug: /
 # รู้จักกับเพจ Kagami Translation
 
 :::caution
-หน้าเว็บที่ท่านกำลังรับชมอยู่ระหว่างการปรับปรุง ขออภัยในความไม่สะดวก
+หน้าเว็บที่ท่านกำลังรับชมนี้อยู่ระหว่างการปรับปรุง ขออภัยในความไม่สะดวก
 :::
 
 ![cover](https://scontent.fbkk12-2.fna.fbcdn.net/v/t1.6435-9/240901458_4512001478839387_4684224502318004267_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=e3f864&_nc_ohc=MTNqnqmmjXoAX-5lo1V&tn=DAv3iZ4Fygg15L1M&_nc_ht=scontent.fbkk12-2.fna&oh=275566b648e3886cd5339f65761eae2b&oe=616BDE38)

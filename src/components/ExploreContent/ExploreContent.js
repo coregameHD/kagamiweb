@@ -8,7 +8,7 @@ const firstDataRow = [
   {
     title: "วิชวลโนเวลคืออะไร",
     icon: "img/get_started-icon.png",
-    link: "/visualnovel/preview",
+    link: "/visualnovel/what-is-visualnovel",
     description: (
       <>
         มาทำความรู้จักกับเกมวิชวลโนเวลกันเถอะ
@@ -26,12 +26,12 @@ const firstDataRow = [
     ),
   },
   {
-    title: "ข่าวสารเกมวิชวลโนเวล",
+    title: "บทความแปล",
     icon: "img/extend-icon.png",
-    link: "https://www.facebook.com/kagamitranslation",
+    link: "/visualnovel/aokana-short-story/mashiro-ajisai",
     description: (
       <>
-        อัพเดตข่าวสารวงการวิชวลโนเวลและเอโรเกะ
+        แปลเรื่องสั้นและบทความที่น่าสนใจเกี่ยวกับเกมวิชวลโนเวล
       </>
     ),
   },
@@ -54,7 +54,7 @@ const secondDataRow = [
     link: "/blog",
     description: (
       <>
-        บล็อกรีวิว บอกเล่าความรู้สึกเกี่ยวกับเกมวิชวลโนเวล อนิเมะ และเรื่องจิปาถะอื่นๆ
+        บล็อกส่วนตัว บอกเล่าความรู้สึกเกี่ยวกับเกมวิชวลโนเวล อนิเมะ และเรื่องจิปาถะอื่นๆ
       </>
     ),
   },

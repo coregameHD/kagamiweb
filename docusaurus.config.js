@@ -97,7 +97,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             items: [
               {
                 label: 'วิชวลโนเวลคืออะไร',
-                to: '/visualnovel/preview',
+                to: '/visualnovel/what-is-visualnovel',
               },
               {
                 label: 'แนะนำเกมวิชวลโนเวล',

@@ -1,6 +1,15 @@
 module.exports = {
   visualnovelSidebar: [
-    'visualnovel', 
+    'visualnovel',
+    {
+      type: 'category', 
+      label: 'รู้จักกับ Visual Novel', 
+      collapsed: false, 
+      items: [
+        'what-is-visualnovel',
+        'terminology',
+      ]
+    }, 
     {
       type: 'category', 
       label: 'แนะนำเกม Visual Novel', 
