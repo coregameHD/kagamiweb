@@ -27,6 +27,6 @@
 .features {
   display: flex;
   align-items: center;
-  padding: 2rem 8rem;
+  padding: 2rem 0rem;
   width: 100%;
 }
