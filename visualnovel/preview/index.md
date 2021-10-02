@@ -4,7 +4,7 @@ title: 'สารบัญ'
 slug: /preview
 ---
 
-# [สารบัญ] แนะนำเกม Visualnovel
+# [สารบัญ] แนะนำเกม Visual Novel
 
 :::info
 ติดตามข่าวสารเกี่ยวกับเกมวิชวลโนเวลและเอโรเกะได้ที่เพจเฟซบุ๊ค [Kagami Translation](https://facebook.com/kagamitranslation)
