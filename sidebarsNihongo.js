@@ -18,6 +18,7 @@ module.exports = {
             'grammar/n1/temae',
             'grammar/n1/to-omoikiya',
             'grammar/n1/towaie',
+            'grammar/n1/nagara-no',
             'grammar/n1/ni-itaru-made',
             'grammar/n1/niwa-nari',
             'grammar/n1/meku',

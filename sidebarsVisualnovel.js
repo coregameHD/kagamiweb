@@ -9,7 +9,7 @@ module.exports = {
         'what-is-visualnovel',
         'terminology',
       ]
-    }, 
+    },
     {
       type: 'category', 
       label: 'แนะนำเกม Visual Novel', 

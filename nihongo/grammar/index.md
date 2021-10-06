@@ -46,6 +46,7 @@ slug: /grammar
 * [〜と思いきや](grammar/n1/to-omoikiya) `N1`
 
 ## な
+* [〜ながらの](grammar/n1/nagara-no) `N1`
 * [〜など・〜なんて](grammar/n3/nado-nante) `N3`
 * [〜に至るまで](grammar/n1/ni-itaru-made) `N1`
 * [〜において](grammar/n3/ni-oite) `N3`

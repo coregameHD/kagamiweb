@@ -21,6 +21,7 @@ slug: /grammar/n1
 * [〜とはいえ](n1/towaie)
 
 ## な
+* [〜ながらの](n1/nagara-no)
 * [〜に至るまで](n1/ni-itaru-made)
 * [〜には…なり](n1/niwa-nari)
 
