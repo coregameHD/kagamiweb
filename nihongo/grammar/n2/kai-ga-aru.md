@@ -6,7 +6,7 @@ image: https://res.cloudinary.com/kagamiweb/image/upload/v1631950415/nihongo/gra
 tags: [n2]
 ---
 
-![kai ga aru](https://res.cloudinary.com/kagamiweb/image/upload/v1631627507/nihongo/grammar/n2/kai-ga-aru.png)
+![kai ga aru](https://res.cloudinary.com/kagamiweb/image/upload/v1633531016/nihongo/grammar/n2/kai-ga-aru.png)
 
 ## รายละเอียด {#details}
 

@@ -6,7 +6,7 @@ image: https://res.cloudinary.com/kagamiweb/image/upload/v1631950739/nihongo/gra
 tags: [n3]
 ---
 
-![gachi](https://res.cloudinary.com/kagamiweb/image/upload/v1631720714/nihongo/grammar/n3/gachi.png)
+![gachi](https://res.cloudinary.com/kagamiweb/image/upload/v1633531459/nihongo/grammar/n3/gachi.jpg)
 
 ## รายละเอียด {#details}
 

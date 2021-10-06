@@ -2,7 +2,7 @@
 id: 'beki'
 title: '[ไวยากรณ์ N3] 〜べき・〜べきだ'
 sidebar_label: '〜べき・〜べきだ'
-image: https://res.cloudinary.com/kagamiweb/image/upload/v1631950740/nihongo/grammar/n3/reibun/beki.png
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1633531770/nihongo/grammar/n3/reibun/beki.jpg
 tags: [n3]
 ---
 
@@ -32,7 +32,7 @@ tags: [n3]
 
 :::tip 例文 - ประโยคตัวอย่าง
 
-![reibun](https://res.cloudinary.com/kagamiweb/image/upload/v1631950740/nihongo/grammar/n3/reibun/beki.png)
+![reibun](https://res.cloudinary.com/kagamiweb/image/upload/v1633531770/nihongo/grammar/n3/reibun/beki.jpg)
 
 「時間は有限なの。私達は迷わず前に進むべきなのよ！」  
 "เวลา(ของคนเรา)มีขีดจำกัด ฉะนั้นพวกเราควรก้าวต่อไปข้างหน้าโดยไม่ลังเลไงล่ะ!"

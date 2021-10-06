@@ -2,7 +2,7 @@
 id: 'okage-de'
 title: '[ไวยากรณ์ N3] 〜おかげで'
 sidebar_label: '〜おかげで'
-image: https://res.cloudinary.com/kagamiweb/image/upload/v1631950740/nihongo/grammar/n3/reibun/okage-de.png
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1633531770/nihongo/grammar/n3/reibun/okage-de.jpg
 tags: [n3]
 ---
 
@@ -29,7 +29,7 @@ tags: [n3]
 
 :::tip 例文 - ประโยคตัวอย่าง
 
-![reibun](https://res.cloudinary.com/kagamiweb/image/upload/v1631950740/nihongo/grammar/n3/reibun/okage-de.png)
+![reibun](https://res.cloudinary.com/kagamiweb/image/upload/v1633531770/nihongo/grammar/n3/reibun/okage-de.jpg)
 
 「はい。皆さんのおかげで、  
 私はテストに合格することができました」  

@@ -2,11 +2,11 @@
 id: 'ni-oite'
 title: '[ไวยากรณ์ N3] 〜において'
 sidebar_label: '〜において'
-image: https://res.cloudinary.com/kagamiweb/image/upload/v1631950748/nihongo/grammar/n3/reibun/ni-oite.png
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1633531770/nihongo/grammar/n3/reibun/ni-oite.jpg
 tags: [n3]
 ---
 
-![ni oite](https://res.cloudinary.com/kagamiweb/image/upload/v1631720714/nihongo/grammar/n3/ni-oite.png)
+![ni oite](https://res.cloudinary.com/kagamiweb/image/upload/v1633531310/nihongo/grammar/n3/ni-oite.png)
 
 ## รายละเอียด {#details}
 
@@ -39,7 +39,7 @@ tags: [n3]
 
 :::tip 例文 - ประโยคตัวอย่าง
 
-![reibun](https://res.cloudinary.com/kagamiweb/image/upload/v1631950748/nihongo/grammar/n3/reibun/ni-oite.png)
+![reibun](https://res.cloudinary.com/kagamiweb/image/upload/v1633531770/nihongo/grammar/n3/reibun/ni-oite.jpg)
 
 静久「三谷くん……この現代社会において、常に裸というのはなかなか難しいことだと思うわ」  
 ชิซึกุ: "มิทานิคุง...... ฉันคิดว่าการเปลื้องผ้าตลอดเวลาเป็นเรื่องที่ค่อนข้างยากในสังคมโลกยุคปัจจุบันนะ"

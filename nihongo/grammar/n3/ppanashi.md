@@ -2,7 +2,7 @@
 id: 'ppanashi'
 title: '[ไวยากรณ์ N3] 〜っぱなし'
 sidebar_label: '〜っぱなし'
-image: https://res.cloudinary.com/kagamiweb/image/upload/v1631950740/nihongo/grammar/n3/reibun/ppanashi.png
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1633531582/nihongo/grammar/n3/reibun/ppanashi.png
 tags: [n3]
 ---
 
@@ -30,7 +30,7 @@ tags: [n3]
 
 :::tip 例文 - ประโยคตัวอย่าง
 
-![reibun](https://res.cloudinary.com/kagamiweb/image/upload/v1631950740/nihongo/grammar/n3/reibun/ppanashi.png)
+![reibun](https://res.cloudinary.com/kagamiweb/image/upload/v1633531582/nihongo/grammar/n3/reibun/ppanashi.png)
 
 希「一応、しばらく窓は開けっぱなしにしとこうか」  
 โนโซมิ: "อย่างน้อยก็เปิดหน้าต่างทิ้งไว้สักพักกันเถอะนะ"

@@ -2,11 +2,11 @@
 id: 'meku'
 title: '[ไวยากรณ์ N1] 〜めく'
 sidebar_label: '〜めく'
-image: https://res.cloudinary.com/kagamiweb/image/upload/v1631949867/nihongo/grammar/n1/reibun/meku.png
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1633530782/nihongo/grammar/n1/reibun/meku.png
 tags: [n1]
 ---
 
-![meku](https://res.cloudinary.com/kagamiweb/image/upload/v1631718084/nihongo/grammar/n1/meku.png)
+![meku](https://res.cloudinary.com/kagamiweb/image/upload/v1633530405/nihongo/grammar/n1/meku.jpg)
 
 ## รายละเอียด {#details}
 
@@ -37,7 +37,7 @@ tags: [n1]
 
 :::tip 例文 - ประโยคตัวอย่าง
 
-![reibun](https://res.cloudinary.com/kagamiweb/image/upload/v1631949867/nihongo/grammar/n1/reibun/meku.png)
+![reibun](https://res.cloudinary.com/kagamiweb/image/upload/v1633530782/nihongo/grammar/n1/reibun/meku.png)
 
 (บทบรรยาย)  
 今まで僕は眼中外だったのに、何だか嫉妬めいた視線を注がれるのを感じる。  

@@ -6,7 +6,7 @@ image: https://res.cloudinary.com/kagamiweb/image/upload/v1631950416/nihongo/gra
 tags: [n2]
 ---
 
-![ge](https://res.cloudinary.com/kagamiweb/image/upload/v1631627507/nihongo/grammar/n2/ge.png)
+![ge](https://res.cloudinary.com/kagamiweb/image/upload/v1633531016/nihongo/grammar/n2/ge.png)
 
 ## รายละเอียด {#details}
 

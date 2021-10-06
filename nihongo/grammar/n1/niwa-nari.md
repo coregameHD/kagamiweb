@@ -2,11 +2,11 @@
 id: 'niwa-nari'
 title: '[ไวยากรณ์ N1] 〜には…なり'
 sidebar_label: '〜には…なり'
-image: https://res.cloudinary.com/kagamiweb/image/upload/v1631949874/nihongo/grammar/n1/reibun/niwa-nari.png
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1633530782/nihongo/grammar/n1/reibun/niwa-nari.png
 tags: [n1]
 ---
 
-![niwa nari](https://res.cloudinary.com/kagamiweb/image/upload/v1631718085/nihongo/grammar/n1/niwa-nari.png)
+![niwa nari](https://res.cloudinary.com/kagamiweb/image/upload/v1633530405/nihongo/grammar/n1/niwa-nari.jpg)
 
 ## รายละเอียด {#details}
 
@@ -34,7 +34,7 @@ tags: [n1]
 
 :::tip 例文 - ประโยคตัวอย่าง
 
-![reibun](https://res.cloudinary.com/kagamiweb/image/upload/v1631949874/nihongo/grammar/n1/reibun/niwa-nari.png)
+![reibun](https://res.cloudinary.com/kagamiweb/image/upload/v1633530782/nihongo/grammar/n1/reibun/niwa-nari.png)
 
 ルナライト「構いませんよ。先輩は先輩なりの考えがあるでしょうし、どうやらわたしも焦りすぎていたかもしれません」  
 ลูน่าไลท์ "ไม่เป็นไรหรอก รุ่นพี่เองก็คงจะมีความคิดตามแบบของรุ่นพี่ บางทีฉันอาจจะใจร้อนเกินไปก็ได้"

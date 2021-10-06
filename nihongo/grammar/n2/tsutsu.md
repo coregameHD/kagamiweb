@@ -2,11 +2,11 @@
 id: 'tsutsu'
 title: '[ไวยากรณ์ N2] 〜つつ'
 sidebar_label: '〜つつ'
-image: https://res.cloudinary.com/kagamiweb/image/upload/v1631950417/nihongo/grammar/n2/reibun/tsutsu.png
+image: https://res.cloudinary.com/kagamiweb/image/upload/v1633531164/nihongo/grammar/n2/reibun/tsutsu.jpg
 tags: [n2]
 ---
 
-![tsutsu](https://res.cloudinary.com/kagamiweb/image/upload/v1631627508/nihongo/grammar/n2/tsutsu.png)
+![tsutsu](https://res.cloudinary.com/kagamiweb/image/upload/v1633531016/nihongo/grammar/n2/tsutsu.png)
 
 ## รายละเอียด {#details}
 
@@ -30,7 +30,7 @@ tags: [n2]
 
 :::tip 例文 - ประโยคตัวอย่าง
 
-![reibun](https://res.cloudinary.com/kagamiweb/image/upload/v1631950417/nihongo/grammar/n2/reibun/tsutsu.png)
+![reibun](https://res.cloudinary.com/kagamiweb/image/upload/v1633531164/nihongo/grammar/n2/reibun/tsutsu.jpg)
 
 「何気ない振りを装いつつ、テーブルの下からデジカメのSDカードを渡す。  
 "ผมยื่นเอสดีการ์ดของกล้องถ่ายรูปดิจิทัลไปให้เธอจากใต้โต๊ะ พร้อมๆ กับแสร้งวางท่าเฉยเมยทำเป็นไม่สนใจ"
