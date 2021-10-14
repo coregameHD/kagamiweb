@@ -46,6 +46,7 @@ module.exports = {
         'preview/marco',
         'preview/nekopara4',
         'preview/nekotuku',
+        'preview/sayou',
         'preview/oneroom-shion',
         'preview/oneroom-tsubaki',
         'preview/ikoi',
