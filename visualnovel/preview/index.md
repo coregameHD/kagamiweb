@@ -54,6 +54,7 @@ slug: /preview
 ## N
 * [Neko Para Vol.4 Neko to Patissier no Noel](preview/nekopara4)
 * [Nekotsuku, Sakura.](preview/nekotuku)
+* [Ninki Seiyuu no Tsukurikata](preview/sayou)
 
 ## O
 * [Omoide Kakaete Ai ni Koi!!](preview/ikoi)
