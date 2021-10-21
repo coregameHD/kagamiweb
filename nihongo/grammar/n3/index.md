@@ -16,18 +16,18 @@ slug: /grammar/n3
 
 ## さ
 * [〜最中 (に)](n3/saichuu-ni)
-* [～ずに](n3/zu-ni)
-* [～せいで](n3/sei-de)
+* [〜ずに](n3/zu-ni)
+* [〜せいで](n3/sei-de)
 
 ## た
 * [〜たまえ](n3/tamae)
 * [〜っぱなし](n3/ppanashi)
-* [～てからは](n3/te-kara-wa)
+* [〜てからは](n3/te-kara-wa)
 
 ## な
 * [〜など・〜なんて](n3/nado-nante)
 * [〜において](n3/ni-oite)
-* [〜に比べて・に比べると](n3/ni-kurabete)
+* [〜に比べて・〜に比べると](n3/ni-kurabete)
 
 ## は
 * [〜べき・〜べきだ](n3/beki)

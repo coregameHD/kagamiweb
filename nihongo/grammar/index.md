@@ -30,8 +30,8 @@ slug: /grammar
 ## さ
 * [〜最中 (に)](grammar/n3/saichuu-ni) `N3`
 * [〜ざるを得ない](grammar/n2/zaru-wo-enai) `N2`
-* [～ずに](grammar/n3/zu-ni) `N3`
-* [～せいで](grammar/n3/sei-de) `N3`
+* [〜ずに](grammar/n3/zu-ni) `N3`
+* [〜せいで](grammar/n3/sei-de) `N3`
 
 ## た
 * [〜たまえ](grammar/n3/tamae) `N3`
@@ -40,7 +40,7 @@ slug: /grammar
 * [〜っぽい](grammar/n2/ppoi) `N2`
 * [〜つつ](grammar/n2/tsutsu) `N2`
 * [〜つつある](grammar/n2/tsutsu-aru) `N2`
-* [～てからは](grammar/n3/te-kara-wa) `N3`
+* [〜てからは](grammar/n3/te-kara-wa) `N3`
 * [〜手前](grammar/n1/temae) `N1`
 * [〜とはいえ](grammar/n1/towaie) `N1`
 * [〜と思いきや](grammar/n1/to-omoikiya) `N1`
@@ -51,7 +51,7 @@ slug: /grammar
 * [〜に至るまで](grammar/n1/ni-itaru-made) `N1`
 * [〜において](grammar/n3/ni-oite) `N3`
 * [〜に関わらず](grammar/n2/ni-kakawarazu) `N2`
-* [〜に比べて・に比べると](grammar/n3/ni-kurabete) `N3`
+* [〜に比べて・〜に比べると](grammar/n3/ni-kurabete) `N3`
 * [〜には…なり](grammar/n1/niwa-nari) `N1`
 * [〜のみならず](grammar/n2/nominarazu) `N2`
 
