@@ -12,6 +12,7 @@ slug: /grammar/n3
 
 ## か
 * [〜がち](n3/gachi)
+* [〜からこそ](n3/kara-koso)
 * [〜くせに](n3/kuse-ni)
 
 ## さ

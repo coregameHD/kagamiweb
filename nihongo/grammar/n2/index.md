@@ -13,6 +13,7 @@ slug: /grammar/n2
 * [〜限り・〜限りでは](n2/kagiri-dewa)
 * [〜かねる](n2/kaneru)
 * [〜げ](n2/ge)
+* [〜からといって](n2/kara-to-itte)
 
 ## さ
 * [〜ざるを得ない](n2/zaru-wo-enai)

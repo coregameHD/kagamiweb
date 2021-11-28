@@ -24,6 +24,8 @@ slug: /grammar
 * [〜かねる](grammar/n2/kaneru) `N2`
 * [〜がち](grammar/n3/gachi) `N3`
 * [〜かの如く](grammar/n1/ka-no-gotoku) `N1`
+* [〜からこそ](grammar/n3/kara-koso) `N3`
+* [〜からといって](grammar/n2/kara-to-itte) `N2`
 * [〜くせに](grammar/n3/kuse-ni) `N3`
 * [〜げ](grammar/n2/ge) `N2`
 
