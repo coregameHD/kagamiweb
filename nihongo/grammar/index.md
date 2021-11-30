@@ -36,12 +36,14 @@ slug: /grammar
 * [〜せいで](grammar/n3/sei-de) `N3`
 
 ## た
+* [～だけでなく](grammar/n3/dake-de-naku) `N3`
 * [〜たまえ](grammar/n3/tamae) `N3`
 * [〜たりとも〜ない](grammar/n1/taritomo-nai) `N1`
 * [〜っぱなし](grammar/n3/ppanashi) `N3`
 * [〜っぽい](grammar/n2/ppoi) `N2`
 * [〜つつ](grammar/n2/tsutsu) `N2`
 * [〜つつある](grammar/n2/tsutsu-aru) `N2`
+* [〜であれ](grammar/n1/de-are) `N1`
 * [〜てからは](grammar/n3/te-kara-wa) `N3`
 * [〜手前](grammar/n1/temae) `N1`
 * [〜とはいえ](grammar/n1/towaie) `N1`
@@ -54,6 +56,7 @@ slug: /grammar
 * [〜において](grammar/n3/ni-oite) `N3`
 * [〜に関わらず](grammar/n2/ni-kakawarazu) `N2`
 * [〜に比べて・〜に比べると](grammar/n3/ni-kurabete) `N3`
+* [〜にすぎない](grammar/n2/ni-suginai) `N2`
 * [〜には…なり](grammar/n1/niwa-nari) `N1`
 * [〜のみならず](grammar/n2/nominarazu) `N2`
 

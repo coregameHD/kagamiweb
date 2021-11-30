@@ -21,6 +21,7 @@ slug: /grammar/n3
 * [〜せいで](n3/sei-de)
 
 ## た
+* [～だけでなく](n3/dake-de-naku)
 * [〜たまえ](n3/tamae)
 * [〜っぱなし](n3/ppanashi)
 * [〜てからは](n3/te-kara-wa)

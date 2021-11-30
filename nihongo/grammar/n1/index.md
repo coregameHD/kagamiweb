@@ -16,6 +16,7 @@ slug: /grammar/n1
 
 ## た
 * [〜たりとも〜ない](n1/taritomo-nai)
+* [〜であれ](n1/de-are)
 * [〜手前](n1/temae)
 * [〜と思いきや](n1/to-omoikiya)
 * [〜とはいえ](n1/towaie)

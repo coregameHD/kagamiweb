@@ -25,6 +25,7 @@ slug: /grammar/n2
 
 ## な
 * [〜に関わらず](n2/ni-kakawarazu)
+* [〜にすぎない](n2/ni-suginai)
 * [〜のみならず](n2/nominarazu)
 
 ## は
