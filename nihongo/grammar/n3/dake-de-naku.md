@@ -6,7 +6,7 @@ image: https://res.cloudinary.com/kagamiweb/image/upload/v1638283180/nihongo/gra
 tags: [n3]
 ---
 
-![dake-de-naku](https://res.cloudinary.com/kagamiweb/image/upload/v1638283159/nihongo/grammar/n3/dake-de-naku.jpg)
+![dake-de-naku](https://res.cloudinary.com/kagamiweb/image/upload/v1639316255/nihongo/grammar/n3/dake-de-naku.png)
 
 ## รายละเอียด {#details}
 
@@ -18,8 +18,8 @@ tags: [n3]
 
 {คำกริยารูปธรรมดา} + だけでなく  
 {คำคุณศัพท์ い} + だけでなく  
-{คำคุณศัพท์ な} + なだけでなく  
-{คำนาม} + のだけでなく  
+{คำคุณศัพท์ な} + だけでなく  
+{คำนาม} (+ である) + だけでなく  
 
 ※ ภาษาพูดคือ ～だけじゃなく
 
