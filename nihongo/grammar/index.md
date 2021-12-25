@@ -46,6 +46,7 @@ slug: /grammar
 * [〜であれ](grammar/n1/de-are) `N1`
 * [〜てからは](grammar/n3/te-kara-wa) `N3`
 * [〜手前](grammar/n1/temae) `N1`
+* [〜とは](grammar/n1/towa) `N1`
 * [〜とはいえ](grammar/n1/towaie) `N1`
 * [〜と思いきや](grammar/n1/to-omoikiya) `N1`
 

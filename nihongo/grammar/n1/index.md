@@ -19,6 +19,7 @@ slug: /grammar/n1
 * [〜であれ](n1/de-are)
 * [〜手前](n1/temae)
 * [〜と思いきや](n1/to-omoikiya)
+* [〜とは](n1/towa)
 * [〜とはいえ](n1/towaie)
 
 ## な

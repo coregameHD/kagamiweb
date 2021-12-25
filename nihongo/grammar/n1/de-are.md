@@ -46,4 +46,5 @@ Shion: "watakushi wa dare de are, shinario de makeru tsumori wa arimasen deshita
 ---
 :::note Source - Kagami Nihongo
 ภาพจากเกม Sousaku Kanojo no Ren'ai Koushiki (創作彼女の恋愛公式)  
+https://www.facebook.com/kagaminihongo/posts/456271889173778
 :::
