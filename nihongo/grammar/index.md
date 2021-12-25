@@ -53,6 +53,7 @@ slug: /grammar
 ## な
 * [〜ながらの](grammar/n1/nagara-no) `N1`
 * [〜など・〜なんて](grammar/n3/nado-nante) `N3`
+* [〜なり](grammar/n1/nari) `N1`
 * [〜に至るまで](grammar/n1/ni-itaru-made) `N1`
 * [〜において](grammar/n3/ni-oite) `N3`
 * [〜に関わらず](grammar/n2/ni-kakawarazu) `N2`
