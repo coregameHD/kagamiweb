@@ -6,7 +6,7 @@ image: https://res.cloudinary.com/kagamiweb/image/upload/v1633530782/nihongo/gra
 tags: [n1]
 ---
 
-![meku](https://res.cloudinary.com/kagamiweb/image/upload/v1633530405/nihongo/grammar/n1/meku.jpg)
+![meku](https://res.cloudinary.com/kagamiweb/image/upload/v1640445359/nihongo/grammar/n1/meku.jpg)
 
 ## รายละเอียด {#details}
 

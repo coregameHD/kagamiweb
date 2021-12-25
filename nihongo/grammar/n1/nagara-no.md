@@ -6,7 +6,7 @@ image: https://res.cloudinary.com/kagamiweb/image/upload/v1633529997/nihongo/gra
 tags: [n1]
 ---
 
-![nagara no](https://res.cloudinary.com/kagamiweb/image/upload/v1633529665/nihongo/grammar/n1/nagara-no.jpg)
+![nagara no](https://res.cloudinary.com/kagamiweb/image/upload/v1640445359/nihongo/grammar/n1/nagara-no.jpg)
 
 ## รายละเอียด {#details}
 

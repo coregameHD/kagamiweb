@@ -6,7 +6,7 @@ image: https://res.cloudinary.com/kagamiweb/image/upload/v1638105152/nihongo/gra
 tags: [n2]
 ---
 
-![kara-to-itte](https://res.cloudinary.com/kagamiweb/image/upload/v1638105104/nihongo/grammar/n2/kara-to-itte.jpg)
+![kara-to-itte](https://res.cloudinary.com/kagamiweb/image/upload/v1640445088/nihongo/grammar/n2/kara-to-itte.jpg)
 
 ## รายละเอียด {#details}
 

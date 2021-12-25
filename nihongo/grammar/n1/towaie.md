@@ -6,7 +6,7 @@ image: https://res.cloudinary.com/kagamiweb/image/upload/v1631949867/nihongo/gra
 tags: [n1]
 ---
 
-![towaie](https://res.cloudinary.com/kagamiweb/image/upload/v1631718085/nihongo/grammar/n1/towaie.png)
+![towaie](https://res.cloudinary.com/kagamiweb/image/upload/v1640445362/nihongo/grammar/n1/towaie.jpg)
 
 ## รายละเอียด {#details}
 

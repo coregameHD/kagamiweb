@@ -6,7 +6,7 @@ image: https://res.cloudinary.com/kagamiweb/image/upload/v1631949866/nihongo/gra
 tags: [n1]
 ---
 
-![taritomo nai](https://res.cloudinary.com/kagamiweb/image/upload/v1631718085/nihongo/grammar/n1/taritomo-nai.png)
+![taritomo nai](https://res.cloudinary.com/kagamiweb/image/upload/v1640445360/nihongo/grammar/n1/taritomo-nai.jpg)
 
 ## รายละเอียด {#details}
 

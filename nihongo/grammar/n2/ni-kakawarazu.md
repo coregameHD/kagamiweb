@@ -6,7 +6,7 @@ image: https://res.cloudinary.com/kagamiweb/image/upload/v1631950415/nihongo/gra
 tags: [n2]
 ---
 
-![ni kakawarazu](https://res.cloudinary.com/kagamiweb/image/upload/v1631627506/nihongo/grammar/n2/ni-kakawarazu.png)
+![ni kakawarazu](https://res.cloudinary.com/kagamiweb/image/upload/v1640445089/nihongo/grammar/n2/ni-kakawarazu.jpg)
 
 ## รายละเอียด {#details}
 

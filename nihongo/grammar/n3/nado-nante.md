@@ -6,7 +6,7 @@ image: https://res.cloudinary.com/kagamiweb/image/upload/v1631950739/nihongo/gra
 tags: [n3]
 ---
 
-![nado nante](https://res.cloudinary.com/kagamiweb/image/upload/v1633531309/nihongo/grammar/n3/nado-nante.png)
+![nado nante](https://res.cloudinary.com/kagamiweb/image/upload/v1640444596/nihongo/grammar/n3/nado-nante.jpg)
 
 ## รายละเอียด {#details}
 

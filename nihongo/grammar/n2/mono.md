@@ -6,7 +6,7 @@ image: https://res.cloudinary.com/kagamiweb/image/upload/v1631950415/nihongo/gra
 tags: [n2]
 ---
 
-![mono](https://res.cloudinary.com/kagamiweb/image/upload/v1631627506/nihongo/grammar/n2/mono.png)
+![mono](https://res.cloudinary.com/kagamiweb/image/upload/v1640445088/nihongo/grammar/n2/mono.jpg)
 
 ## รายละเอียด {#details}
 

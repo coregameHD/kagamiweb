@@ -6,7 +6,7 @@ image: https://res.cloudinary.com/kagamiweb/image/upload/v1631949866/nihongo/gra
 tags: [n1]
 ---
 
-![ni itaru made](https://res.cloudinary.com/kagamiweb/image/upload/v1631718084/nihongo/grammar/n1/ni-itaru-made.png)
+![ni itaru made](https://res.cloudinary.com/kagamiweb/image/upload/v1640445360/nihongo/grammar/n1/ni-itaru-made.jpg)
 
 ## รายละเอียด {#details}
 

@@ -6,7 +6,7 @@ image: https://res.cloudinary.com/kagamiweb/image/upload/v1631949866/nihongo/gra
 tags: [n1]
 ---
 
-![n bakari ni](https://res.cloudinary.com/kagamiweb/image/upload/v1631718084/nihongo/grammar/n1/n-bakari-ni.png)
+![n bakari ni](https://res.cloudinary.com/kagamiweb/image/upload/v1640445359/nihongo/grammar/n1/n-bakari-ni.jpg)
 
 ## รายละเอียด {#details}
 

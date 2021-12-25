@@ -6,7 +6,7 @@ image: https://res.cloudinary.com/kagamiweb/image/upload/v1631950416/nihongo/gra
 tags: [n2]
 ---
 
-![nominarazu](https://res.cloudinary.com/kagamiweb/image/upload/v1633531016/nihongo/grammar/n2/nominarazu.png)
+![nominarazu](https://res.cloudinary.com/kagamiweb/image/upload/v1640445090/nihongo/grammar/n2/nominarazu.jpg)
 
 ## รายละเอียด {#details}
 

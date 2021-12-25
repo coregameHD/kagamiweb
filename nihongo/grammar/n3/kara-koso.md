@@ -6,7 +6,7 @@ image: https://res.cloudinary.com/kagamiweb/image/upload/v1638105477/nihongo/gra
 tags: [n3]
 ---
 
-![kara-koso](https://res.cloudinary.com/kagamiweb/image/upload/v1638105468/nihongo/grammar/n3/kara-koso.jpg)
+![kara-koso](https://res.cloudinary.com/kagamiweb/image/upload/v1640444592/nihongo/grammar/n3/kara-koso.jpg)
 
 ## รายละเอียด {#details}
 

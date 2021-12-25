@@ -6,7 +6,7 @@ image: https://res.cloudinary.com/kagamiweb/image/upload/v1631950741/nihongo/gra
 tags: [n3]
 ---
 
-![tamae](https://res.cloudinary.com/kagamiweb/image/upload/v1631720712/nihongo/grammar/n3/tamae.png)
+![tamae](https://res.cloudinary.com/kagamiweb/image/upload/v1640444593/nihongo/grammar/n3/tamae.jpg)
 
 ## รายละเอียด {#details}
 

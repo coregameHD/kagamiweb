@@ -6,7 +6,7 @@ image: https://res.cloudinary.com/kagamiweb/image/upload/v1633531164/nihongo/gra
 tags: [n2]
 ---
 
-![tsutsu](https://res.cloudinary.com/kagamiweb/image/upload/v1633531016/nihongo/grammar/n2/tsutsu.png)
+![tsutsu](https://res.cloudinary.com/kagamiweb/image/upload/v1640445089/nihongo/grammar/n2/tsutsu.jpg)
 
 ## รายละเอียด {#details}
 

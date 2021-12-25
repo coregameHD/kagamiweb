@@ -6,7 +6,7 @@ image: https://res.cloudinary.com/kagamiweb/image/upload/v1631950739/nihongo/gra
 tags: [n3]
 ---
 
-![uchi ni](https://res.cloudinary.com/kagamiweb/image/upload/v1631720712/nihongo/grammar/n3/ni-kurabete.png)
+![uchi ni](https://res.cloudinary.com/kagamiweb/image/upload/v1640444591/nihongo/grammar/n3/ni-kurabete.jpg)
 
 ## รายละเอียด {#details}
 

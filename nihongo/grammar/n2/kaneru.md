@@ -6,7 +6,7 @@ image: https://res.cloudinary.com/kagamiweb/image/upload/v1631950416/nihongo/gra
 tags: [n2]
 ---
 
-![kaneru](https://res.cloudinary.com/kagamiweb/image/upload/v1631627506/nihongo/grammar/n2/kaneru.png)
+![kaneru](https://res.cloudinary.com/kagamiweb/image/upload/v1640445088/nihongo/grammar/n2/kaneru.jpg)
 
 ## รายละเอียด {#details}
 

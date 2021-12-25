@@ -6,7 +6,7 @@ image: https://res.cloudinary.com/kagamiweb/image/upload/v1631950416/nihongo/gra
 tags: [n2]
 ---
 
-![zaru wo enai](https://res.cloudinary.com/kagamiweb/image/upload/v1631627507/nihongo/grammar/n2/zaru-wo-enai.png)
+![zaru wo enai](https://res.cloudinary.com/kagamiweb/image/upload/v1640445090/nihongo/grammar/n2/zaru-wo-enai.jpg)
 
 ## รายละเอียด {#details}
 

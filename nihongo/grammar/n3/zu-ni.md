@@ -6,7 +6,7 @@ image: https://res.cloudinary.com/kagamiweb/image/upload/v1631950740/nihongo/gra
 tags: [n3]
 ---
 
-![zu ni](https://res.cloudinary.com/kagamiweb/image/upload/v1633531309/nihongo/grammar/n3/zuni.png)
+![zu ni](https://res.cloudinary.com/kagamiweb/image/upload/v1640444594/nihongo/grammar/n3/zuni.jpg)
 
 ## รายละเอียด {#details}
 

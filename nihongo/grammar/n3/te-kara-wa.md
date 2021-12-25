@@ -6,7 +6,7 @@ image: https://res.cloudinary.com/kagamiweb/image/upload/v1631950739/nihongo/gra
 tags: [n3]
 ---
 
-![te kara wa](https://res.cloudinary.com/kagamiweb/image/upload/v1631720713/nihongo/grammar/n3/te-kara-wa.png)
+![te kara wa](https://res.cloudinary.com/kagamiweb/image/upload/v1640444592/nihongo/grammar/n3/te-kara-wa.jpg)
 
 ## รายละเอียด {#details}
 

@@ -6,7 +6,7 @@ image: https://res.cloudinary.com/kagamiweb/image/upload/v1631950417/nihongo/gra
 tags: [n2]
 ---
 
-![yara yara](https://res.cloudinary.com/kagamiweb/image/upload/v1631627507/nihongo/grammar/n2/yara-yara.png)
+![yara yara](https://res.cloudinary.com/kagamiweb/image/upload/v1640445090/nihongo/grammar/n2/yara-yara.jpg)
 
 ## รายละเอียด {#details}
 

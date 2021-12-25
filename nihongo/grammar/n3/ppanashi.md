@@ -6,7 +6,7 @@ image: https://res.cloudinary.com/kagamiweb/image/upload/v1633531582/nihongo/gra
 tags: [n3]
 ---
 
-![ppanashi](https://res.cloudinary.com/kagamiweb/image/upload/v1631720713/nihongo/grammar/n3/ppanashi.png)
+![ppanashi](https://res.cloudinary.com/kagamiweb/image/upload/v1640444591/nihongo/grammar/n3/ppanashi.jpg)
 
 ## รายละเอียด {#details}
 

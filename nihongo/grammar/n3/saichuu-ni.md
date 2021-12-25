@@ -6,7 +6,7 @@ image: https://res.cloudinary.com/kagamiweb/image/upload/v1631950740/nihongo/gra
 tags: [n3]
 ---
 
-![saichuu ni](https://res.cloudinary.com/kagamiweb/image/upload/v1631720712/nihongo/grammar/n3/saichuu-ni.png)
+![saichuu ni](https://res.cloudinary.com/kagamiweb/image/upload/v1640444592/nihongo/grammar/n3/saichuu-ni.jpg)
 
 ## รายละเอียด {#details}
 

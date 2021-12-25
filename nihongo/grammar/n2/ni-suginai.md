@@ -6,7 +6,7 @@ image: https://res.cloudinary.com/kagamiweb/image/upload/v1638282996/nihongo/gra
 tags: [n2]
 ---
 
-![ni-suginai](https://res.cloudinary.com/kagamiweb/image/upload/v1638282933/nihongo/grammar/n2/ni-suginai.jpg)
+![ni-suginai](https://res.cloudinary.com/kagamiweb/image/upload/v1640445089/nihongo/grammar/n2/ni-suginai.jpg)
 
 ## รายละเอียด {#details}
 

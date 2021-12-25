@@ -6,7 +6,7 @@ image: https://res.cloudinary.com/kagamiweb/image/upload/v1633530900/nihongo/gra
 tags: [n1]
 ---
 
-![ka ina ka](https://res.cloudinary.com/kagamiweb/image/upload/v1633530405/nihongo/grammar/n1/ka-ina-ka.jpg)
+![ka ina ka](https://res.cloudinary.com/kagamiweb/image/upload/v1640445359/nihongo/grammar/n1/ka-ina-ka.jpg)
 
 ## รายละเอียด {#details}
 

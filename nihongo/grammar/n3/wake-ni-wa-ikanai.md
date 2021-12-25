@@ -6,7 +6,7 @@ image: https://res.cloudinary.com/kagamiweb/image/upload/v1631950740/nihongo/gra
 tags: [n3]
 ---
 
-![wake ni wa ikanai](https://res.cloudinary.com/kagamiweb/image/upload/v1633531309/nihongo/grammar/n3/wake-ni-wa-ikanai.png)
+![wake ni wa ikanai](https://res.cloudinary.com/kagamiweb/image/upload/v1640444593/nihongo/grammar/n3/wake-ni-wa-ikanai.jpg)
 
 ## รายละเอียด {#details}
 

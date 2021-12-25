@@ -6,7 +6,7 @@ image: https://res.cloudinary.com/kagamiweb/image/upload/v1631950415/nihongo/gra
 tags: [n2]
 ---
 
-![ppoi](https://res.cloudinary.com/kagamiweb/image/upload/v1631627506/nihongo/grammar/n2/ppoi.png)
+![ppoi](https://res.cloudinary.com/kagamiweb/image/upload/v1640445089/nihongo/grammar/n2/ppoi.jpg)
 
 ## รายละเอียด {#details}
 

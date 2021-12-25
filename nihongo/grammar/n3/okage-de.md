@@ -6,7 +6,7 @@ image: https://res.cloudinary.com/kagamiweb/image/upload/v1633531770/nihongo/gra
 tags: [n3]
 ---
 
-![okage de](https://res.cloudinary.com/kagamiweb/image/upload/v1631720712/nihongo/grammar/n3/okage-de.png)
+![okage de](https://res.cloudinary.com/kagamiweb/image/upload/v1640444592/nihongo/grammar/n3/okage-de.jpg)
 
 ## รายละเอียด {#details}
 

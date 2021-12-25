@@ -6,7 +6,7 @@ image: https://res.cloudinary.com/kagamiweb/image/upload/v1638283180/nihongo/gra
 tags: [n3]
 ---
 
-![dake-de-naku](https://res.cloudinary.com/kagamiweb/image/upload/v1639316255/nihongo/grammar/n3/dake-de-naku.png)
+![dake-de-naku](https://res.cloudinary.com/kagamiweb/image/upload/v1640444591/nihongo/grammar/n3/dake-de-naku.jpg)
 
 ## รายละเอียด {#details}
 

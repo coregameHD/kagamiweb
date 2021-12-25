@@ -6,7 +6,7 @@ image: https://res.cloudinary.com/kagamiweb/image/upload/v1631949867/nihongo/gra
 tags: [n1]
 ---
 
-![to omoikiya](https://res.cloudinary.com/kagamiweb/image/upload/v1631718085/nihongo/grammar/n1/to-omoikiya.png)
+![to omoikiya](https://res.cloudinary.com/kagamiweb/image/upload/v1640445360/nihongo/grammar/n1/to-omoikiya.jpg)
 
 ## รายละเอียด {#details}
 

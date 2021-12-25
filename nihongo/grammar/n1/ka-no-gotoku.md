@@ -6,7 +6,7 @@ image: https://res.cloudinary.com/kagamiweb/image/upload/v1631949866/nihongo/gra
 tags: [n1]
 ---
 
-![ka no gotoku](https://res.cloudinary.com/kagamiweb/image/upload/v1631718085/nihongo/grammar/n1/ka-no-gotoku.png)
+![ka no gotoku](https://res.cloudinary.com/kagamiweb/image/upload/v1640445359/nihongo/grammar/n1/ka-no-gotoku.jpg)
 
 ## รายละเอียด {#details}
 

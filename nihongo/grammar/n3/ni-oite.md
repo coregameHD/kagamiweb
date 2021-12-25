@@ -6,7 +6,7 @@ image: https://res.cloudinary.com/kagamiweb/image/upload/v1633531770/nihongo/gra
 tags: [n3]
 ---
 
-![ni oite](https://res.cloudinary.com/kagamiweb/image/upload/v1633531310/nihongo/grammar/n3/ni-oite.png)
+![ni oite](https://res.cloudinary.com/kagamiweb/image/upload/v1640444591/nihongo/grammar/n3/ni-oite.jpg)
 
 ## รายละเอียด {#details}
 

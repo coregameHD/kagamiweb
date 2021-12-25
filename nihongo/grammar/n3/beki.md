@@ -6,7 +6,7 @@ image: https://res.cloudinary.com/kagamiweb/image/upload/v1633531770/nihongo/gra
 tags: [n3]
 ---
 
-![beki](https://res.cloudinary.com/kagamiweb/image/upload/v1631720712/nihongo/grammar/n3/beki.png)
+![beki](https://res.cloudinary.com/kagamiweb/image/upload/v1640444590/nihongo/grammar/n3/beki.jpg)
 
 ## รายละเอียด {#details}
 
