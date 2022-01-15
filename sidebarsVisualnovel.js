@@ -26,12 +26,12 @@ module.exports = {
         'preview/summerpockets',
       ]
     },
+    'preview/index',
     {
       type: 'category', 
       label: 'พรีวิวเกม Visual Novel', 
       collapsed: true, 
       items: [
-        'preview/index',
         'preview/aibeya2',
         'preview/aikotoba',
         'preview/amachoco',
@@ -92,7 +92,7 @@ module.exports = {
   {
     type: 'category', 
     label: 'บทความ', 
-    collapsed: false, 
+    collapsed: true, 
     items: [{type: 'category', 
             label: 'เรื่องสั้น Aokana', 
             collapsed: false, 
