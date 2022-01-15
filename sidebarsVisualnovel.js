@@ -12,8 +12,24 @@ module.exports = {
     },
     {
       type: 'category', 
-      label: 'แนะนำเกม Visual Novel', 
+      label: 'แนะนำเกมสำหรับมือใหม่', 
       collapsed: false, 
+      items: [
+        'preview/aokana',
+        'preview/cafestella',
+        'preview/chronoclock',
+        'preview/cloverdays',
+        'preview/kinkoi',
+        'preview/makinglovers',
+        'preview/sanobawitch',
+        'preview/senrenbanka',
+        'preview/summerpockets',
+      ]
+    },
+    {
+      type: 'category', 
+      label: 'พรีวิวเกม Visual Novel', 
+      collapsed: true, 
       items: [
         'preview/index',
         'preview/aibeya2',

@@ -169,7 +169,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             ],
           },
         ],
-        copyright: `後悔している、すべての人へ。<br>
+        copyright: `二度と戻らない日々だから　やりすぎくらいで良いよね？<br>
         Copyright © ${new Date().getFullYear()} kagamiweb.com | 
         Built with <b style="color:#ff4081;">♥</b> by <b><a href="https://www.facebook.com/coregameHD">coregameHD</a></b>`,
       },
