@@ -55,11 +55,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         defaultMode: 'light',
         disableSwitch: false,
         respectPrefersColorScheme: true,
-        switchConfig: {
-          darkIcon: '🌙',
-          lightIcon: '☀️',
-          
-        },
       },
       navbar: {
         title: 'KagamiWeb.com',
