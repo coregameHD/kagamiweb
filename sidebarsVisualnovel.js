@@ -8,6 +8,7 @@ module.exports = {
       items: [
         'what-is-visualnovel',
         'terminology',
+        'discord-link'
       ]
     },
     {
