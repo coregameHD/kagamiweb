@@ -25,6 +25,7 @@ slug: /grammar/n1
 ## な
 * [〜ながらの](n1/nagara-no)
 * [〜なり](n1/nari)
+* [〜なりに](n1/nari-ni)
 * [〜に至るまで](n1/ni-itaru-made)
 * [〜には…なり](n1/niwa-nari)
 
