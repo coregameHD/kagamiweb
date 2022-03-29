@@ -6,7 +6,7 @@ image: https://res.cloudinary.com/kagamiweb/image/upload/v1648559425/nihongo/gra
 tags: [n1]
 ---
 
-![nari-ni](https://res.cloudinary.com/kagamiweb/image/upload/v1640445359/nihongo/grammar/n1/de-are.jpg)
+![nari-ni](https://res.cloudinary.com/kagamiweb/image/upload/v1640445359/nihongo/grammar/n1/nari-ni.jpg)
 
 ## รายละเอียด {#details}
 
