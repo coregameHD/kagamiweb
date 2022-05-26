@@ -5,10 +5,10 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Kagami Translation',
-    imageUrl: '/img/logo_kagamitranslation.jpeg',
-    urllink: 'https://facebook.com/kagamitranslation',
-    fblink: 'facebook.com/kagamitranslation',
+    title: 'Kagami Visual Novel',
+    imageUrl: '/img/logo_kagamivisualnovel.jpeg',
+    urllink: 'https://facebook.com/kagamivisualnovel',
+    fblink: 'facebook.com/kagamivisualnovel',
     innerlink: '/visualnovel',
     description: (
       <>
@@ -31,8 +31,8 @@ const FeatureList = [
   {
     title: 'Kagami Blog',
     imageUrl: '/img/logo_kagamiblog.jpeg',
-    urllink: 'https://facebook.com/kagamiblog',
-    fblink: 'facebook.com/kagamiblog',
+    urllink: 'https://kagamiweb.com/blog',
+    fblink: 'kagamiweb.com/blog',
     innerlink: '/blog',
     description: (
       <>
