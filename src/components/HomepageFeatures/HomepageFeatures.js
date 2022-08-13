@@ -6,7 +6,7 @@ import styles from './HomepageFeatures.module.css';
 const FeatureList = [
   {
     title: 'Kagami Visual Novel',
-    imageUrl: '/img/logo_kagamivisualnovel.jpeg',
+    imageUrl: '/img/logo_kagamivisualnovel.jpg',
     urllink: 'https://facebook.com/kagamivisualnovel',
     fblink: 'facebook.com/kagamivisualnovel',
     innerlink: '/visualnovel',
@@ -18,7 +18,7 @@ const FeatureList = [
   },
   {
     title: 'Kagami Nihongo',
-    imageUrl: '/img/logo_kagaminihongo.jpeg',
+    imageUrl: '/img/logo_kagaminihongo.jpg',
     urllink: 'https://facebook.com/kagaminihongo',
     fblink: 'facebook.com/kagaminihongo',
     innerlink: '/nihongo',
