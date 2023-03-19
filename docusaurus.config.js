@@ -56,6 +56,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         disableSwitch: false,
         respectPrefersColorScheme: false,
       },
+      announcementBar: {
+        id: 'announce',
+        content:
+        'ประกาศ: เว็บ kagamiweb.com จะยุติการให้บริการในวันที่ 16/05/2023',
+        backgroundColor: '#FF4081',
+        textColor: '#FFFFFF',
+        isCloseable: true,
+      },
       navbar: {
         title: 'KagamiWeb.com',
         logo: {
