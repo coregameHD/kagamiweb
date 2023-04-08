@@ -74,7 +74,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         items: [
           {to: '/visualnovel/preview', label: 'Visual Novel', position: 'left'},
           {to: '/nihongo/grammar', label: 'Nihongo', position: 'left'},
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {href: 'https://blog.coregamehd.com', label: 'Blog', position: 'left'},
           {to: '/about', label: 'About', position: 'left'},
           {
             label: 'Facebook',
@@ -82,8 +82,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             items: [
               {label: 'Kagami Translation', href: 'https://www.facebook.com/kagamitranslation'},
               {label: 'Kagami Nihongo', href: 'https://www.facebook.com/kagaminihongo'},
-              {label: 'Kagami Blog', href: 'https://www.facebook.com/kagamiblog'},
-              {label: 'VisualNovelDiscussionTH', href: 'https://www.facebook.com/groups/VisualNovelDiscussionTH'},
+              {label: 'VisualNovelDiscussion', href: 'https://www.facebook.com/groups/VisualNovelDiscussion'},
             ],
           },
           {
